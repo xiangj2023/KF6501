@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GB2312"?>
+<xmldata name="">
+<Graph EquipType = "6500" BmpFile="6533.bmp" DBFile = "KF6533.mdb" Title="KF6533电力变压器保护测控装置">
+<Switchs>
+<Item BIType="2" Negative="0" BIOnId="41" BIOffId="40" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="35" y="106"/>
+<Item BIType="2" Negative="0" BIOnId="36" BIOffId="35" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="35" y="37"/>
+</Switchs>
+<AIs>
+<Item AIType="2" AIId="2" DisType="1" Font="16" x="110" y="63"/>
+<Item AIType="2" AIId="1" DisType="1" Font="16" x="110" y="43"/>
+<Item AIType="2" AIId="0" DisType="1" Font="16" x="110" y="23"/>
+<Item AIType="2" AIId="4" DisType="1" Font="16" x="110" y="83"/>
+<Item AIType="2" AIId="5" DisType="1" Font="16" x="110" y="103"/>
+<Item AIType="2" AIId="6" DisType="1" Font="16" x="110" y="123"/>
+</AIs>
+</Graph>
+</xmldata>

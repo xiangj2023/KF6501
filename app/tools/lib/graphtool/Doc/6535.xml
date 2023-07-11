@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+<xmldata name="">
+<Graph EquipType = "6500" BmpFile="6535.bmp" DBFile = "KF6535.mdb" Title="Keycia Electric Co.,LTD">
+<Switchs>
+<Item BIType="2" Negative="0" BIOnId="36" BIOffId="35" BOCloseId="1" BOOpenId="0" BitmapType="1" x="71" y="103"/>
+<Item BIType="2" Negative="0" BIOnId="46" BIOffId="45" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="35" y="37"/>
+<Item BIType="2" Negative="0" BIOnId="41" BIOffId="40" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="35" y="103"/>
+</Switchs>
+<AIs>
+<Item AIType="2" AIId="0" DisType="1" Font="16" x="128" y="23"/>
+<Item AIType="2" AIId="1" DisType="1" Font="16" x="128" y="43"/>
+<Item AIType="2" AIId="2" DisType="1" Font="16" x="129" y="63"/>
+<Item AIType="2" AIId="3" DisType="1" Font="16" x="128" y="83"/>
+<Item AIType="2" AIId="4" DisType="1" Font="16" x="128" y="103"/>
+<Item AIType="2" AIId="5" DisType="1" Font="16" x="128" y="123"/>
+</AIs>
+</Graph>
+</xmldata>

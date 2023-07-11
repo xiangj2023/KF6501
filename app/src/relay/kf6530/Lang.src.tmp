@@ -1,0 +1,8 @@
+TEMPLATE	= app
+LANGUAGE	= C++
+SOURCES	+= 	D:\KF6500\app\src\relay\kf6530\src\hmi\Lcdfunction.cpp \ 
+	D:\KF6500\app\src\hmi\HmiClass\HmiApp.cpp \ 
+	D:\KF6500\app\src\relay\kf6530\src\hmi\LcdApp.cpp \ 
+	D:\KF6500\app\src\hmi\HmiClass\HmiDatalist.cpp \ 
+	D:\KF6500\app\src\hmi\HmiClass\HmiMsgBox.cpp
+TRANSLATIONS += D:\KF6500\app\src\relay\kf6530\Lang.src.ts

@@ -1,0 +1,226 @@
+;*********************************************************
+;*Name:	       三圈变压器保护逻辑    	*
+;*By:          yanzh					*
+;*Date:		   2010.6.13				*
+;*DATEBASEVER: E100						*
+;*CRC:									*
+;*CHANGE By:							*
+;*CHANGE Date:							*
+;
+;*********************************************************
+;*************保护跳闸定义部分*****************************************************************
+M64=TR87U_A+TR87U_B+TR87U_C+TR87R_A+TR87R_B+TR87R_C
+M63=TR50IH1+TR50IH2+TR50OL1+TR50OL2+TR50OL3+TR27U+TR59UN+TR50IN+TR50IJX
+M62=TR50IM1+TR50IM2
+M61=TR50IL1+TR50IL2
+TR1=M64+M63
+TR2=M62
+TR3=M61
+;REC=/TR1+/TR2+/TR3
+RTR[TR1]=!M64*!M63
+RTR[TR2]=!M62
+RTR[TR3]=!M61
+
+;*************系统出口定义部分***********************************************************
+;(X4位置)低压侧
+OUT3=TR1+TR3+TO15					;低压侧(X4位置)保护跳闸
+OUT2=OUT3						;启动继电器(X4位置)
+
+OUT5=RCE13*!69IN+TO16			;出口板(X4位置)断路器遥控分闸
+OUT6=RCE14*!69IN+TO17			;出口板(X4位置)断路器遥控合闸
+OUT4=RCP13+RCP14+OUT5+OUT6
+RCV13=IN43*!69IN
+RCV14=IN43*!69IN
+
+OUT8=RCE15*!69IN+TO18			;出口板(X4位置)遥控1分闸
+OUT9=RCE16*!69IN+TO19			;出口板(X4位置)遥控1合闸
+OUT7=RCP15+RCP16+OUT8+OUT9
+RCV15=IN44*!69IN
+RCV16=IN44*!69IN
+
+OUT11=RCE17*!69IN+TO20			;出口板(X4位置)遥控2分闸
+OUT12=RCE18*!69IN+TO21			;出口板(X4位置)遥控2合闸
+OUT10=RCP17+RCP18+OUT11+OUT12
+RCV17=IN45*!69IN
+RCV18=IN45*!69IN
+
+;OUT13=							;合闸闭锁(X4位置)
+;OUT14=							;分闸闭锁(X4位置)
+
+;(X5位置)中压侧
+OUT16=TR1+TR2+TO8					;中压侧(X5位置)保护跳闸
+OUT15=OUT16						;启动继电器(X5位置)
+
+OUT18=RCE7*!69IN+TO9			;出口板(X5位置)断路器遥控分闸
+OUT19=RCE8*!69IN+TO10			;出口板(X5位置)断路器遥控合闸
+OUT17=RCP7+RCP8+OUT18+OUT19
+RCV7=IN38*!69IN
+RCV2=IN38*!69IN
+
+OUT21=RCE9*!69IN+TO11			;出口板(X5位置)遥控1分闸
+OUT22=RCE10*!69IN+TO12			;出口板(X5位置)遥控1合闸
+OUT20=RCP9+RCP10+OUT21+OUT22
+RCV9=IN39*!69IN
+RCV10=IN39*!69IN
+
+OUT24=RCE11*!69IN+TO13			;出口板(X5位置)遥控2分闸
+OUT25=RCE12*!69IN+TO14			;出口板(X5位置)遥控2合闸
+OUT23=RCP11+RCP12+OUT24+OUT25
+RCV11=IN40*!69IN
+RCV12=IN40*!69IN
+
+;OUT26=							;合闸闭锁(X5位置)
+;OUT27=							;分闸闭锁(X5位置)
+
+;24V总闭锁(X4位置、X5位置)
+M60=OUT2+OUT3+OUT4+OUT5+OUT6+OUT7+OUT8+OUT9+OUT10+OUT11+OUT12+OUT13+OUT14
+M59=OUT15+OUT16+OUT17+OUT18+OUT19+OUT20+OUT21+OUT22+OUT23+OUT24+OUT25+OUT26+OUT27
+OUT1=M60+M59
+
+;(X6位置)高压侧
+OUT30=TR1+TO1					;高压侧(X6位置)保护跳闸
+OUT29=OUT30						;启动继电器(X6位置)
+
+OUT32=RCE1*!69IN+TO2			;出口板(X6位置)断路器遥控分闸
+OUT33=RCE2*!69IN+TO3			;出口板(X6位置)断路器遥控合闸
+OUT31=RCP1+RCP2+OUT32+OUT33
+RCV1=IN48*!69IN
+RCV2=IN48*!69IN
+
+OUT35=RCE3*!69IN+TO4			;出口板(X6位置)遥控1分闸
+OUT36=RCE4*!69IN+TO5			;出口板(X6位置)遥控1合闸
+OUT34=RCP3+RCP4+OUT35+OUT36
+RCV3=IN49*!69IN
+RCV4=IN49*!69IN
+
+OUT38=RCE5*!69IN+TO6			;出口板(X6位置)遥控2分闸
+OUT39=RCE6*!69IN+TO7			;出口板(X6位置)遥控2合闸
+OUT37=RCP5+RCP6+OUT38+OUT39
+RCV5=IN50*!69IN
+RCV6=IN50*!69IN
+
+;OUT40=							;合闸闭锁(X6位置)
+;OUT41=							;分闸闭锁(X6位置)
+
+;24V总闭锁(X6位置)
+M58=OUT29+OUT30+OUT31+OUT32+OUT33+OUT34+OUT35+OUT36+OUT37+OUT38+OUT39+OUT40+OUT41
+OUT28=M58
+
+M57=RCE20*!69IN+IN35			;信号复归
+RCV19=1
+RCV20=1
+
+;************遥信映射部分**********************************************************************
+52AH=IN37   ;高侧断路器合位
+52BH=IN36	;高侧断路器分位
+52AM=IN42	;中压侧断路器合位
+52BM=IN41	;中压侧断路器分位
+52AL=IN47	;低压侧断路器合位
+52BL=IN46	;低压侧断路器分位
+VIN1=AR87	;差流越限告警
+
+;*************装置面板的LED灯状态定义**********************************************************
+PW3[50]=MAINTLINK
+PW1[500]=!ET11ERR+!ET12ERR+!ET13ERR+!ET14ERR+!ET15ERR+!ET21ERR+!ET22ERR+!ET23ERR+!ET24ERR+!ET25ERR+!COM1ERR+!CAN1ERR+!CAN2ERR
+LED1G=PW1*!MAINTLINK
+LED1R=ET11ERR*ET12ERR*ET13ERR*ET14ERR*ET15ERR*ET21ERR*ET22ERR*ET23ERR*ET24ERR*ET25ERR*COM1ERR*CAN1ERR*CAN2ERR+PW3
+PW4[50]=52BFH
+LED2G=52BH*!52AH*!52BFH					;高压侧断路器分位
+LED2R=52AH*!52BH*!52BFH+PW4					;高压侧断路器合位
+PW5[50]=52BFM
+LED3G=52BM*!52AM*!52BFM					;低压侧断路器分位
+LED3R=52AM*!52BM*!52BFM+PW5					;低压侧断路器合位
+PW6[50]=52BFL
+LED4G=52BL*!52AL*!52BFL					;低压侧断路器分位
+LED4R=52AL*!52BL*!52BFL+PW6					;低压侧断路器合位
+PW2[50]=PICKUP    				;保护启动灯，以50ms的频率闪烁
+LED5R=PW2
+SIG1=M64
+LED6R=SIG1						;差动动作
+SIG2=M63
+LED7R=SIG2						;高压侧保护动作
+SIG3=M62
+LED8R=SIG3						;中压侧过流
+SIG4=M61
+LED9R=SIG4						;低压侧过流
+LED10R=IN28+IN29+IN30			;重瓦斯，压力释放，超温跳闸
+LED11R=IN31+IN32+IN33			;轻瓦斯，油位告警，温度告警
+LED12R=AR87+74VT				;差流越限，高压侧PT断线
+
+RS[SIG1]=/M57*!M64
+RS[SIG2]=/M57*!M63
+RS[SIG3]=/M57*!M62
+RS[SIG4]=/M57*!M61
+
+;*************本体保护动作相关部分**************************************************************8
+;作本体保护相关报告
+
+RSTART[0,ACTPICK]=/IN29		;作本体1重瓦斯报告
+RACTION[0,RTR_GAS]=/IN29
+REND[0]=/IN29
+RSTART[1,ACTPICK]=/IN30		;作本体1压力释放报告
+RACTION[1,RTR_YLSF]=/IN30
+REND[1]=/IN30
+RSTART[2,ACTPICK]=/IN31		;作本体1超温跳闸报告
+RACTION[2,RTR_23]=/IN31
+REND[2]=/IN31
+RALARM[R74_GAS]=/IN32 ;作本体1轻瓦斯报告
+RALARM[R74_OIL]=/IN33 ;作本体1油位异常报告
+RALARM[R74_23]=/IN34 ;作本体1温度过高报告
+
+
+;**************保护继电器字定义*****************************************************
+LKPI87U_A=0
+LKRST87U_A=1
+LKPI87U_B=0
+LKRST87U_B=1
+LKPI87U_C=0
+LKRST87U_C=1
+LKPI87R_A=0
+LKRST87R_A=1
+LKPI87R_B=0
+LKRST87R_B=1
+LKPI87R_C=0
+LKRST87R_C=1
+LKPI50IH1=0
+LKRST50IH1=1
+LKPI50IH2=0
+LKRST50IH2=1
+LKPI50IM1=0
+LKRST50IM1=1
+LKPI50IM2=0
+LKRST50IM2=1
+LKPI50IL1=0
+LKRST50IL1=1
+LKPI50IL2=0
+LKRST50IL2=1
+LKPI50OL1=0
+LKRST50OL1=1
+LKPI50OL2=0
+LKRST50OL2=1
+LKPI50OL3=0
+LKRST50OL3=1
+LKPI27U=52BH+!52AH
+LKRST27U=52AH+50HA+50HB+50HC
+LKPI59UN=0
+LKRST59UN=1
+LKPI50IN=0
+LKRST50IN=1
+LKPI50IJX=0
+LKRST50IJX=1
+
+;**********************高侧跳闸失败判断***************************
+T52BFH=/TR1*!T52BFH
+RT[T52BFH]=T52BFH*37HA*37HB*37HC		;保证在T52BF计返回延时的过程中一直有流(若曾经无流，表示跳闸已经成功)，否则复归T52BF
+52BFH=\T52BFH*(!37HA+!37HB+!37HC+52AH)
+RH[52BFH]=37HA*37HB*37HC+M57*!TR1 ;无流复归或者手动遥控复归
+;**********************中侧跳闸失败判断***************************
+T52BFM=(/TR1+/TR2)*!T52BFM
+RT[T52BFM]=T52BFM*37MA*37MB*37MC		;保证在T52BF计返回延时的过程中一直有流(若曾经无流，表示跳闸已经成功)，否则复归T52BF
+52BFM=\T52BFM*(!37MA+!37MB+!37MC+52AM)
+RH[52BFM]=37MA*37MB*37MC+M57*!TR1*!TR2
+;**********************低侧跳闸失败判断***************************
+T52BFL=(/TR1+/TR3)*!T52BFL
+RT[T52BFL]=T52BFL*37LA*37LB*37LC		;保证在T52BF计返回延时的过程中一直有流(若曾经无流，表示跳闸已经成功)，否则复归T52BF
+52BFL=\T52BFL*(!37LA+!37LB+!37LC+52AL)
+RH[52BFL]=37LA*37LB*37LC+M57*!TR1*!TR3

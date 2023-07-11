@@ -1,0 +1,6147 @@
+<?xml version="1.0" encoding="GB2312"?><!DOCTYPE TS><TS LangCaption="Untitled" DBVersion="65821361">
+<context>
+<name>TSET_Disp</name>
+<message>
+<source>配置字</source>
+<translation type="finished">Function</translation>
+</message>
+<message>
+<source>U1有压</source>
+<translation type="finished">U1 Present Level</translation>
+</message>
+<message>
+<source>U1无压</source>
+<translation type="finished">U1 Disregard Level</translation>
+</message>
+<message>
+<source>U2有压</source>
+<translation type="finished">U2 Present Level</translation>
+</message>
+<message>
+<source>U2无压</source>
+<translation type="finished">U2 Disregard Level</translation>
+</message>
+<message>
+<source>U3有压</source>
+<translation type="finished">U3 Present Level</translation>
+</message>
+<message>
+<source>U3无压</source>
+<translation type="finished">U3 Disregard Level</translation>
+</message>
+<message>
+<source>U4有压</source>
+<translation type="finished">U4 Present Level</translation>
+</message>
+<message>
+<source>U4无压</source>
+<translation type="finished">U4 Disregard Level</translation>
+</message>
+<message>
+<source>U5有压</source>
+<translation type="finished">U5 Present Level</translation>
+</message>
+<message>
+<source>U5无压</source>
+<translation type="finished">U5 Disregard Level</translation>
+</message>
+<message>
+<source>U6有压</source>
+<translation type="finished">U6 Present Level</translation>
+</message>
+<message>
+<source>U6无压</source>
+<translation type="finished">U6 Disregard Level</translation>
+</message>
+<message>
+<source>U7有压</source>
+<translation type="finished">U7 Present Level</translation>
+</message>
+<message>
+<source>U7无压</source>
+<translation type="finished">U7 Disregard Level</translation>
+</message>
+<message>
+<source>U8有压</source>
+<translation type="finished">U8 Present Level</translation>
+</message>
+<message>
+<source>U8无压</source>
+<translation type="finished">U8 Disregard Level</translation>
+</message>
+<message>
+<source>I1有流</source>
+<translation type="finished">I1 Present Level</translation>
+</message>
+<message>
+<source>I1无流</source>
+<translation type="finished">I1 Disregard Level</translation>
+</message>
+<message>
+<source>I2有流</source>
+<translation type="finished">I2 Present Level</translation>
+</message>
+<message>
+<source>I2无流</source>
+<translation type="finished">I2 Disregard Level</translation>
+</message>
+<message>
+<source>I3有流</source>
+<translation type="finished">I3 Present Level</translation>
+</message>
+<message>
+<source>I3无流</source>
+<translation type="finished">I3 Disregard Level</translation>
+</message>
+<message>
+<source>I4有流</source>
+<translation type="finished">I4 Present Level</translation>
+</message>
+<message>
+<source>I4无流</source>
+<translation type="finished">I4 Disregard Level</translation>
+</message>
+<message>
+<source>I5有流</source>
+<translation type="finished">I5 Present Level</translation>
+</message>
+<message>
+<source>I5无流</source>
+<translation type="finished">I5 Disregard Level</translation>
+</message>
+<message>
+<source>I6有流</source>
+<translation type="finished">I6 Present Level</translation>
+</message>
+<message>
+<source>I6无流</source>
+<translation type="finished">I6 Disregard Level</translation>
+</message>
+<message>
+<source>I7有流</source>
+<translation type="finished">I7 Present Level</translation>
+</message>
+<message>
+<source>I7无流</source>
+<translation type="finished">I7 Disregard Level</translation>
+</message>
+<message>
+<source>I8有流</source>
+<translation type="finished">I8 Present Level</translation>
+</message>
+<message>
+<source>I8无流</source>
+<translation type="finished">I8 Disregard Level</translation>
+</message>
+<message>
+<source>T1启动延时</source>
+<translation type="finished">T1 Pickup Delay</translation>
+</message>
+<message>
+<source>T1返回延时</source>
+<translation type="finished">T1 Reset Delay</translation>
+</message>
+<message>
+<source>T2启动延时</source>
+<translation type="finished">T2 Pickup Delay</translation>
+</message>
+<message>
+<source>T2返回延时</source>
+<translation type="finished">T2 Reset Delay</translation>
+</message>
+<message>
+<source>T3启动延时</source>
+<translation type="finished">T3 Pickup Delay</translation>
+</message>
+<message>
+<source>T3返回延时</source>
+<translation type="finished">T3 Reset Delay</translation>
+</message>
+<message>
+<source>T4启动延时</source>
+<translation type="finished">T4 Pickup Delay</translation>
+</message>
+<message>
+<source>T4返回延时</source>
+<translation type="finished">T4 Reset Delay</translation>
+</message>
+<message>
+<source>T5启动延时</source>
+<translation type="finished">T5 Pickup Delay</translation>
+</message>
+<message>
+<source>T5返回延时</source>
+<translation type="finished">T5 Reset Delay</translation>
+</message>
+<message>
+<source>T6启动延时</source>
+<translation type="finished">T6 Pickup Delay</translation>
+</message>
+<message>
+<source>T6返回延时</source>
+<translation type="finished">T6 Reset Delay</translation>
+</message>
+<message>
+<source>T7启动延时</source>
+<translation type="finished">T7 Pickup Delay</translation>
+</message>
+<message>
+<source>T7返回延时</source>
+<translation type="finished">T7 Reset Delay</translation>
+</message>
+<message>
+<source>T8启动延时</source>
+<translation type="finished">T8 Pickup Delay</translation>
+</message>
+<message>
+<source>T8返回延时</source>
+<translation type="finished">T8 Reset Delay</translation>
+</message>
+<message>
+<source>T9启动延时</source>
+<translation type="finished">T9 Pickup Delay</translation>
+</message>
+<message>
+<source>T9返回延时</source>
+<translation type="finished">T9 Reset Delay</translation>
+</message>
+<message>
+<source>T10启动延时</source>
+<translation type="finished">T10 Pickup Delay</translation>
+</message>
+<message>
+<source>T10返回延时</source>
+<translation type="finished">T10 Reset Delay</translation>
+</message>
+<message>
+<source>T11启动延时</source>
+<translation type="finished">T11 Pickup Delay</translation>
+</message>
+<message>
+<source>T11返回延时</source>
+<translation type="finished">T11 Reset Delay</translation>
+</message>
+<message>
+<source>T12启动延时</source>
+<translation type="finished">T12 Pickup Delay</translation>
+</message>
+<message>
+<source>T12返回延时</source>
+<translation type="finished">T12 Reset Delay</translation>
+</message>
+<message>
+<source>T13启动延时</source>
+<translation type="finished">T13 Pickup Delay</translation>
+</message>
+<message>
+<source>T13返回延时</source>
+<translation type="finished">T13 Reset Delay</translation>
+</message>
+<message>
+<source>T14启动延时</source>
+<translation type="finished">T14 Pickup Delay</translation>
+</message>
+<message>
+<source>T14返回延时</source>
+<translation type="finished">T14 Reset Delay</translation>
+</message>
+<message>
+<source>T15启动延时</source>
+<translation type="finished">T15 Pickup Delay</translation>
+</message>
+<message>
+<source>T15返回延时</source>
+<translation type="finished">T15 Reset Delay</translation>
+</message>
+<message>
+<source>T16启动延时</source>
+<translation type="finished">T16 Pickup Delay</translation>
+</message>
+<message>
+<source>T16返回延时</source>
+<translation type="finished">T16 Reset Delay</translation>
+</message>
+<message>
+<source>T17启动延时</source>
+<translation type="finished">T17 Pickup Delay</translation>
+</message>
+<message>
+<source>T17返回延时</source>
+<translation type="finished">T17 Reset Delay</translation>
+</message>
+<message>
+<source>T18启动延时</source>
+<translation type="finished">T18 Pickup Delay</translation>
+</message>
+<message>
+<source>T18返回延时</source>
+<translation type="finished">T18 Reset Delay</translation>
+</message>
+<message>
+<source>T19启动延时</source>
+<translation type="finished">T19 Pickup Delay</translation>
+</message>
+<message>
+<source>T19返回延时</source>
+<translation type="finished">T19 Reset Delay</translation>
+</message>
+<message>
+<source>T20启动延时</source>
+<translation type="finished">T20 Pickup Delay</translation>
+</message>
+<message>
+<source>T20返回延时</source>
+<translation type="finished">T20 Reset Delay</translation>
+</message>
+<message>
+<source>T21启动延时</source>
+<translation type="finished">T21 Pickup Delay</translation>
+</message>
+<message>
+<source>T21返回延时</source>
+<translation type="finished">T21 Reset Delay</translation>
+</message>
+<message>
+<source>T22启动延时</source>
+<translation type="finished">T22 Pickup Delay</translation>
+</message>
+<message>
+<source>T22返回延时</source>
+<translation type="finished">T22 Reset Delay</translation>
+</message>
+<message>
+<source>T23启动延时</source>
+<translation type="finished">T23 Pickup Delay</translation>
+</message>
+<message>
+<source>T23返回延时</source>
+<translation type="finished">T23 Reset Delay</translation>
+</message>
+<message>
+<source>T24启动延时</source>
+<translation type="finished">T24 Pickup Delay</translation>
+</message>
+<message>
+<source>T24返回延时</source>
+<translation type="finished">T24 Reset Delay</translation>
+</message>
+<message>
+<source>T25启动延时</source>
+<translation type="finished">T25 Pickup Delay</translation>
+</message>
+<message>
+<source>T25返回延时</source>
+<translation type="finished">T25 Reset Delay</translation>
+</message>
+<message>
+<source>T26启动延时</source>
+<translation type="finished">T26 Pickup Delay</translation>
+</message>
+<message>
+<source>T26返回延时</source>
+<translation type="finished">T26 Reset Delay</translation>
+</message>
+<message>
+<source>T27启动延时</source>
+<translation type="finished">T27 Pickup Delay</translation>
+</message>
+<message>
+<source>T27返回延时</source>
+<translation type="finished">T27 Reset Delay</translation>
+</message>
+<message>
+<source>T28启动延时</source>
+<translation type="finished">T28 Pickup Delay</translation>
+</message>
+<message>
+<source>T28返回延时</source>
+<translation type="finished">T28 Reset Delay</translation>
+</message>
+<message>
+<source>T29启动延时</source>
+<translation type="finished">T29 Pickup Delay</translation>
+</message>
+<message>
+<source>T29返回延时</source>
+<translation type="finished">T29 Reset Delay</translation>
+</message>
+<message>
+<source>T30启动延时</source>
+<translation type="finished">T30 Pickup Delay</translation>
+</message>
+<message>
+<source>T30返回延时</source>
+<translation type="finished">T30 Reset Delay</translation>
+</message>
+<message>
+<source>T31启动延时</source>
+<translation type="finished">T31 Pickup Delay</translation>
+</message>
+<message>
+<source>T31返回延时</source>
+<translation type="finished">T31 Reset Delay</translation>
+</message>
+<message>
+<source>T32启动延时</source>
+<translation type="finished">T32 Pickup Delay</translation>
+</message>
+<message>
+<source>T32返回延时</source>
+<translation type="finished">T32 Reset Delay</translation>
+</message>
+<message>
+<source>断路器动作时间</source>
+<translation type="finished">CB Breaking Max T</translation>
+</message>
+<message>
+<source>电动隔开动作时间</source>
+<translation type="finished">SW Switching Max T</translation>
+</message>
+<message>
+<source>自投重投入等待时间</source>
+<translation type="unfinished">F83 Auto-reset Delay</translation>
+</message>
+<message>
+<source>备自投充电时间</source>
+<translation type="unfinished">F83 Be Ready Delay</translation>
+</message>
+</context>
+<context>
+<name>TSysSET_Disp</name>
+<message>
+<source>额定电流</source>
+<translation type="finished">Rate Current</translation>
+</message>
+<message>
+<source>TR1保持时间</source>
+<translation type="finished">TR1 Pulse Duration</translation>
+</message>
+<message>
+<source>TR2保持时间</source>
+<translation type="finished">TR2 Pulse Duration</translation>
+</message>
+<message>
+<source>故障录波触发时间</source>
+<translation type="finished">Dist. Trigger Time</translation>
+</message>
+<message>
+<source>PT1变比</source>
+<translation type="finished">VT1 Ratio</translation>
+</message>
+<message>
+<source>PT2变比</source>
+<translation type="finished">VT2 Ratio</translation>
+</message>
+<message>
+<source>PT3变比</source>
+<translation type="finished">VT3 Ratio</translation>
+</message>
+<message>
+<source>PT4变比</source>
+<translation type="finished">VT4 Ratio</translation>
+</message>
+<message>
+<source>PT5变比</source>
+<translation type="finished">VT5 Ratio</translation>
+</message>
+<message>
+<source>PT6变比</source>
+<translation type="finished">VT6 Ratio</translation>
+</message>
+<message>
+<source>PT7变比</source>
+<translation type="finished">VT7 Ratio</translation>
+</message>
+<message>
+<source>PT8变比</source>
+<translation type="finished">VT8 Ratio</translation>
+</message>
+<message>
+<source>CT1变比</source>
+<translation type="finished">CT1 Ratio</translation>
+</message>
+<message>
+<source>CT2变比</source>
+<translation type="finished">CT2 Ratio</translation>
+</message>
+<message>
+<source>CT3变比</source>
+<translation type="finished">CT3 Ratio</translation>
+</message>
+<message>
+<source>CT4变比</source>
+<translation type="finished">CT4 Ratio</translation>
+</message>
+<message>
+<source>CT5变比</source>
+<translation type="finished">CT5 Ratio</translation>
+</message>
+<message>
+<source>CT6变比</source>
+<translation type="finished">CT6 Ratio</translation>
+</message>
+<message>
+<source>CT7变比</source>
+<translation type="finished">CT7 Ratio</translation>
+</message>
+<message>
+<source>CT8变比</source>
+<translation type="finished">CT8 Ratio</translation>
+</message>
+<message>
+<source>RT1</source>
+<translation type="finished">RT1</translation>
+</message>
+</context>
+<context>
+<name>TRE_Disp</name>
+<message wInf="8">
+<source>RAM定值出错</source>
+<translation type="finished">RAM Setting Error</translation>
+</message>
+<message wInf="13">
+<source>装置异常复位</source>
+<translation type="finished">Device Abnormal Reset</translation>
+</message>
+<message wInf="14">
+<source>通信通道异常</source>
+<translation type="finished">Communication Abnormal</translation>
+</message>
+<message wInf="16">
+<source>NVRAM内容出错</source>
+<translation type="finished">NVRAM Data Error</translation>
+</message>
+<message wInf="11">
+<source>程序ROM故障</source>
+<translation type="finished">ROM Failure</translation>
+</message>
+<message wInf="5">
+<source>EEPROM定值出错</source>
+<translation type="finished">EEPROM Setting Error</translation>
+</message>
+<message wInf="3">
+<source>AD故障</source>
+<translation type="finished">AD Failure</translation>
+</message>
+<message wInf="2">
+<source>开出光隔击穿</source>
+<translation type="finished">Bo Broken</translation>
+</message>
+<message wInf="1">
+<source>开出光隔失效</source>
+<translation type="finished">Bo Failure</translation>
+</message>
+<message wInf="4">
+<source>软压板故障</source>
+<translation type="finished">Soft-link Error</translation>
+</message>
+<message wInf="17">
+<source>逻辑方程故障</source>
+<translation type="finished">Logic Para Error</translation>
+</message>
+<message wInf="500">
+<source>保护启动</source>
+<translation type="finished">Pickup</translation>
+</message>
+<message wInf="19">
+<source>通道测试</source>
+<translation type="finished">Communication Test</translation>
+</message>
+<message wInf="18">
+<source>保护自检错误</source>
+<translation type="finished">Self-check Error</translation>
+</message>
+<message wInf="1500">
+<source>备自投启动</source>
+<translation type="unfinished">Funtion 83 Pickup</translation>
+</message>
+<message wInf="1501">
+<source>1#变故障启动自投</source>
+<translation type="unfinished">F83 Pickup by Transf.1</translation>
+</message>
+<message wInf="1502">
+<source>2#变故障启动自投</source>
+<translation type="unfinished">F83 Pickup by Transf.2</translation>
+</message>
+<message wInf="1503">
+<source>1#进线失压启动自投</source>
+<translation type="unfinished">F83 Pickup by Line1</translation>
+</message>
+<message wInf="1504">
+<source>2#进线失压启动自投</source>
+<translation type="unfinished">F83 Pickup by Line2</translation>
+</message>
+<message wInf="1505">
+<source>1#进线失压且1#变故障</source>
+<translation type="unfinished">Line1&amp;Transf.1 Abnormal</translation>
+</message>
+<message wInf="1506">
+<source>1#进线失压且2#变故障</source>
+<translation type="unfinished">Line1&amp;Transf.2 Abnormal</translation>
+</message>
+<message wInf="1507">
+<source>2#进线失压且2#变故障</source>
+<translation type="unfinished">Line2&amp;Transf.2 Abnormal</translation>
+</message>
+<message wInf="1508">
+<source>2#进线失压且1#变故障</source>
+<translation type="unfinished">Line2&amp;Transf.1 Abnormal</translation>
+</message>
+<message wInf="1509">
+<source>备投退出</source>
+<translation type="unfinished">Funtion 83 Switch OFF</translation>
+</message>
+<message wInf="1510">
+<source>1#变故障</source>
+<translation type="unfinished">Transformer 1 Abnormal</translation>
+</message>
+<message wInf="1511">
+<source>2#变故障</source>
+<translation type="unfinished">Transformer 2 Abnormal</translation>
+</message>
+<message wInf="1512">
+<source>1#进线失压</source>
+<translation type="unfinished">Line 1 Voltage Dead</translation>
+</message>
+<message wInf="1513">
+<source>2#进线失压</source>
+<translation type="unfinished">Line 2 Voltage Dead</translation>
+</message>
+<message wInf="1514">
+<source>备自投成功</source>
+<translation type="unfinished">F83 Transfer Sucessful</translation>
+</message>
+<message wInf="1515">
+<source>备自投失败 </source>
+<translation type="unfinished">F83 Transfer Failed</translation>
+</message>
+<message wInf="1516">
+<source>PT1断线</source>
+<translation type="unfinished">VT1 Broken Wire</translation>
+</message>
+<message wInf="1517">
+<source>PT2断线</source>
+<translation type="unfinished">VT2 Broken Wire</translation>
+</message>
+<message wInf="1518">
+<source>PT3断线</source>
+<translation type="unfinished">VT3 Broken Wire</translation>
+</message>
+<message wInf="1519">
+<source>PT4断线</source>
+<translation type="unfinished">VT4 Broken Wire</translation>
+</message>
+<message wInf="1520">
+<source>装置被闭锁</source>
+<translation type="unfinished">Function 83 Blocked</translation>
+</message>
+<message wInf="1521">
+<source>闭锁被清除</source>
+<translation type="unfinished">Function 83 Unlock</translation>
+</message>
+<message wInf="1538">
+<source>1#进线低压保护动作</source>
+<translation type="unfinished">Relay 27 of Line 1 Trip</translation>
+</message>
+<message wInf="1539">
+<source>2#进线低压保护动作</source>
+<translation type="unfinished">Relay 27 of Line 2 Trip</translation>
+</message>
+<message wInf="1540">
+<source>跳1断路器</source>
+<translation type="unfinished">CB1 Tripping</translation>
+</message>
+<message wInf="1541">
+<source>合1断路器</source>
+<translation type="unfinished">CB1 Closing</translation>
+</message>
+<message wInf="1542">
+<source>跳1断路器失败</source>
+<translation type="unfinished">Failure CB1 TR</translation>
+</message>
+<message wInf="1543">
+<source>合1断路器失败</source>
+<translation type="unfinished">Failure CB1 CL</translation>
+</message>
+<message wInf="1544">
+<source>跳2断路器</source>
+<translation type="unfinished">CB2 Tripping</translation>
+</message>
+<message wInf="1545">
+<source>合2断路器</source>
+<translation type="unfinished">CB2 Closing</translation>
+</message>
+<message wInf="1546">
+<source>跳2断路器失败</source>
+<translation type="unfinished">Failure CB2 TR</translation>
+</message>
+<message wInf="1547">
+<source>合2断路器失败</source>
+<translation type="unfinished">Failure CB2 CL</translation>
+</message>
+<message wInf="1548">
+<source>跳3断路器</source>
+<translation type="unfinished">CB3 Tripping</translation>
+</message>
+<message wInf="1549">
+<source>合3断路器</source>
+<translation type="unfinished">CB3 Closing</translation>
+</message>
+<message wInf="1550">
+<source>跳3断路器失败</source>
+<translation type="unfinished">Failure CB3 TR</translation>
+</message>
+<message wInf="1551">
+<source>合3断路器失败</source>
+<translation type="unfinished">Failure CB3 CL</translation>
+</message>
+<message wInf="1552">
+<source>分4断路器</source>
+<translation type="unfinished">CB4 Tripping</translation>
+</message>
+<message wInf="1553">
+<source>合4断路器</source>
+<translation type="unfinished">CB4 Closing</translation>
+</message>
+<message wInf="1554">
+<source>分4断路器失败</source>
+<translation type="unfinished">Failure CB4 TR</translation>
+</message>
+<message wInf="1555">
+<source>合4断路器失败</source>
+<translation type="unfinished">Failure CB4 CL</translation>
+</message>
+<message wInf="1556">
+<source>分5断路器</source>
+<translation type="unfinished">CB5 Tripping</translation>
+</message>
+<message wInf="1557">
+<source>合5断路器</source>
+<translation type="unfinished">CB5 Closing</translation>
+</message>
+<message wInf="1558">
+<source>分5断路器失败</source>
+<translation type="unfinished">Failure CB5 TR</translation>
+</message>
+<message wInf="1559">
+<source>合5断路器失败</source>
+<translation type="unfinished">Failure CB5 CL</translation>
+</message>
+<message wInf="1560">
+<source>分6断路器</source>
+<translation type="unfinished">CB6 Tripping</translation>
+</message>
+<message wInf="1561">
+<source>合6断路器</source>
+<translation type="unfinished">CB6 Closing</translation>
+</message>
+<message wInf="1562">
+<source>分6断路器失败</source>
+<translation type="unfinished">Failure CB6 TR</translation>
+</message>
+<message wInf="1563">
+<source>合6断路器失败</source>
+<translation type="unfinished">Failure CB6 CL</translation>
+</message>
+<message wInf="1564">
+<source>分7断路器</source>
+<translation type="unfinished">CB7 Tripping</translation>
+</message>
+<message wInf="1565">
+<source>合7断路器</source>
+<translation type="unfinished">CB7 Closing</translation>
+</message>
+<message wInf="1566">
+<source>分7断路器失败</source>
+<translation type="unfinished">Failure CB7 TR</translation>
+</message>
+<message wInf="1567">
+<source>合7断路器失败</source>
+<translation type="unfinished">Failure CB7 CL</translation>
+</message>
+<message wInf="1568">
+<source>分8断路器</source>
+<translation type="unfinished">CB8 Tripping</translation>
+</message>
+<message wInf="1569">
+<source>合8断路器</source>
+<translation type="unfinished">CB8 Closing</translation>
+</message>
+<message wInf="1570">
+<source>分8断路器失败</source>
+<translation type="unfinished">Failure CB8 TR</translation>
+</message>
+<message wInf="1571">
+<source>合8断路器失败</source>
+<translation type="unfinished">Failure CB8 CL</translation>
+</message>
+<message wInf="1572">
+<source>分9断路器</source>
+<translation type="unfinished">CB9 Tripping</translation>
+</message>
+<message wInf="1573">
+<source>合9断路器</source>
+<translation type="unfinished">CB9 Closing</translation>
+</message>
+<message wInf="1574">
+<source>分9断路器失败</source>
+<translation type="unfinished">Failure CB9 TR</translation>
+</message>
+<message wInf="1575">
+<source>合9断路器失败</source>
+<translation type="unfinished">Failure CB9 CL</translation>
+</message>
+<message wInf="1576">
+<source>分10断路器</source>
+<translation type="unfinished">CB10 Tripping</translation>
+</message>
+<message wInf="1577">
+<source>合10断路器</source>
+<translation type="unfinished">CB10 Closing</translation>
+</message>
+<message wInf="1578">
+<source>分10断路器失败</source>
+<translation type="unfinished">Failure CB10 TR</translation>
+</message>
+<message wInf="1579">
+<source>合10断路器失败</source>
+<translation type="unfinished">Failure CB10 CL</translation>
+</message>
+<message wInf="1580">
+<source>跳1隔开</source>
+<translation type="unfinished">SW1 Tripping</translation>
+</message>
+<message wInf="1581">
+<source>合1隔开</source>
+<translation type="unfinished">SW1 Closing</translation>
+</message>
+<message wInf="1582">
+<source>跳1隔开失败</source>
+<translation type="unfinished">Failure SW1 TR</translation>
+</message>
+<message wInf="1583">
+<source>合1隔开失败</source>
+<translation type="unfinished">Failure SW1 CL</translation>
+</message>
+<message wInf="1584">
+<source>跳2隔开</source>
+<translation type="unfinished">SW2 Tripping</translation>
+</message>
+<message wInf="1585">
+<source>合2隔开</source>
+<translation type="unfinished">SW2 Closing</translation>
+</message>
+<message wInf="1586">
+<source>跳2隔开失败</source>
+<translation type="unfinished">Failure SW2 TR</translation>
+</message>
+<message wInf="1587">
+<source>合2隔开失败</source>
+<translation type="unfinished">Failure SW2 CL</translation>
+</message>
+<message wInf="1588">
+<source>跳3隔开</source>
+<translation type="unfinished">SW3 Tripping</translation>
+</message>
+<message wInf="1589">
+<source>合3隔开</source>
+<translation type="unfinished">SW3 Closing</translation>
+</message>
+<message wInf="1590">
+<source>分3隔开失败</source>
+<translation type="unfinished">Failure SW3 TR</translation>
+</message>
+<message wInf="1591">
+<source>合3隔开失败</source>
+<translation type="unfinished">Failure SW3 CL</translation>
+</message>
+<message wInf="1592">
+<source>分4隔开</source>
+<translation type="unfinished">SW4 Tripping</translation>
+</message>
+<message wInf="1593">
+<source>合4隔开</source>
+<translation type="unfinished">SW4 Closing</translation>
+</message>
+<message wInf="1594">
+<source>分4隔开失败</source>
+<translation type="unfinished">Failure SW4 TR</translation>
+</message>
+<message wInf="1595">
+<source>合4隔开失败</source>
+<translation type="unfinished">Failure SW4 CL</translation>
+</message>
+<message wInf="1596">
+<source>分5隔开</source>
+<translation type="unfinished">SW5 Tripping</translation>
+</message>
+<message wInf="1597">
+<source>合5隔开</source>
+<translation type="unfinished">SW5 Closing</translation>
+</message>
+<message wInf="1598">
+<source>分5隔开失败</source>
+<translation type="unfinished">Failure SW5 TR</translation>
+</message>
+<message wInf="1599">
+<source>合5隔开失败</source>
+<translation type="unfinished">Failure SW5 CL</translation>
+</message>
+<message wInf="1600">
+<source>分6隔开</source>
+<translation type="unfinished">SW6 Tripping</translation>
+</message>
+<message wInf="1601">
+<source>合6隔开</source>
+<translation type="unfinished">SW6 Closing</translation>
+</message>
+<message wInf="1602">
+<source>分6隔开失败</source>
+<translation type="unfinished">Failure SW6 TR</translation>
+</message>
+<message wInf="1603">
+<source>合6隔开失败</source>
+<translation type="unfinished">Failure SW6 CL</translation>
+</message>
+<message wInf="1604">
+<source>分7隔开</source>
+<translation type="unfinished">SW7 Tripping</translation>
+</message>
+<message wInf="1605">
+<source>合7隔开</source>
+<translation type="unfinished">SW7 Closing</translation>
+</message>
+<message wInf="1606">
+<source>分7隔开失败</source>
+<translation type="unfinished">Failure SW7 TR</translation>
+</message>
+<message wInf="1607">
+<source>合7隔开失败</source>
+<translation type="unfinished">Failure SW7 CL</translation>
+</message>
+<message wInf="1608">
+<source>分8隔开</source>
+<translation type="unfinished">SW8 Tripping</translation>
+</message>
+<message wInf="1609">
+<source>合8隔开</source>
+<translation type="unfinished">SW8 Closing</translation>
+</message>
+<message wInf="1610">
+<source>分8隔开失败</source>
+<translation type="unfinished">Failure SW8 TR</translation>
+</message>
+<message wInf="1611">
+<source>合8隔开失败</source>
+<translation type="unfinished">Failure SW8CL</translation>
+</message>
+<message wInf="1612">
+<source>分9隔开</source>
+<translation type="unfinished">SW9 Tripping</translation>
+</message>
+<message wInf="1613">
+<source>合9隔开</source>
+<translation type="unfinished">SW9 Closing</translation>
+</message>
+<message wInf="1614">
+<source>分9隔开失败</source>
+<translation type="unfinished">Failure SW9 TR</translation>
+</message>
+<message wInf="1615">
+<source>合9隔开失败</source>
+<translation type="unfinished">Failure SW9 CL</translation>
+</message>
+<message wInf="1616">
+<source>分10隔开</source>
+<translation type="unfinished">SW10 Tripping</translation>
+</message>
+<message wInf="1617">
+<source>合10隔开</source>
+<translation type="unfinished">SW10 Closing</translation>
+</message>
+<message wInf="1618">
+<source>分10隔开失败</source>
+<translation type="unfinished">Failure SW10 TR</translation>
+</message>
+<message wInf="1619">
+<source>合10隔开失败</source>
+<translation type="unfinished">Failure SW10 CL</translation>
+</message>
+<message wInf="1620">
+<source>分101断路器</source>
+<translation type="unfinished">CB101 Tripping</translation>
+</message>
+<message wInf="1621">
+<source>合101断路器</source>
+<translation type="unfinished">CB101 Closing</translation>
+</message>
+<message wInf="1622">
+<source>分101断路器失败</source>
+<translation type="unfinished">Failure CB101 TR</translation>
+</message>
+<message wInf="1623">
+<source>合101断路器失败</source>
+<translation type="unfinished">Failure CB101 CL</translation>
+</message>
+<message wInf="1624">
+<source>分102断路器</source>
+<translation type="unfinished">CB102 Tripping</translation>
+</message>
+<message wInf="1625">
+<source>合102断路器</source>
+<translation type="unfinished">CB102 Closing</translation>
+</message>
+<message wInf="1626">
+<source>分102断路器失败</source>
+<translation type="unfinished">Failure CB102 TR</translation>
+</message>
+<message wInf="1627">
+<source>合102断路器失败</source>
+<translation type="unfinished">Failure CB102 CL</translation>
+</message>
+<message wInf="1628">
+<source>分103断路器</source>
+<translation type="unfinished">CB103 Tripping</translation>
+</message>
+<message wInf="1629">
+<source>合103断路器</source>
+<translation type="unfinished">CB103 Closing</translation>
+</message>
+<message wInf="1630">
+<source>跳103断路器失败</source>
+<translation type="unfinished">Failure CB103 TR</translation>
+</message>
+<message wInf="1631">
+<source>合103断路器失败</source>
+<translation type="unfinished">Failure CB103 CL</translation>
+</message>
+<message wInf="1632">
+<source>跳104断路器</source>
+<translation type="unfinished">CB104 Tripping</translation>
+</message>
+<message wInf="1633">
+<source>合104断路器</source>
+<translation type="unfinished">CB104 Closing</translation>
+</message>
+<message wInf="1634">
+<source>跳104断路器失败</source>
+<translation type="unfinished">Failure CB104 TR</translation>
+</message>
+<message wInf="1635">
+<source>合104断路器失败</source>
+<translation type="unfinished">Failure CB104 CL</translation>
+</message>
+<message wInf="1636">
+<source>分201断路器</source>
+<translation type="unfinished">CB201 Tripping</translation>
+</message>
+<message wInf="1637">
+<source>合201断路器</source>
+<translation type="unfinished">CB201 Closing</translation>
+</message>
+<message wInf="1638">
+<source>分201断路器失败</source>
+<translation type="unfinished">Failure CB201 TR</translation>
+</message>
+<message wInf="1639">
+<source>合201断路器失败</source>
+<translation type="unfinished">Failure CB201 CL</translation>
+</message>
+<message wInf="1640">
+<source>分202断路器</source>
+<translation type="unfinished">CB202 Tripping</translation>
+</message>
+<message wInf="1641">
+<source>合202断路器</source>
+<translation type="unfinished">CB202 Closing</translation>
+</message>
+<message wInf="1642">
+<source>分202断路器失败</source>
+<translation type="unfinished">Failure CB202 TR</translation>
+</message>
+<message wInf="1643">
+<source>合202断路器失败</source>
+<translation type="unfinished">Failure CB202 CL</translation>
+</message>
+<message wInf="1644">
+<source>分203断路器</source>
+<translation type="unfinished">CB203 Tripping</translation>
+</message>
+<message wInf="1645">
+<source>合203断路器</source>
+<translation type="unfinished">CB203 Closing</translation>
+</message>
+<message wInf="1646">
+<source>分203断路器失败</source>
+<translation type="unfinished">Failure CB203 TR</translation>
+</message>
+<message wInf="1647">
+<source>合203断路器失败</source>
+<translation type="unfinished">Failure CB203 CL</translation>
+</message>
+<message wInf="1648">
+<source>分204断路器</source>
+<translation type="unfinished">CB204 Tripping</translation>
+</message>
+<message wInf="1649">
+<source>合204断路器</source>
+<translation type="unfinished">CB204 Closing</translation>
+</message>
+<message wInf="1650">
+<source>分204断路器失败</source>
+<translation type="unfinished">Failure CB204 TR</translation>
+</message>
+<message wInf="1651">
+<source>合204断路器失败</source>
+<translation type="unfinished">Failure CB204 CL</translation>
+</message>
+<message wInf="1652">
+<source>分201A断路器</source>
+<translation type="unfinished">CB201A Tripping</translation>
+</message>
+<message wInf="1653">
+<source>合201A断路器</source>
+<translation type="unfinished">CB201A Closing</translation>
+</message>
+<message wInf="1654">
+<source>分201A断路器失败</source>
+<translation type="unfinished">Failure CB201A TR</translation>
+</message>
+<message wInf="1655">
+<source>合201A断路器失败</source>
+<translation type="unfinished">Failure CB201A CL</translation>
+</message>
+<message wInf="1656">
+<source>分201B断路器</source>
+<translation type="unfinished">CB201B Tripping</translation>
+</message>
+<message wInf="1657">
+<source>合201B断路器</source>
+<translation type="unfinished">CB201B Closing</translation>
+</message>
+<message wInf="1658">
+<source>跳201B断路器失败</source>
+<translation type="unfinished">Failure CB201B TR</translation>
+</message>
+<message wInf="1659">
+<source>合201B断路器失败</source>
+<translation type="unfinished">Failure CB201B CL</translation>
+</message>
+<message wInf="1660">
+<source>跳202A断路器</source>
+<translation type="unfinished">CB202A Tripping</translation>
+</message>
+<message wInf="1661">
+<source>合202A断路器</source>
+<translation type="unfinished">CB202A Closing</translation>
+</message>
+<message wInf="1662">
+<source>跳202A断路器失败</source>
+<translation type="unfinished">Failure CB202A TR</translation>
+</message>
+<message wInf="1663">
+<source>合202A断路器失败</source>
+<translation type="unfinished">Failure CB202A CL</translation>
+</message>
+<message wInf="1664">
+<source>跳202B断路器   </source>
+<translation type="unfinished">CB202B Tripping</translation>
+</message>
+<message wInf="1665">
+<source>合202B断路器</source>
+<translation type="unfinished">CB202B Closing</translation>
+</message>
+<message wInf="1666">
+<source>跳202B断路器失败</source>
+<translation type="unfinished">Failure CB202B TR</translation>
+</message>
+<message wInf="1667">
+<source>合202B断路器失败</source>
+<translation type="unfinished">Failure CB202B CL</translation>
+</message>
+<message wInf="1668">
+<source>分1011隔开</source>
+<translation type="unfinished">SW1011 Tripping</translation>
+</message>
+<message wInf="1669">
+<source>合1011隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1670">
+<source>分1011隔开失败</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="1671">
+<source>合1011隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1672">
+<source>分1021隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1673">
+<source>合1021隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1674">
+<source>分1021隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1675">
+<source>合1021隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1676">
+<source>分1001隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1677">
+<source>合1001隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1678">
+<source>分1001隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1679">
+<source>合1001隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1680">
+<source>分1002隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1681">
+<source>合1002隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1682">
+<source>分1002隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1683">
+<source>合1002隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1684">
+<source>分1019隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1685">
+<source>合1019隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1686">
+<source>分1019隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1687">
+<source>合1019隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1688">
+<source>分1029隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1689">
+<source>合1029隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1690">
+<source>分1029隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1691">
+<source>合1029隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1692">
+<source>跳1039隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1693">
+<source>合1039隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1694">
+<source>分1039隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1695">
+<source>合1039隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1696">
+<source>分1049隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1697">
+<source>合1049隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1698">
+<source>分1049隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1699">
+<source>合1049隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1700">
+<source>1AT重瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1701">
+<source>1AT压力释放</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1702">
+<source>1AT温度过高</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1703">
+<source>1AT轻瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1704">
+<source>1AT温度告警</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1705">
+<source>1AT油位异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1706">
+<source>1AT油速异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1707">
+<source>2AT重瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1708">
+<source>2AT压力释放</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1709">
+<source>2AT温度过高</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1710">
+<source>2AT轻瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1711">
+<source>2AT温度告警</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1712">
+<source>2AT油位异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1713">
+<source>2AT油速异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1714">
+<source>3AT重瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1715">
+<source>3AT压力释放</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1716">
+<source>3AT温度过高</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1717">
+<source>3AT轻瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1718">
+<source>3AT温度告警</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1719">
+<source>3AT油位异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1720">
+<source>3AT油速异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1721">
+<source>4AT重瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1722">
+<source>4AT压力释放</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1723">
+<source>4AT温度过高</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1724">
+<source>4AT轻瓦斯</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1725">
+<source>4AT温度告警</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1726">
+<source>4AT油位异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1727">
+<source>4AT油速异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1728">
+<source>分1AT快分开关</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1729">
+<source>分2AT快分开关</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1730">
+<source>分3AT快分开关</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1731">
+<source>分4AT快分开关</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1732">
+<source>分1AT快分失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1733">
+<source>分2AT快分失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1734">
+<source>分3AT快分失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1735">
+<source>分4AT快分失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1736">
+<source>动作成功</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1737">
+<source>动作失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1738">
+<source>检有压合闸成功</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1739">
+<source>检有合闸失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1740">
+<source>分241断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1741">
+<source>合241断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1742">
+<source>分241断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1743">
+<source>合241断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1744">
+<source>分242断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1745">
+<source>合242断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1746">
+<source>分242断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1747">
+<source>合242断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1748">
+<source>分271断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1749">
+<source>合271断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1750">
+<source>分271断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1751">
+<source>合271断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1752">
+<source>分272断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1753">
+<source>合272断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1754">
+<source>分272断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1755">
+<source>合272断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1756">
+<source>分281断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1757">
+<source>合281断路器</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1758">
+<source>分281断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1759">
+<source>合281断路器失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1760">
+<source>分2411隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1761">
+<source>合2411隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1762">
+<source>分2411隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1763">
+<source>合2411隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1764">
+<source>分2421隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1765">
+<source>合2421隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1766">
+<source>分2421隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1767">
+<source>合2421隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1768">
+<source>分2711隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1769">
+<source>合2711隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1770">
+<source>分2711隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1771">
+<source>合2711隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1772">
+<source>分2721隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1773">
+<source>合2721隔开</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1774">
+<source>分2721隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1775">
+<source>合2721隔开失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="62">
+<source>NVRAM内容出错恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="58">
+<source>程序ROM故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="55">
+<source>RAM定值故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="52">
+<source>EEPROM定值故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="51">
+<source>软压板故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="50">
+<source>AD故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="63">
+<source>逻辑方程故障故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="60">
+<source>通信通道异常恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1776">
+<source>地震报警</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="20">
+<source>5V电源故障</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="21">
+<source>EEPROM写入故障</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="64">
+<source>5V电源故障恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1809">
+<source>1号电容跳闸失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1810">
+<source>2号电容跳闸失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1811">
+<source>3号电容跳闸失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1812">
+<source>4号电容跳闸失败</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1813">
+<source>PT1断线恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1814">
+<source>PT2断线恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1815">
+<source>PT3断线恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1816">
+<source>PT4断线恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1817">
+<source>一号进线失压恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="1818">
+<source>二号进线失压恢复</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="22">
+<source>保护数据异常</source>
+<translation type="unfinished"></translation>
+</message>
+<message wInf="65">
+<source>保护数据异常恢复</source>
+<translation type="unfinished"></translation>
+</message>
+</context>
+<context>
+<name>TCFG_Disp</name>
+<message>
+<source>备自投功能</source>
+<translation type="unfinished">Function 83</translation>
+</message>
+<message>
+<source>备自投重新投入</source>
+<translation type="unfinished">F83 of Auto-reset</translation>
+</message>
+<message>
+<source>主变备自投</source>
+<translation type="unfinished">F83 of Transf.</translation>
+</message>
+<message>
+<source>失压备自投</source>
+<translation type="unfinished">F83 of Line</translation>
+</message>
+<message>
+<source>直列优先</source>
+<translation type="unfinished">F83 of Same side</translation>
+</message>
+<message>
+<source>PT1断线检查</source>
+<translation type="unfinished">VT1 Supervision</translation>
+</message>
+<message>
+<source>PT2断线检查</source>
+<translation type="unfinished">VT2 Supervision</translation>
+</message>
+<message>
+<source>PT3断线检查</source>
+<translation type="unfinished">VT3 Supervision</translation>
+</message>
+<message>
+<source>PT4断线检查</source>
+<translation type="unfinished">VT4 Supervision</translation>
+</message>
+<message>
+<source>备用配置1</source>
+<translation type="unfinished">Reserve 1</translation>
+</message>
+<message>
+<source>备用配置2</source>
+<translation type="unfinished">Reserve 2</translation>
+</message>
+<message>
+<source>备用配置3</source>
+<translation type="unfinished">Reserve 3</translation>
+</message>
+<message>
+<source>备用配置4</source>
+<translation type="unfinished">Reserve 4</translation>
+</message>
+</context>
+<context>
+<name>TSW_Disp</name>
+<message>
+<source>备自投功能</source>
+<translation type="unfinished">Function 83</translation>
+</message>
+<message>
+<source>主变备自投</source>
+<translation type="unfinished">F83 of Transf.</translation>
+</message>
+<message>
+<source>失压备自投</source>
+<translation type="unfinished">F83 of Lines</translation>
+</message>
+<message>
+<source>地震监测</source>
+<translation type="unfinished">Temblor SUP.</translation>
+</message>
+<message>
+<source>检修压板</source>
+<translation type="unfinished">Maintain</translation>
+</message>
+<message>
+<source>备用压板1</source>
+<translation type="unfinished">Reserve 1</translation>
+</message>
+<message>
+<source>备用压板2</source>
+<translation type="unfinished">Reserve 2</translation>
+</message>
+<message>
+<source>备用压板3</source>
+<translation type="unfinished">Reserve 3</translation>
+</message>
+<message>
+<source>备用压板4</source>
+<translation type="unfinished">Reserve 4</translation>
+</message>
+</context>
+<context>
+<name>TxtList</name>
+<message>
+<source>1A</source>
+<translation type="finished">1A</translation>
+</message>
+<message>
+<source>5A</source>
+<translation type="finished">5A</translation>
+</message>
+</context>
+<context>
+<name>TTC_Disp</name>
+<message>
+<source>出口板1遥控1分</source>
+<translation type="unfinished">Binary Output 1 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控1合</source>
+<translation type="unfinished">Binary Output 2 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控2分</source>
+<translation type="unfinished">Binary Output 3 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控2合</source>
+<translation type="unfinished">Binary Output 4 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控3分</source>
+<translation type="unfinished">Binary Output 5 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控3合</source>
+<translation type="unfinished">Binary Output 6 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控4分</source>
+<translation type="unfinished">Binary Output 7 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控4合</source>
+<translation type="unfinished">Binary Output 8 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控5分</source>
+<translation type="unfinished">Binary Output 9 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控5合</source>
+<translation type="unfinished">Binary Output 10 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控6分</source>
+<translation type="unfinished">Binary Output 11 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控6合</source>
+<translation type="unfinished">Binary Output 12 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控7分</source>
+<translation type="unfinished">Binary Output 13 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控7合</source>
+<translation type="unfinished">Binary Output 14 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控8分</source>
+<translation type="unfinished">Binary Output 15 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板1遥控8合</source>
+<translation type="unfinished">Binary Output 16 (Terminal X5)</translation>
+</message>
+<message>
+<source>出口板2遥控1分</source>
+<translation type="unfinished">Binary Output 17 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控1合</source>
+<translation type="unfinished">Binary Output 18 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控2分</source>
+<translation type="unfinished">Binary Output 19 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控2合</source>
+<translation type="unfinished">Binary Output 20 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控3分</source>
+<translation type="unfinished">Binary Output 21 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控3合</source>
+<translation type="unfinished">Binary Output 22 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控4分</source>
+<translation type="unfinished">Binary Output 23 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控4合</source>
+<translation type="unfinished">Binary Output 24 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控5分</source>
+<translation type="unfinished">Binary Output 25 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控5合</source>
+<translation type="unfinished">Binary Output 26 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控6分</source>
+<translation type="unfinished">Binary Output 27 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控6合</source>
+<translation type="unfinished">Binary Output 28 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控7分</source>
+<translation type="unfinished">Binary Output 29 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控7合</source>
+<translation type="unfinished">Binary Output 30 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控8分</source>
+<translation type="unfinished">Binary Output 31 (Terminal X6)</translation>
+</message>
+<message>
+<source>出口板2遥控8合</source>
+<translation type="unfinished">Binary Output 32 (Terminal X6)</translation>
+</message>
+</context>
+<context>
+<name>RelayWord</name>
+<message>
+<source>U1有压</source>
+<translation type="finished">U1 Voltage exceeds the threshold Relay word (59U1)</translation>
+</message>
+<message>
+<source>U1无压</source>
+<translation type="finished">U1 Voltage decreases blow the threshold Relay word (27U1)</translation>
+</message>
+<message>
+<source>U2有压</source>
+<translation type="finished">U2 Voltage exceeds the threshold Relay word (59U2)</translation>
+</message>
+<message>
+<source>U2无压</source>
+<translation type="finished">U2 Voltage decreases blow the threshold Relay word (27U2)</translation>
+</message>
+<message>
+<source>U3有压</source>
+<translation type="finished">U3 Voltage exceeds the threshold Relay word (59U3)</translation>
+</message>
+<message>
+<source>U3无压</source>
+<translation type="finished">U3 Voltage decreases blow the threshold Relay word (27U3)</translation>
+</message>
+<message>
+<source>U4有压</source>
+<translation type="finished">U4 Voltage exceeds the threshold Relay word (59U4)</translation>
+</message>
+<message>
+<source>U4无压</source>
+<translation type="finished">U4 Voltage decreases blow the threshold Relay word (27U4)</translation>
+</message>
+<message>
+<source>U5有压</source>
+<translation type="finished">U5 Voltage exceeds the threshold Relay word (59U5)</translation>
+</message>
+<message>
+<source>U5无压</source>
+<translation type="finished">U5 Voltage decreases blow the threshold Relay word (27U5)</translation>
+</message>
+<message>
+<source>U6有压</source>
+<translation type="finished">U6 Voltage exceeds the threshold Relay word (59U6)</translation>
+</message>
+<message>
+<source>U6无压</source>
+<translation type="finished">U6 Voltage decreases blow the threshold Relay word (27U6)</translation>
+</message>
+<message>
+<source>U7有压</source>
+<translation type="finished">U7 Voltage exceeds the threshold Relay word (59U7)</translation>
+</message>
+<message>
+<source>U7无压</source>
+<translation type="finished">U7 Voltage decreases blow the threshold Relay word (27U7)</translation>
+</message>
+<message>
+<source>U8有压</source>
+<translation type="finished">U8 Voltage exceeds the threshold Relay word (59U8)</translation>
+</message>
+<message>
+<source>U8无压</source>
+<translation type="finished">U8 Voltage decreases blow the threshold Relay word (27U8)</translation>
+</message>
+<message>
+<source>I1有流</source>
+<translation type="finished">I1 Current exceeds the threshold Relay word (50I1)</translation>
+</message>
+<message>
+<source>I1无流</source>
+<translation type="finished">I1 Current decreases blow the threshold Relay word (37I1)</translation>
+</message>
+<message>
+<source>I2有流</source>
+<translation type="finished">I2 Current exceeds the threshold Relay word (50I2)</translation>
+</message>
+<message>
+<source>I2无流</source>
+<translation type="finished">I2 Current decreases blow the threshold Relay word (37I2)</translation>
+</message>
+<message>
+<source>I3有流</source>
+<translation type="finished">I3 Current exceeds the threshold Relay word (50I3)</translation>
+</message>
+<message>
+<source>I3无流</source>
+<translation type="finished">I3 Current decreases blow the threshold Relay word (37I3)</translation>
+</message>
+<message>
+<source>I4有流</source>
+<translation type="finished">I4 Current exceeds the threshold Relay word (50I4)</translation>
+</message>
+<message>
+<source>I4无流</source>
+<translation type="finished">I4 Current decreases blow the threshold Relay word (37I4)</translation>
+</message>
+<message>
+<source>I5有流</source>
+<translation type="finished">I5 Current exceeds the threshold Relay word (50I5)</translation>
+</message>
+<message>
+<source>I5无流</source>
+<translation type="finished">I5 Current decreases blow the threshold Relay word (37I5)</translation>
+</message>
+<message>
+<source>I6有流</source>
+<translation type="finished">I6 Current exceeds the threshold Relay word (50I6)</translation>
+</message>
+<message>
+<source>I6无流</source>
+<translation type="finished">I6 Current decreases blow the threshold Relay word (37I6)</translation>
+</message>
+<message>
+<source>I7有流</source>
+<translation type="finished">I7 Current exceeds the threshold Relay word (50I7)</translation>
+</message>
+<message>
+<source>I7无流</source>
+<translation type="finished">I7 Current decreases blow the threshold Relay word (37I7)</translation>
+</message>
+<message>
+<source>I8有流</source>
+<translation type="finished">I8 Current exceeds the threshold Relay word (50I8)</translation>
+</message>
+<message>
+<source>I8无流</source>
+<translation type="finished">I8 Current decreases blow the threshold Relay word (37I8)</translation>
+</message>
+<message>
+<source>以太网1链接1状态继电器字</source>
+<translation type="finished">Ethernet 1 Link 1 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网1链接2状态继电器字</source>
+<translation type="finished">Ethernet 1 Link 2 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网1链接3状态继电器字</source>
+<translation type="finished">Ethernet 1 Link 3 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网1链接4状态继电器字</source>
+<translation type="finished">Ethernet 1 Link 4 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网1链接5状态继电器字</source>
+<translation type="finished">Ethernet 1 Link 5 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网2链接1状态继电器字</source>
+<translation type="finished">Ethernet 2 Link 1 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网2链接2状态继电器字</source>
+<translation type="finished">Ethernet 2 Link 2 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网2链接3状态继电器字</source>
+<translation type="finished">Ethernet 2 Link 3 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网2链接4状态继电器字</source>
+<translation type="finished">Ethernet 2 Link 4 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>以太网2链接5状态继电器字</source>
+<translation type="finished">Ethernet 2 Link 5 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>串口1链接状态继电器字</source>
+<translation type="finished">Serial 2 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>CAN1链接状态继电器字</source>
+<translation type="finished">CAN 1 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>CAN2链接状态继电器字</source>
+<translation type="finished">CAN 2 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>空1链接状态继电器字</source>
+<translation type="finished">Null Link 1 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>空2链接状态继电器字</source>
+<translation type="finished">Null Link 2 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>空3链接状态继电器字</source>
+<translation type="finished">Null Link 3 Communication Status Relay Word</translation>
+</message>
+<message>
+<source>维护状态继电器字</source>
+<translation type="finished">Maintain Status Relay Word</translation>
+</message>
+<message>
+<source>录波继电器字</source>
+<translation type="finished">Disturbance Data Record Trigger Relay Word</translation>
+</message>
+<message>
+<source>中间继电器1</source>
+<translation type="finished">Mediate Variable Relay Word M1</translation>
+</message>
+<message>
+<source>中间继电器2</source>
+<translation type="finished">Mediate Variable Relay Word M2</translation>
+</message>
+<message>
+<source>中间继电器3</source>
+<translation type="finished">Mediate Variable Relay Word M3</translation>
+</message>
+<message>
+<source>中间继电器4</source>
+<translation type="finished">Mediate Variable Relay Word M4</translation>
+</message>
+<message>
+<source>中间继电器5</source>
+<translation type="finished">Mediate Variable Relay Word M5</translation>
+</message>
+<message>
+<source>中间继电器6</source>
+<translation type="finished">Mediate Variable Relay Word M6</translation>
+</message>
+<message>
+<source>中间继电器7</source>
+<translation type="finished">Mediate Variable Relay Word M7</translation>
+</message>
+<message>
+<source>中间继电器8</source>
+<translation type="finished">Mediate Variable Relay Word M8</translation>
+</message>
+<message>
+<source>中间继电器9</source>
+<translation type="finished">Mediate Variable Relay Word M9</translation>
+</message>
+<message>
+<source>中间继电器10</source>
+<translation type="finished">Mediate Variable Relay Word M10</translation>
+</message>
+<message>
+<source>中间继电器11</source>
+<translation type="finished">Mediate Variable Relay Word M11</translation>
+</message>
+<message>
+<source>中间继电器12</source>
+<translation type="finished">Mediate Variable Relay Word M12</translation>
+</message>
+<message>
+<source>中间继电器13</source>
+<translation type="finished">Mediate Variable Relay Word M13</translation>
+</message>
+<message>
+<source>中间继电器14</source>
+<translation type="finished">Mediate Variable Relay Word M14</translation>
+</message>
+<message>
+<source>中间继电器15</source>
+<translation type="finished">Mediate Variable Relay Word M15</translation>
+</message>
+<message>
+<source>中间继电器16</source>
+<translation type="finished">Mediate Variable Relay Word M16</translation>
+</message>
+<message>
+<source>中间继电器17</source>
+<translation type="finished">Mediate Variable Relay Word M17</translation>
+</message>
+<message>
+<source>中间继电器18</source>
+<translation type="finished">Mediate Variable Relay Word M18</translation>
+</message>
+<message>
+<source>中间继电器19</source>
+<translation type="finished">Mediate Variable Relay Word M19</translation>
+</message>
+<message>
+<source>中间继电器20</source>
+<translation type="finished">Mediate Variable Relay Word M20</translation>
+</message>
+<message>
+<source>中间继电器21</source>
+<translation type="finished">Mediate Variable Relay Word M21</translation>
+</message>
+<message>
+<source>中间继电器22</source>
+<translation type="finished">Mediate Variable Relay Word M22</translation>
+</message>
+<message>
+<source>中间继电器23</source>
+<translation type="finished">Mediate Variable Relay Word M23</translation>
+</message>
+<message>
+<source>中间继电器24</source>
+<translation type="finished">Mediate Variable Relay Word M24</translation>
+</message>
+<message>
+<source>中间继电器25</source>
+<translation type="finished">Mediate Variable Relay Word M25</translation>
+</message>
+<message>
+<source>中间继电器26</source>
+<translation type="finished">Mediate Variable Relay Word M26</translation>
+</message>
+<message>
+<source>中间继电器27</source>
+<translation type="finished">Mediate Variable Relay Word M27</translation>
+</message>
+<message>
+<source>中间继电器28</source>
+<translation type="finished">Mediate Variable Relay Word M28</translation>
+</message>
+<message>
+<source>中间继电器29</source>
+<translation type="finished">Mediate Variable Relay Word M29</translation>
+</message>
+<message>
+<source>中间继电器30</source>
+<translation type="finished">Mediate Variable Relay Word M30</translation>
+</message>
+<message>
+<source>中间继电器31</source>
+<translation type="finished">Mediate Variable Relay Word M31</translation>
+</message>
+<message>
+<source>中间继电器32</source>
+<translation type="finished">Mediate Variable Relay Word M32</translation>
+</message>
+<message>
+<source>中间继电器33</source>
+<translation type="finished">Mediate Variable Relay Word M33</translation>
+</message>
+<message>
+<source>中间继电器34</source>
+<translation type="finished">Mediate Variable Relay Word M34</translation>
+</message>
+<message>
+<source>中间继电器35</source>
+<translation type="finished">Mediate Variable Relay Word M35</translation>
+</message>
+<message>
+<source>中间继电器36</source>
+<translation type="finished">Mediate Variable Relay Word M36</translation>
+</message>
+<message>
+<source>中间继电器37</source>
+<translation type="finished">Mediate Variable Relay Word M37</translation>
+</message>
+<message>
+<source>中间继电器38</source>
+<translation type="finished">Mediate Variable Relay Word M38</translation>
+</message>
+<message>
+<source>中间继电器39</source>
+<translation type="finished">Mediate Variable Relay Word M39</translation>
+</message>
+<message>
+<source>中间继电器40</source>
+<translation type="finished">Mediate Variable Relay Word M40</translation>
+</message>
+<message>
+<source>中间继电器41</source>
+<translation type="finished">Mediate Variable Relay Word M41</translation>
+</message>
+<message>
+<source>中间继电器42</source>
+<translation type="finished">Mediate Variable Relay Word M42</translation>
+</message>
+<message>
+<source>中间继电器43</source>
+<translation type="finished">Mediate Variable Relay Word M43</translation>
+</message>
+<message>
+<source>中间继电器44</source>
+<translation type="finished">Mediate Variable Relay Word M44</translation>
+</message>
+<message>
+<source>中间继电器45</source>
+<translation type="finished">Mediate Variable Relay Word M45</translation>
+</message>
+<message>
+<source>中间继电器46</source>
+<translation type="finished">Mediate Variable Relay Word M46</translation>
+</message>
+<message>
+<source>中间继电器47</source>
+<translation type="finished">Mediate Variable Relay Word M47</translation>
+</message>
+<message>
+<source>中间继电器48</source>
+<translation type="finished">Mediate Variable Relay Word M48</translation>
+</message>
+<message>
+<source>中间继电器49</source>
+<translation type="finished">Mediate Variable Relay Word M49</translation>
+</message>
+<message>
+<source>中间继电器50</source>
+<translation type="finished">Mediate Variable Relay Word M50</translation>
+</message>
+<message>
+<source>中间继电器51</source>
+<translation type="finished">Mediate Variable Relay Word M51</translation>
+</message>
+<message>
+<source>中间继电器52</source>
+<translation type="finished">Mediate Variable Relay Word M52</translation>
+</message>
+<message>
+<source>中间继电器53</source>
+<translation type="finished">Mediate Variable Relay Word M53</translation>
+</message>
+<message>
+<source>中间继电器54</source>
+<translation type="finished">Mediate Variable Relay Word M54</translation>
+</message>
+<message>
+<source>中间继电器55</source>
+<translation type="finished">Mediate Variable Relay Word M55</translation>
+</message>
+<message>
+<source>中间继电器56</source>
+<translation type="finished">Mediate Variable Relay Word M56</translation>
+</message>
+<message>
+<source>中间继电器57</source>
+<translation type="finished">Mediate Variable Relay Word M57</translation>
+</message>
+<message>
+<source>中间继电器58</source>
+<translation type="finished">Mediate Variable Relay Word M58</translation>
+</message>
+<message>
+<source>中间继电器59</source>
+<translation type="finished">Mediate Variable Relay Word M59</translation>
+</message>
+<message>
+<source>中间继电器60</source>
+<translation type="finished">Mediate Variable Relay Word M60</translation>
+</message>
+<message>
+<source>中间继电器61</source>
+<translation type="finished">Mediate Variable Relay Word M61</translation>
+</message>
+<message>
+<source>中间继电器62</source>
+<translation type="finished">Mediate Variable Relay Word M62</translation>
+</message>
+<message>
+<source>中间继电器63</source>
+<translation type="finished">Mediate Variable Relay Word M63</translation>
+</message>
+<message>
+<source>中间继电器64</source>
+<translation type="finished">Mediate Variable Relay Word M64</translation>
+</message>
+<message>
+<source>中间继电器65</source>
+<translation type="finished">Mediate Variable Relay Word M65</translation>
+</message>
+<message>
+<source>中间继电器66</source>
+<translation type="finished">Mediate Variable Relay Word M66</translation>
+</message>
+<message>
+<source>中间继电器67</source>
+<translation type="finished">Mediate Variable Relay Word M67</translation>
+</message>
+<message>
+<source>中间继电器68</source>
+<translation type="finished">Mediate Variable Relay Word M78</translation>
+</message>
+<message>
+<source>中间继电器69</source>
+<translation type="finished">Mediate Variable Relay Word M69</translation>
+</message>
+<message>
+<source>中间继电器70</source>
+<translation type="finished">Mediate Variable Relay Word M70</translation>
+</message>
+<message>
+<source>中间继电器71</source>
+<translation type="finished">Mediate Variable Relay Word M71</translation>
+</message>
+<message>
+<source>中间继电器72</source>
+<translation type="finished">Mediate Variable Relay Word M72</translation>
+</message>
+<message>
+<source>中间继电器73</source>
+<translation type="finished">Mediate Variable Relay Word M73</translation>
+</message>
+<message>
+<source>中间继电器74</source>
+<translation type="finished">Mediate Variable Relay Word M74</translation>
+</message>
+<message>
+<source>中间继电器75</source>
+<translation type="finished">Mediate Variable Relay Word M75</translation>
+</message>
+<message>
+<source>中间继电器76</source>
+<translation type="finished">Mediate Variable Relay Word M76</translation>
+</message>
+<message>
+<source>中间继电器77</source>
+<translation type="finished">Mediate Variable Relay Word M77</translation>
+</message>
+<message>
+<source>中间继电器78</source>
+<translation type="finished">Mediate Variable Relay Word M78</translation>
+</message>
+<message>
+<source>中间继电器79</source>
+<translation type="finished">Mediate Variable Relay Word M79</translation>
+</message>
+<message>
+<source>中间继电器80</source>
+<translation type="finished">Mediate Variable Relay Word M80</translation>
+</message>
+<message>
+<source>中间继电器81</source>
+<translation type="finished">Mediate Variable Relay Word M81</translation>
+</message>
+<message>
+<source>中间继电器82</source>
+<translation type="finished">Mediate Variable Relay Word M82</translation>
+</message>
+<message>
+<source>中间继电器83</source>
+<translation type="finished">Mediate Variable Relay Word M83</translation>
+</message>
+<message>
+<source>中间继电器84</source>
+<translation type="finished">Mediate Variable Relay Word M84</translation>
+</message>
+<message>
+<source>中间继电器85</source>
+<translation type="finished">Mediate Variable Relay Word M85</translation>
+</message>
+<message>
+<source>中间继电器86</source>
+<translation type="finished">Mediate Variable Relay Word M86</translation>
+</message>
+<message>
+<source>中间继电器87</source>
+<translation type="finished">Mediate Variable Relay Word M87</translation>
+</message>
+<message>
+<source>中间继电器88</source>
+<translation type="finished">Mediate Variable Relay Word M88</translation>
+</message>
+<message>
+<source>中间继电器89</source>
+<translation type="finished">Mediate Variable Relay Word M89</translation>
+</message>
+<message>
+<source>中间继电器90</source>
+<translation type="finished">Mediate Variable Relay Word M90</translation>
+</message>
+<message>
+<source>中间继电器91</source>
+<translation type="finished">Mediate Variable Relay Word M91</translation>
+</message>
+<message>
+<source>中间继电器92</source>
+<translation type="finished">Mediate Variable Relay Word M92</translation>
+</message>
+<message>
+<source>中间继电器93</source>
+<translation type="finished">Mediate Variable Relay Word M93</translation>
+</message>
+<message>
+<source>中间继电器94</source>
+<translation type="finished">Mediate Variable Relay Word M94</translation>
+</message>
+<message>
+<source>中间继电器95</source>
+<translation type="finished">Mediate Variable Relay Word M95</translation>
+</message>
+<message>
+<source>中间继电器96</source>
+<translation type="finished">Mediate Variable Relay Word M96</translation>
+</message>
+<message>
+<source>中间继电器97</source>
+<translation type="finished">Mediate Variable Relay Word M97</translation>
+</message>
+<message>
+<source>中间继电器98</source>
+<translation type="finished">Mediate Variable Relay Word M98</translation>
+</message>
+<message>
+<source>中间继电器99</source>
+<translation type="finished">Mediate Variable Relay Word M99</translation>
+</message>
+<message>
+<source>中间继电器100</source>
+<translation type="finished">Mediate Variable Relay Word M100</translation>
+</message>
+<message>
+<source>中间继电器101</source>
+<translation type="finished">Mediate Variable Relay Word M101</translation>
+</message>
+<message>
+<source>中间继电器102</source>
+<translation type="finished">Mediate Variable Relay Word M102</translation>
+</message>
+<message>
+<source>中间继电器103</source>
+<translation type="finished">Mediate Variable Relay Word M103</translation>
+</message>
+<message>
+<source>中间继电器104</source>
+<translation type="finished">Mediate Variable Relay Word M104</translation>
+</message>
+<message>
+<source>中间继电器105</source>
+<translation type="finished">Mediate Variable Relay Word M105</translation>
+</message>
+<message>
+<source>中间继电器106</source>
+<translation type="finished">Mediate Variable Relay Word M106</translation>
+</message>
+<message>
+<source>中间继电器107</source>
+<translation type="finished">Mediate Variable Relay Word M107</translation>
+</message>
+<message>
+<source>中间继电器108</source>
+<translation type="finished">Mediate Variable Relay Word M108</translation>
+</message>
+<message>
+<source>中间继电器109</source>
+<translation type="finished">Mediate Variable Relay Word M109</translation>
+</message>
+<message>
+<source>中间继电器110</source>
+<translation type="finished">Mediate Variable Relay Word M110</translation>
+</message>
+<message>
+<source>中间继电器111</source>
+<translation type="finished">Mediate Variable Relay Word M111</translation>
+</message>
+<message>
+<source>中间继电器112</source>
+<translation type="finished">Mediate Variable Relay Word M112</translation>
+</message>
+<message>
+<source>中间继电器113</source>
+<translation type="finished">Mediate Variable Relay Word M113</translation>
+</message>
+<message>
+<source>中间继电器114</source>
+<translation type="finished">Mediate Variable Relay Word M114</translation>
+</message>
+<message>
+<source>中间继电器115</source>
+<translation type="finished">Mediate Variable Relay Word M115</translation>
+</message>
+<message>
+<source>中间继电器116</source>
+<translation type="finished">Mediate Variable Relay Word M116</translation>
+</message>
+<message>
+<source>中间继电器117</source>
+<translation type="finished">Mediate Variable Relay Word M117</translation>
+</message>
+<message>
+<source>中间继电器118</source>
+<translation type="finished">Mediate Variable Relay Word M118</translation>
+</message>
+<message>
+<source>中间继电器119</source>
+<translation type="finished">Mediate Variable Relay Word M119</translation>
+</message>
+<message>
+<source>中间继电器120</source>
+<translation type="finished">Mediate Variable Relay Word M120</translation>
+</message>
+<message>
+<source>中间继电器121</source>
+<translation type="finished">Mediate Variable Relay Word M121</translation>
+</message>
+<message>
+<source>中间继电器122</source>
+<translation type="finished">Mediate Variable Relay Word M122</translation>
+</message>
+<message>
+<source>中间继电器123</source>
+<translation type="finished">Mediate Variable Relay Word M123</translation>
+</message>
+<message>
+<source>中间继电器124</source>
+<translation type="finished">Mediate Variable Relay Word M124</translation>
+</message>
+<message>
+<source>中间继电器125</source>
+<translation type="finished">Mediate Variable Relay Word M125</translation>
+</message>
+<message>
+<source>中间继电器126</source>
+<translation type="finished">Mediate Variable Relay Word M126</translation>
+</message>
+<message>
+<source>中间继电器127</source>
+<translation type="finished">Mediate Variable Relay Word M127</translation>
+</message>
+<message>
+<source>中间继电器128</source>
+<translation type="finished">Mediate Variable Relay Word M128</translation>
+</message>
+<message>
+<source>遥信复归</source>
+<translation type="unfinished">Mediate Variable Relay Word BI of Reset</translation>
+</message>
+<message>
+<source>遥信投入备自投</source>
+<translation type="unfinished">Mediate Variable Relay Word BI of F83 Switch ON</translation>
+</message>
+<message>
+<source>PT1告警继电器字</source>
+<translation type="unfinished">Mediate Variable Relay Word VT1 Broken Wire</translation>
+</message>
+<message>
+<source>PT2告警继电器字</source>
+<translation type="unfinished">Mediate Variable Relay Word VT2 Broken Wire</translation>
+</message>
+<message>
+<source>PT3告警继电器字</source>
+<translation type="unfinished">Mediate Variable Relay Word VT3 Broken Wire</translation>
+</message>
+<message>
+<source>PT4告警继电器字</source>
+<translation type="unfinished">Mediate Variable Relay Word VT4 Broken Wire</translation>
+</message>
+<message>
+<source>自保持中间继电器字1</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H1</translation>
+</message>
+<message>
+<source>自保持中间继电器字2</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H2</translation>
+</message>
+<message>
+<source>自保持中间继电器字3</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H3</translation>
+</message>
+<message>
+<source>自保持中间继电器字4</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H4</translation>
+</message>
+<message>
+<source>自保持中间继电器字5</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H5</translation>
+</message>
+<message>
+<source>自保持中间继电器字6</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H6</translation>
+</message>
+<message>
+<source>自保持中间继电器字7</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H7</translation>
+</message>
+<message>
+<source>自保持中间继电器字8</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H8</translation>
+</message>
+<message>
+<source>自保持中间继电器字9</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H9</translation>
+</message>
+<message>
+<source>自保持中间继电器字10</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H10</translation>
+</message>
+<message>
+<source>自保持中间继电器字11</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H11</translation>
+</message>
+<message>
+<source>自保持中间继电器字12</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H12</translation>
+</message>
+<message>
+<source>自保持中间继电器字13</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H13</translation>
+</message>
+<message>
+<source>自保持中间继电器字14</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H14</translation>
+</message>
+<message>
+<source>自保持中间继电器字15</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H15</translation>
+</message>
+<message>
+<source>自保持中间继电器字16</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H16</translation>
+</message>
+<message>
+<source>自保持中间继电器字17</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H17</translation>
+</message>
+<message>
+<source>自保持中间继电器字18</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H18</translation>
+</message>
+<message>
+<source>自保持中间继电器字19</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H19</translation>
+</message>
+<message>
+<source>自保持中间继电器字20</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H20</translation>
+</message>
+<message>
+<source>自保持中间继电器字21</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H21</translation>
+</message>
+<message>
+<source>自保持中间继电器字22</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H22</translation>
+</message>
+<message>
+<source>自保持中间继电器字23</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H23</translation>
+</message>
+<message>
+<source>自保持中间继电器字24</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H24</translation>
+</message>
+<message>
+<source>自保持中间继电器字25</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H25</translation>
+</message>
+<message>
+<source>自保持中间继电器字26</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H26</translation>
+</message>
+<message>
+<source>自保持中间继电器字27</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H27</translation>
+</message>
+<message>
+<source>自保持中间继电器字28</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H28</translation>
+</message>
+<message>
+<source>自保持中间继电器字29</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H29</translation>
+</message>
+<message>
+<source>自保持中间继电器字30</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H30</translation>
+</message>
+<message>
+<source>自保持中间继电器字31</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H31</translation>
+</message>
+<message>
+<source>自保持中间继电器字32</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H32</translation>
+</message>
+<message>
+<source>自保持中间继电器字33</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H33</translation>
+</message>
+<message>
+<source>自保持中间继电器字34</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H34</translation>
+</message>
+<message>
+<source>自保持中间继电器字35</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H35</translation>
+</message>
+<message>
+<source>自保持中间继电器字36</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H36</translation>
+</message>
+<message>
+<source>自保持中间继电器字37</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H37</translation>
+</message>
+<message>
+<source>自保持中间继电器字38</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H38</translation>
+</message>
+<message>
+<source>自保持中间继电器字39</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H39</translation>
+</message>
+<message>
+<source>自保持中间继电器字40</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H40</translation>
+</message>
+<message>
+<source>自保持中间继电器字41</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H41</translation>
+</message>
+<message>
+<source>自保持中间继电器字42</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H42</translation>
+</message>
+<message>
+<source>自保持中间继电器字43</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H43</translation>
+</message>
+<message>
+<source>自保持中间继电器字44</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H44</translation>
+</message>
+<message>
+<source>自保持中间继电器字45</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H45</translation>
+</message>
+<message>
+<source>自保持中间继电器字46</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H46</translation>
+</message>
+<message>
+<source>自保持中间继电器字47</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H47</translation>
+</message>
+<message>
+<source>自保持中间继电器字48</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H48</translation>
+</message>
+<message>
+<source>自保持中间继电器字49</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H49</translation>
+</message>
+<message>
+<source>自保持中间继电器字50</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H50</translation>
+</message>
+<message>
+<source>自保持中间继电器字51</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H51</translation>
+</message>
+<message>
+<source>自保持中间继电器字52</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H52</translation>
+</message>
+<message>
+<source>自保持中间继电器字53</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H53</translation>
+</message>
+<message>
+<source>自保持中间继电器字54</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H54</translation>
+</message>
+<message>
+<source>自保持中间继电器字55</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H55</translation>
+</message>
+<message>
+<source>自保持中间继电器字56</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H56</translation>
+</message>
+<message>
+<source>自保持中间继电器字57</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H57</translation>
+</message>
+<message>
+<source>自保持中间继电器字58</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H58</translation>
+</message>
+<message>
+<source>自保持中间继电器字59</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H59</translation>
+</message>
+<message>
+<source>自保持中间继电器字60</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H60</translation>
+</message>
+<message>
+<source>自保持中间继电器字61</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H61</translation>
+</message>
+<message>
+<source>自保持中间继电器字62</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H62</translation>
+</message>
+<message>
+<source>自保持中间继电器字63</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H63</translation>
+</message>
+<message>
+<source>自保持中间继电器字64</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word H64</translation>
+</message>
+<message>
+<source>闭锁继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of F83 Blocked</translation>
+</message>
+<message>
+<source>充电方式一继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Ready Condition 1</translation>
+</message>
+<message>
+<source>充电方式二继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Ready Condition 2</translation>
+</message>
+<message>
+<source>充电方式三继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Ready Condition 3</translation>
+</message>
+<message>
+<source>充电方式四继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Ready Condition 4</translation>
+</message>
+<message>
+<source>充电方式五继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Ready Condition 5</translation>
+</message>
+<message>
+<source>充电方式六继电器字</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Ready Condition 6</translation>
+</message>
+<message>
+<source>备自投启动继电器字1</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 1</translation>
+</message>
+<message>
+<source>备自投启动继电器字2</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 2</translation>
+</message>
+<message>
+<source>备自投启动继电器字3</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 3</translation>
+</message>
+<message>
+<source>备自投启动继电器字4</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 4</translation>
+</message>
+<message>
+<source>备自投启动继电器字5</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 5</translation>
+</message>
+<message>
+<source>备自投启动继电器字6</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 6</translation>
+</message>
+<message>
+<source>备自投启动继电器字7</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 7</translation>
+</message>
+<message>
+<source>备自投启动继电器字8</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 8</translation>
+</message>
+<message>
+<source>备自投启动继电器字9</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 9</translation>
+</message>
+<message>
+<source>备自投启动继电器字10</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 10</translation>
+</message>
+<message>
+<source>备自投启动继电器字11</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 11</translation>
+</message>
+<message>
+<source>备自投启动继电器字12</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Pickup 12</translation>
+</message>
+<message>
+<source>主变1故障</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Transf.1 Abnormal</translation>
+</message>
+<message>
+<source>主变2故障</source>
+<translation type="unfinished">Self-hold Mediate Variable Relay Word of Transf.2 Abnormal</translation>
+</message>
+<message>
+<source>T1</source>
+<translation type="finished">Timer 1 Relay Word(pickup time = T1PI, reset time = T1RE)</translation>
+</message>
+<message>
+<source>T2</source>
+<translation type="finished">Timer 2 Relay Word(pickup time = T2PI, reset time = T2RE)</translation>
+</message>
+<message>
+<source>T3</source>
+<translation type="finished">Timer 3 Relay Word(pickup time = T3PI, reset time = T3RE)</translation>
+</message>
+<message>
+<source>T4</source>
+<translation type="finished">Timer 4 Relay Word(pickup time = T4PI, reset time = T4RE)</translation>
+</message>
+<message>
+<source>T5</source>
+<translation type="finished">Timer 5 Relay Word(pickup time = T5PI, reset time = T5RE)</translation>
+</message>
+<message>
+<source>T6</source>
+<translation type="finished">Timer 6 Relay Word(pickup time = T6PI, reset time = T6RE)</translation>
+</message>
+<message>
+<source>T7</source>
+<translation type="finished">Timer 7 Relay Word(pickup time = T7PI, reset time = T7RE)</translation>
+</message>
+<message>
+<source>T8</source>
+<translation type="finished">Timer 8 Relay Word(pickup time = T8PI, reset time = T8RE)</translation>
+</message>
+<message>
+<source>T9</source>
+<translation type="finished">Timer 9 Relay Word(pickup time = T9PI, reset time = T9RE)</translation>
+</message>
+<message>
+<source>T10</source>
+<translation type="finished">Timer 10 Relay Word(pickup time = T10PI, reset time = T10RE)</translation>
+</message>
+<message>
+<source>T11</source>
+<translation type="finished">Timer 11 Relay Word(pickup time = T11PI, reset time = T11RE)</translation>
+</message>
+<message>
+<source>T12</source>
+<translation type="finished">Timer 12 Relay Word(pickup time = T12PI, reset time = T12RE)</translation>
+</message>
+<message>
+<source>T13</source>
+<translation type="finished">Timer 13 Relay Word(pickup time = T13PI, reset time = T13RE)</translation>
+</message>
+<message>
+<source>T14</source>
+<translation type="finished">Timer 14 Relay Word(pickup time = T14PI, reset time = T14RE)</translation>
+</message>
+<message>
+<source>T15</source>
+<translation type="finished">Timer 15 Relay Word(pickup time = T15PI, reset time = T15RE)</translation>
+</message>
+<message>
+<source>T16</source>
+<translation type="finished">Timer 16 Relay Word(pickup time = T16PI, reset time = T16RE)</translation>
+</message>
+<message>
+<source>T17</source>
+<translation type="finished">Timer 17 Relay Word(pickup time = T17PI, reset time = T17RE)</translation>
+</message>
+<message>
+<source>T18</source>
+<translation type="finished">Timer 18 Relay Word(pickup time = T18PI, reset time = T18RE)</translation>
+</message>
+<message>
+<source>T19</source>
+<translation type="finished">Timer 19 Relay Word(pickup time = T19PI, reset time = T19RE)</translation>
+</message>
+<message>
+<source>T20</source>
+<translation type="finished">Timer 20 Relay Word(pickup time = T20PI, reset time = T20RE)</translation>
+</message>
+<message>
+<source>T21</source>
+<translation type="finished">Timer 21 Relay Word(pickup time = T21PI, reset time = T21RE)</translation>
+</message>
+<message>
+<source>T22</source>
+<translation type="finished">Timer 22 Relay Word(pickup time = T22PI, reset time = T22RE)</translation>
+</message>
+<message>
+<source>T23</source>
+<translation type="finished">Timer 23 Relay Word(pickup time = T23PI, reset time = T23RE)</translation>
+</message>
+<message>
+<source>T24</source>
+<translation type="finished">Timer 24 Relay Word(pickup time = T24PI, reset time = T24RE)</translation>
+</message>
+<message>
+<source>T25</source>
+<translation type="finished">Timer 25 Relay Word(pickup time = T25PI, reset time = T25RE)</translation>
+</message>
+<message>
+<source>T26</source>
+<translation type="finished">Timer 26 Relay Word(pickup time = T26PI, reset time = T26RE)</translation>
+</message>
+<message>
+<source>T27</source>
+<translation type="finished">Timer 27 Relay Word(pickup time = T27PI, reset time = T27RE)</translation>
+</message>
+<message>
+<source>T28</source>
+<translation type="finished">Timer 28 Relay Word(pickup time = T28PI, reset time = T28RE)</translation>
+</message>
+<message>
+<source>T29</source>
+<translation type="finished">Timer 29 Relay Word(pickup time = T29PI, reset time = T29RE)</translation>
+</message>
+<message>
+<source>T30</source>
+<translation type="finished">Timer 30 Relay Word(pickup time = T30PI, reset time = T30RE)</translation>
+</message>
+<message>
+<source>T31</source>
+<translation type="finished">Timer 31 Relay Word(pickup time = T31PI, reset time = T31RE)</translation>
+</message>
+<message>
+<source>T32</source>
+<translation type="finished">Timer 32 Relay Word(pickup time = T32PI, reset time = T32RE)</translation>
+</message>
+<message>
+<source>TCB1</source>
+<translation type="finished">Circuit Breaker Breaking Timer 1 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB2</source>
+<translation type="finished">Circuit Breaker Breaking Timer 2 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB3</source>
+<translation type="finished">Circuit Breaker Breaking Timer 3 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB4</source>
+<translation type="finished">Circuit Breaker Breaking Timer 4 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB5</source>
+<translation type="finished">Circuit Breaker Breaking Timer 5 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB6</source>
+<translation type="finished">Circuit Breaker Breaking Timer 6 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB7</source>
+<translation type="finished">Circuit Breaker Breaking Timer 7 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB8</source>
+<translation type="finished">Circuit Breaker Breaking Timer 8 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB9</source>
+<translation type="finished">Circuit Breaker Breaking Timer 9 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB10</source>
+<translation type="finished">Circuit Breaker Breaking Timer 10 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB11</source>
+<translation type="finished">Circuit Breaker Breaking Timer 11 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB12</source>
+<translation type="finished">Circuit Breaker Breaking Timer 12 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB13</source>
+<translation type="finished">Circuit Breaker Breaking Timer 13 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB14</source>
+<translation type="finished">Circuit Breaker Breaking Timer 14 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB15</source>
+<translation type="finished">Circuit Breaker Breaking Timer 15 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB16</source>
+<translation type="finished">Circuit Breaker Breaking Timer 16 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB17</source>
+<translation type="finished">Circuit Breaker Breaking Timer 17 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB18</source>
+<translation type="finished">Circuit Breaker Breaking Timer 18 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB19</source>
+<translation type="finished">Circuit Breaker Breaking Timer 19 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB20</source>
+<translation type="finished">Circuit Breaker Breaking Timer 20 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB21</source>
+<translation type="finished">Circuit Breaker Breaking Timer 21 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB22</source>
+<translation type="finished">Circuit Breaker Breaking Timer 22 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB23</source>
+<translation type="finished">Circuit Breaker Breaking Timer 23 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB24</source>
+<translation type="finished">Circuit Breaker Breaking Timer 24 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB25</source>
+<translation type="finished">Circuit Breaker Breaking Timer 25 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB26</source>
+<translation type="finished">Circuit Breaker Breaking Timer 26 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB27</source>
+<translation type="finished">Circuit Breaker Breaking Timer 27 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB28</source>
+<translation type="finished">Circuit Breaker Breaking Timer 28 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB29</source>
+<translation type="finished">Circuit Breaker Breaking Timer 29 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB30</source>
+<translation type="finished">Circuit Breaker Breaking Timer 30 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB31</source>
+<translation type="finished">Circuit Breaker Breaking Timer 31 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TCB32</source>
+<translation type="finished">Circuit Breaker Breaking Timer 32 Relay Word(pickup time = 0ms,reset time = TCB)</translation>
+</message>
+<message>
+<source>TSW1</source>
+<translation type="finished">Disconnector Switch Timer 1 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW2</source>
+<translation type="finished">Disconnector Switch Timer 2 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW3</source>
+<translation type="finished">Disconnector Switch Timer 3 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW4</source>
+<translation type="finished">Disconnector Switch Timer 4 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW5</source>
+<translation type="finished">Disconnector Switch Timer 5 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW6</source>
+<translation type="finished">Disconnector Switch Timer 6 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW7</source>
+<translation type="finished">Disconnector Switch Timer 7 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW8</source>
+<translation type="finished">Disconnector Switch Timer 8 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW9</source>
+<translation type="finished">Disconnector Switch Timer 9 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW10</source>
+<translation type="finished">Disconnector Switch Timer 10 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW11</source>
+<translation type="finished">Disconnector Switch Timer 11 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW12</source>
+<translation type="finished">Disconnector Switch Timer 12 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW13</source>
+<translation type="finished">Disconnector Switch Timer 13 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW14</source>
+<translation type="finished">Disconnector Switch Timer 14 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW15</source>
+<translation type="finished">Disconnector Switch Timer 15 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW16</source>
+<translation type="finished">Disconnector Switch Timer 16 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW17</source>
+<translation type="finished">Disconnector Switch Timer 17 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW18</source>
+<translation type="finished">Disconnector Switch Timer 18 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW19</source>
+<translation type="finished">Disconnector Switch Timer 19 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW20</source>
+<translation type="finished">Disconnector Switch Timer 20 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW21</source>
+<translation type="finished">Disconnector Switch Timer 21 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW22</source>
+<translation type="finished">Disconnector Switch Timer 22 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW23</source>
+<translation type="finished">Disconnector Switch Timer 23 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW24</source>
+<translation type="finished">Disconnector Switch Timer 24 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW25</source>
+<translation type="finished">Disconnector Switch Timer 25 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW26</source>
+<translation type="finished">Disconnector Switch Timer 26 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW27</source>
+<translation type="finished">Disconnector Switch Timer 27 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW28</source>
+<translation type="finished">Disconnector Switch Timer 28 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW29</source>
+<translation type="finished">Disconnector Switch Timer 29 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW30</source>
+<translation type="finished">Disconnector Switch Timer 30 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW31</source>
+<translation type="finished">Disconnector Switch Timer 31 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>TSW32</source>
+<translation type="finished">Disconnector Switch Timer 32 Relay Word(pickup time = 0ms,reset time = TSW)</translation>
+</message>
+<message>
+<source>备自投重新投入时间继电器字</source>
+<translation type="unfinished">F83 Auto-Reset Timer Relay Word(pickup time = 0ms,reset time = REBZTD)</translation>
+</message>
+<message>
+<source>充电方式1时间继电器字</source>
+<translation type="unfinished">Delay to Ready Status 1 Timer Relay Word(pickup time = CHARD,reset time = 0ms)</translation>
+</message>
+<message>
+<source>充电方式2时间继电器字</source>
+<translation type="unfinished">Delay to Ready Status 2 Timer Relay Word(pickup time = CHARD,reset time = 0ms)</translation>
+</message>
+<message>
+<source>充电方式3时间继电器字</source>
+<translation type="unfinished">Delay to Ready Status 3 Timer Relay Word(pickup time = CHARD,reset time = 0ms)</translation>
+</message>
+<message>
+<source>充电方式4时间继电器字</source>
+<translation type="unfinished">Delay to Ready Status 4 Timer Relay Word(pickup time = CHARD,reset time = 0ms)</translation>
+</message>
+<message>
+<source>充电方式5时间继电器字</source>
+<translation type="unfinished">Delay to Ready Status 5 Timer Relay Word(pickup time = CHARD,reset time = 0ms)</translation>
+</message>
+<message>
+<source>充电方式6时间继电器字</source>
+<translation type="unfinished">Delay to Ready Status 6 Timer Relay Word(pickup time = CHARD,reset time = 0ms)</translation>
+</message>
+<message>
+<source>跳闸继电器1</source>
+<translation type="finished">Trip Command Pulse Relay Word 1(Minimum Pulse width TR1D)</translation>
+</message>
+<message>
+<source>跳闸继电器2</source>
+<translation type="finished">Trip Command Pulse Relay Word 2(Minimum Pulse width TR2D)</translation>
+</message>
+<message>
+<source>调试继电器</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 1</translation>
+</message>
+<message>
+<source>虚拟继电器2</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 2</translation>
+</message>
+<message>
+<source>虚拟继电器3</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 3</translation>
+</message>
+<message>
+<source>虚拟继电器4</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 4</translation>
+</message>
+<message>
+<source>虚拟继电器5</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 5</translation>
+</message>
+<message>
+<source>虚拟继电器6</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 6</translation>
+</message>
+<message>
+<source>虚拟继电器7</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 7</translation>
+</message>
+<message>
+<source>虚拟继电器8</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 8</translation>
+</message>
+<message>
+<source>虚拟继电器9</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 9</translation>
+</message>
+<message>
+<source>虚拟继电器10</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 10</translation>
+</message>
+<message>
+<source>虚拟继电器11</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 11</translation>
+</message>
+<message>
+<source>虚拟继电器12</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 12</translation>
+</message>
+<message>
+<source>虚拟继电器13</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 13</translation>
+</message>
+<message>
+<source>虚拟继电器14</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 14</translation>
+</message>
+<message>
+<source>虚拟继电器15</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 15</translation>
+</message>
+<message>
+<source>虚拟继电器16</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 16</translation>
+</message>
+<message>
+<source>虚拟继电器17</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 17</translation>
+</message>
+<message>
+<source>虚拟继电器18</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 18</translation>
+</message>
+<message>
+<source>虚拟继电器19</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 19</translation>
+</message>
+<message>
+<source>虚拟继电器20</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 20</translation>
+</message>
+<message>
+<source>虚拟继电器21</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 21</translation>
+</message>
+<message>
+<source>虚拟继电器22</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 22</translation>
+</message>
+<message>
+<source>虚拟继电器23</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 23</translation>
+</message>
+<message>
+<source>虚拟继电器24</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 24</translation>
+</message>
+<message>
+<source>虚拟继电器25</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 25</translation>
+</message>
+<message>
+<source>虚拟继电器26</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 26</translation>
+</message>
+<message>
+<source>虚拟继电器27</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 27</translation>
+</message>
+<message>
+<source>虚拟继电器28</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 28</translation>
+</message>
+<message>
+<source>虚拟继电器29</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 29</translation>
+</message>
+<message>
+<source>虚拟继电器30</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 30</translation>
+</message>
+<message>
+<source>虚拟继电器31</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 31</translation>
+</message>
+<message>
+<source>虚拟继电器32</source>
+<translation type="finished">Virtual Mediate Variable Relay Word 32</translation>
+</message>
+<message>
+<source>开入继电器1</source>
+<translation type="finished">Binary Input Relay Word 1</translation>
+</message>
+<message>
+<source>开入继电器2</source>
+<translation type="finished">Binary Input Relay Word 2</translation>
+</message>
+<message>
+<source>开入继电器3</source>
+<translation type="finished">Binary Input Relay Word 3</translation>
+</message>
+<message>
+<source>开入继电器4</source>
+<translation type="finished">Binary Input Relay Word 4</translation>
+</message>
+<message>
+<source>开入继电器5</source>
+<translation type="finished">Binary Input Relay Word 5</translation>
+</message>
+<message>
+<source>开入继电器6</source>
+<translation type="finished">Binary Input Relay Word 6</translation>
+</message>
+<message>
+<source>开入继电器7</source>
+<translation type="finished">Binary Input Relay Word 7</translation>
+</message>
+<message>
+<source>开入继电器8</source>
+<translation type="finished">Binary Input Relay Word 8</translation>
+</message>
+<message>
+<source>开入继电器9</source>
+<translation type="finished">Binary Input Relay Word 9</translation>
+</message>
+<message>
+<source>开入继电器10</source>
+<translation type="finished">Binary Input Relay Word 10</translation>
+</message>
+<message>
+<source>开入继电器11</source>
+<translation type="finished">Binary Input Relay Word 11</translation>
+</message>
+<message>
+<source>开入继电器12</source>
+<translation type="finished">Binary Input Relay Word 12</translation>
+</message>
+<message>
+<source>开入继电器13</source>
+<translation type="finished">Binary Input Relay Word 13</translation>
+</message>
+<message>
+<source>开入继电器14</source>
+<translation type="finished">Binary Input Relay Word 14</translation>
+</message>
+<message>
+<source>开入继电器15</source>
+<translation type="finished">Binary Input Relay Word 15</translation>
+</message>
+<message>
+<source>开入继电器16</source>
+<translation type="finished">Binary Input Relay Word 16</translation>
+</message>
+<message>
+<source>开入继电器17</source>
+<translation type="finished">Binary Input Relay Word 17</translation>
+</message>
+<message>
+<source>开入继电器18</source>
+<translation type="finished">Binary Input Relay Word 18</translation>
+</message>
+<message>
+<source>开入继电器19</source>
+<translation type="finished">Binary Input Relay Word 19</translation>
+</message>
+<message>
+<source>开入继电器20</source>
+<translation type="finished">Binary Input Relay Word 20</translation>
+</message>
+<message>
+<source>开入继电器21</source>
+<translation type="finished">Binary Input Relay Word 21</translation>
+</message>
+<message>
+<source>开入继电器22</source>
+<translation type="finished">Binary Input Relay Word 22</translation>
+</message>
+<message>
+<source>开入继电器23</source>
+<translation type="finished">Binary Input Relay Word 23</translation>
+</message>
+<message>
+<source>开入继电器24</source>
+<translation type="finished">Binary Input Relay Word 24</translation>
+</message>
+<message>
+<source>开入继电器25</source>
+<translation type="finished">Binary Input Relay Word 25</translation>
+</message>
+<message>
+<source>开入继电器26</source>
+<translation type="finished">Binary Input Relay Word 26</translation>
+</message>
+<message>
+<source>开入继电器27</source>
+<translation type="finished">Binary Input Relay Word 27</translation>
+</message>
+<message>
+<source>开入继电器28</source>
+<translation type="finished">Binary Input Relay Word 28</translation>
+</message>
+<message>
+<source>开入继电器29</source>
+<translation type="finished">Binary Input Relay Word 29</translation>
+</message>
+<message>
+<source>开入继电器30</source>
+<translation type="finished">Binary Input Relay Word 30</translation>
+</message>
+<message>
+<source>开入继电器31</source>
+<translation type="finished">Binary Input Relay Word 31</translation>
+</message>
+<message>
+<source>开入继电器32</source>
+<translation type="finished">Binary Input Relay Word 32</translation>
+</message>
+<message>
+<source>开入继电器33</source>
+<translation type="finished">Binary Input Relay Word 33</translation>
+</message>
+<message>
+<source>开入继电器34</source>
+<translation type="finished">Binary Input Relay Word 34</translation>
+</message>
+<message>
+<source>开入继电器35</source>
+<translation type="finished">Binary Input Relay Word 35</translation>
+</message>
+<message>
+<source>开入继电器36</source>
+<translation type="finished">Binary Input Relay Word 36</translation>
+</message>
+<message>
+<source>开入继电器37</source>
+<translation type="finished">Binary Input Relay Word 37</translation>
+</message>
+<message>
+<source>开入继电器38</source>
+<translation type="finished">Binary Input Relay Word 38</translation>
+</message>
+<message>
+<source>开入继电器39</source>
+<translation type="finished">Binary Input Relay Word 39</translation>
+</message>
+<message>
+<source>开入继电器40</source>
+<translation type="finished">Binary Input Relay Word 40</translation>
+</message>
+<message>
+<source>开入继电器41</source>
+<translation type="finished">Binary Input Relay Word 41</translation>
+</message>
+<message>
+<source>开入继电器42</source>
+<translation type="finished">Binary Input Relay Word 42</translation>
+</message>
+<message>
+<source>开入继电器43</source>
+<translation type="finished">Binary Input Relay Word 43</translation>
+</message>
+<message>
+<source>开入继电器44</source>
+<translation type="finished">Binary Input Relay Word 44</translation>
+</message>
+<message>
+<source>开入继电器45</source>
+<translation type="finished">Binary Input Relay Word 45</translation>
+</message>
+<message>
+<source>开入继电器46</source>
+<translation type="finished">Binary Input Relay Word 46</translation>
+</message>
+<message>
+<source>开入继电器47</source>
+<translation type="finished">Binary Input Relay Word 47</translation>
+</message>
+<message>
+<source>开入继电器48</source>
+<translation type="finished">Binary Input Relay Word 48</translation>
+</message>
+<message>
+<source>开入继电器49</source>
+<translation type="finished">Binary Input Relay Word 49</translation>
+</message>
+<message>
+<source>开入继电器50</source>
+<translation type="finished">Binary Input Relay Word 50</translation>
+</message>
+<message>
+<source>开入继电器51</source>
+<translation type="finished">Binary Input Relay Word 51</translation>
+</message>
+<message>
+<source>开入继电器52</source>
+<translation type="finished">Binary Input Relay Word 52</translation>
+</message>
+<message>
+<source>开入继电器53</source>
+<translation type="finished">Binary Input Relay Word 53</translation>
+</message>
+<message>
+<source>开入继电器54</source>
+<translation type="finished">Binary Input Relay Word 54</translation>
+</message>
+<message>
+<source>开入继电器55</source>
+<translation type="finished">Binary Input Relay Word 55</translation>
+</message>
+<message>
+<source>开入继电器56</source>
+<translation type="finished">Binary Input Relay Word 56</translation>
+</message>
+<message>
+<source>开入继电器57</source>
+<translation type="finished">Binary Input Relay Word 57</translation>
+</message>
+<message>
+<source>开入继电器58</source>
+<translation type="finished">Binary Input Relay Word 58</translation>
+</message>
+<message>
+<source>开入继电器59</source>
+<translation type="finished">Binary Input Relay Word 59</translation>
+</message>
+<message>
+<source>开入继电器60</source>
+<translation type="finished">Binary Input Relay Word 60</translation>
+</message>
+<message>
+<source>开入继电器61</source>
+<translation type="finished">Binary Input Relay Word 61</translation>
+</message>
+<message>
+<source>开入继电器62</source>
+<translation type="finished">Binary Input Relay Word 62</translation>
+</message>
+<message>
+<source>开入继电器63</source>
+<translation type="finished">PBinary Input Relay Word 63</translation>
+</message>
+<message>
+<source>开入继电器64</source>
+<translation type="finished">Binary Input Relay Word 64</translation>
+</message>
+<message>
+<source>开入继电器65</source>
+<translation type="finished">Binary Input Relay Word 65</translation>
+</message>
+<message>
+<source>开入继电器66</source>
+<translation type="finished">Binary Input Relay Word 66</translation>
+</message>
+<message>
+<source>开入继电器67</source>
+<translation type="finished">Binary Input Relay Word 67</translation>
+</message>
+<message>
+<source>开入继电器68</source>
+<translation type="finished">Binary Input Relay Word 68</translation>
+</message>
+<message>
+<source>信号复归</source>
+<translation type="finished">Signal Reset Relay Word</translation>
+</message>
+<message>
+<source>遥控1预置</source>
+<translation type="finished">Remote Control Preset Relay Word 1</translation>
+</message>
+<message>
+<source>遥控2预置</source>
+<translation type="finished">Remote Control Preset Relay Word 2</translation>
+</message>
+<message>
+<source>遥控3预置</source>
+<translation type="finished">Remote Control Preset Relay Word 3</translation>
+</message>
+<message>
+<source>遥控4预置</source>
+<translation type="finished">Remote Control Preset Relay Word 4</translation>
+</message>
+<message>
+<source>遥控5预置</source>
+<translation type="finished">Remote Control Preset Relay Word 5</translation>
+</message>
+<message>
+<source>遥控6预置</source>
+<translation type="finished">Remote Control Preset Relay Word 6</translation>
+</message>
+<message>
+<source>遥控7预置</source>
+<translation type="finished">Remote Control Preset Relay Word 7</translation>
+</message>
+<message>
+<source>遥控8预置</source>
+<translation type="finished">Remote Control Preset Relay Word 8</translation>
+</message>
+<message>
+<source>遥控9预置</source>
+<translation type="finished">Remote Control Preset Relay Word 9</translation>
+</message>
+<message>
+<source>遥控10预置</source>
+<translation type="finished">Remote Control Preset Relay Word 10</translation>
+</message>
+<message>
+<source>遥控11预置</source>
+<translation type="finished">Remote Control Preset Relay Word 11</translation>
+</message>
+<message>
+<source>遥控12预置</source>
+<translation type="finished">Remote Control Preset Relay Word 12</translation>
+</message>
+<message>
+<source>遥控13预置</source>
+<translation type="finished">Remote Control Preset Relay Word 13</translation>
+</message>
+<message>
+<source>遥控14预置</source>
+<translation type="finished">Remote Control Preset Relay Word 14</translation>
+</message>
+<message>
+<source>开入继电器84</source>
+<translation type="finished">Binary Input Relay Word 84</translation>
+</message>
+<message>
+<source>开入继电器85</source>
+<translation type="finished">Binary Input Relay Word 85</translation>
+</message>
+<message>
+<source>开入继电器86</source>
+<translation type="finished">Binary Input Relay Word 86</translation>
+</message>
+<message>
+<source>开入继电器87</source>
+<translation type="finished">Binary Input Relay Word 87</translation>
+</message>
+<message>
+<source>开入继电器88</source>
+<translation type="finished">Binary Input Relay Word 88</translation>
+</message>
+<message>
+<source>开入继电器89</source>
+<translation type="finished">Binary Input Relay Word 89</translation>
+</message>
+<message>
+<source>开入继电器90</source>
+<translation type="finished">Binary Input Relay Word 90</translation>
+</message>
+<message>
+<source>开入继电器91</source>
+<translation type="finished">Binary Input Relay Word 91</translation>
+</message>
+<message>
+<source>开入继电器92</source>
+<translation type="finished">Binary Input Relay Word 92</translation>
+</message>
+<message>
+<source>开入继电器93</source>
+<translation type="finished">Binary Input Relay Word 93</translation>
+</message>
+<message>
+<source>开入继电器94</source>
+<translation type="finished">Binary Input Relay Word 94</translation>
+</message>
+<message>
+<source>开入继电器95</source>
+<translation type="finished">Binary Input Relay Word 95</translation>
+</message>
+<message>
+<source>开入继电器96</source>
+<translation type="finished">Binary Input Relay Word 96</translation>
+</message>
+<message>
+<source>开入继电器97</source>
+<translation type="finished">Binary Input Relay Word 97</translation>
+</message>
+<message>
+<source>开入继电器98</source>
+<translation type="finished">Binary Input Relay Word 98</translation>
+</message>
+<message>
+<source>开入继电器99</source>
+<translation type="finished">Binary Input Relay Word 99</translation>
+</message>
+<message>
+<source>开出1继电器字</source>
+<translation type="finished">Binary Output Relay Word 1</translation>
+</message>
+<message>
+<source>开出2继电器字</source>
+<translation type="finished">Binary Output Relay Word 2</translation>
+</message>
+<message>
+<source>开出3继电器字</source>
+<translation type="finished">Binary Output Relay Word 3</translation>
+</message>
+<message>
+<source>开出4继电器字</source>
+<translation type="finished">Binary Output Relay Word 4</translation>
+</message>
+<message>
+<source>开出5继电器字</source>
+<translation type="finished">Binary Output Relay Word 5</translation>
+</message>
+<message>
+<source>开出6继电器字</source>
+<translation type="finished">Binary Output Relay Word 6</translation>
+</message>
+<message>
+<source>开出7继电器字</source>
+<translation type="finished">Binary Output Relay Word 7</translation>
+</message>
+<message>
+<source>开出8继电器字</source>
+<translation type="finished">Binary Output Relay Word 8</translation>
+</message>
+<message>
+<source>开出9继电器字</source>
+<translation type="finished">Binary Output Relay Word 9</translation>
+</message>
+<message>
+<source>开出10继电器字</source>
+<translation type="finished">Binary Output Relay Word 10</translation>
+</message>
+<message>
+<source>开出11继电器字</source>
+<translation type="finished">Binary Output Relay Word 11</translation>
+</message>
+<message>
+<source>开出12继电器字</source>
+<translation type="finished">Binary Output Relay Word 12</translation>
+</message>
+<message>
+<source>开出13继电器字</source>
+<translation type="finished">Binary Output Relay Word 13</translation>
+</message>
+<message>
+<source>开出14继电器字</source>
+<translation type="finished">Binary Output Relay Word 14</translation>
+</message>
+<message>
+<source>开出15继电器字</source>
+<translation type="finished">Binary Output Relay Word 15</translation>
+</message>
+<message>
+<source>开出16继电器字</source>
+<translation type="finished">Binary Output Relay Word 16</translation>
+</message>
+<message>
+<source>开出17继电器字</source>
+<translation type="finished">Binary Output Relay Word 17</translation>
+</message>
+<message>
+<source>开出18继电器字</source>
+<translation type="finished">Binary Output Relay Word 18</translation>
+</message>
+<message>
+<source>开出19继电器字</source>
+<translation type="finished">Binary Output Relay Word 19</translation>
+</message>
+<message>
+<source>开出20继电器字</source>
+<translation type="finished">Binary Output Relay Word 20</translation>
+</message>
+<message>
+<source>开出21继电器字</source>
+<translation type="finished">Binary Output Relay Word 21</translation>
+</message>
+<message>
+<source>开出22继电器字</source>
+<translation type="finished">Binary Output Relay Word 22</translation>
+</message>
+<message>
+<source>开出23继电器字</source>
+<translation type="finished">Binary Output Relay Word 23</translation>
+</message>
+<message>
+<source>开出24继电器字</source>
+<translation type="finished">Binary Output Relay Word 24</translation>
+</message>
+<message>
+<source>开出25继电器字</source>
+<translation type="finished">Binary Output Relay Word 25</translation>
+</message>
+<message>
+<source>开出26继电器字</source>
+<translation type="finished">Binary Output Relay Word 26</translation>
+</message>
+<message>
+<source>开出27继电器字</source>
+<translation type="finished">Binary Output Relay Word 27</translation>
+</message>
+<message>
+<source>开出28继电器字</source>
+<translation type="finished">Binary Output Relay Word 28</translation>
+</message>
+<message>
+<source>开出29继电器字</source>
+<translation type="finished">Binary Output Relay Word 29</translation>
+</message>
+<message>
+<source>开出30继电器字</source>
+<translation type="finished">Binary Output Relay Word 30</translation>
+</message>
+<message>
+<source>开出31继电器字</source>
+<translation type="finished">Binary Output Relay Word 31</translation>
+</message>
+<message>
+<source>开出32继电器字</source>
+<translation type="finished">Binary Output Relay Word 32</translation>
+</message>
+<message>
+<source>开出33继电器字</source>
+<translation type="finished">Binary Output Relay Word 33</translation>
+</message>
+<message>
+<source>开出34继电器字</source>
+<translation type="finished">Binary Output Relay Word 34</translation>
+</message>
+<message>
+<source>开出35继电器字</source>
+<translation type="finished">Binary Output Relay Word 35</translation>
+</message>
+<message>
+<source>开出36继电器字</source>
+<translation type="finished">Binary Output Relay Word 36</translation>
+</message>
+<message>
+<source>开出37继电器字</source>
+<translation type="finished">Binary Output Relay Word 37</translation>
+</message>
+<message>
+<source>开出38继电器字</source>
+<translation type="finished">Binary Output Relay Word 38</translation>
+</message>
+<message>
+<source>开出39继电器字</source>
+<translation type="finished">Binary Output Relay Word 39</translation>
+</message>
+<message>
+<source>开出40继电器字</source>
+<translation type="finished">Binary Output Relay Word 40</translation>
+</message>
+<message>
+<source>开出41继电器字</source>
+<translation type="finished">Binary Output Relay Word 41</translation>
+</message>
+<message>
+<source>开出42继电器字</source>
+<translation type="finished">Binary Output Relay Word 42</translation>
+</message>
+<message>
+<source>开出43继电器字</source>
+<translation type="finished">Binary Output Relay Word 43</translation>
+</message>
+<message>
+<source>开出44继电器字</source>
+<translation type="finished">Binary Output Relay Word 44</translation>
+</message>
+<message>
+<source>开出45继电器字</source>
+<translation type="finished">Binary Output Relay Word 45</translation>
+</message>
+<message>
+<source>开出46继电器字</source>
+<translation type="finished">Binary Output Relay Word 46</translation>
+</message>
+<message>
+<source>开出47继电器字</source>
+<translation type="finished">Binary Output Relay Word 47</translation>
+</message>
+<message>
+<source>开出48继电器字</source>
+<translation type="finished">Binary Output Relay Word 48</translation>
+</message>
+<message>
+<source>备自投软压板</source>
+<translation type="unfinished">Automatic Transfer Function(F83) Soft Link Relay Word</translation>
+</message>
+<message>
+<source>主变备自投软压板</source>
+<translation type="unfinished">Automatic Transfer Between Transformers Soft Link Relay Word</translation>
+</message>
+<message>
+<source>失压备自投软压板</source>
+<translation type="unfinished">Automatic Transfer Between Lines Soft Link Relay Word</translation>
+</message>
+<message>
+<source>地震监测</source>
+<translation type="unfinished">Temblor Supervision Soft Link Relay Word</translation>
+</message>
+<message>
+<source>检修压板</source>
+<translation type="finished">Maintain Soft Link Relay Word</translation>
+</message>
+<message>
+<source>备用压板1</source>
+<translation type="finished">Reserve 1 Soft Link Relay Word</translation>
+</message>
+<message>
+<source>备用压板2</source>
+<translation type="finished">Reserve 2 Soft Link Relay Word</translation>
+</message>
+<message>
+<source>备用压板3</source>
+<translation type="finished">Reserve 3 Soft Link Relay Word</translation>
+</message>
+<message>
+<source>备用压板4</source>
+<translation type="finished">Reserve 4 Soft Link Relay Word</translation>
+</message>
+<message>
+<source>备自投功能配置继电器字</source>
+<translation type="unfinished">Automatic Transfer Function(F83) Function Relay Word</translation>
+</message>
+<message>
+<source>备自投重新投入功能配置继电器字</source>
+<translation type="unfinished">Automatic Transfer Function Auto-reset Function Relay Word</translation>
+</message>
+<message>
+<source>主变备自投配置继电器字</source>
+<translation type="unfinished">Automatic Transfer Between Transformers Function Relay Word</translation>
+</message>
+<message>
+<source>失压备自投配置继电器字</source>
+<translation type="unfinished">Automatic Transfer Between Lines Function Relay Word</translation>
+</message>
+<message>
+<source>直列优先配置继电器字</source>
+<translation type="unfinished">Automatic Transfer Of Same Side Function Relay Word</translation>
+</message>
+<message>
+<source>PT1断线检查配置继电器字</source>
+<translation type="unfinished">VT1 Supervision Function Relay Word</translation>
+</message>
+<message>
+<source>PT2断线检查配置继电器字</source>
+<translation type="unfinished">VT2 Supervision Function Relay Word</translation>
+</message>
+<message>
+<source>PT3断线检查配置继电器字</source>
+<translation type="unfinished">VT3 Supervision Function Relay Word</translation>
+</message>
+<message>
+<source>PT4断线检查配置继电器字</source>
+<translation type="unfinished">VT4 Supervision Function Relay Word</translation>
+</message>
+<message>
+<source>备用配置1</source>
+<translation type="finished">Reserve 1 Function Relay Word</translation>
+</message>
+<message>
+<source>备用配置2</source>
+<translation type="finished">Reserve 2 Function Relay Word</translation>
+</message>
+<message>
+<source>备用配置3</source>
+<translation type="finished">Reserve 3 Function Relay Word</translation>
+</message>
+<message>
+<source>备用配置4</source>
+<translation type="finished">Reserve 4 Function Relay Word</translation>
+</message>
+<message>
+<source>脉冲继电器1</source>
+<translation type="finished">Pulse Width Modulation Relay Word 1(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器2</source>
+<translation type="finished">Pulse Width Modulation Relay Word 2(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器3</source>
+<translation type="finished">Pulse Width Modulation Relay Word 3(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器4</source>
+<translation type="finished">Pulse Width Modulation Relay Word 4(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器5</source>
+<translation type="finished">Pulse Width Modulation Relay Word 5(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器6</source>
+<translation type="finished">Pulse Width Modulation Relay Word 6(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器7</source>
+<translation type="finished">Pulse Width Modulation Relay Word 7(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器8</source>
+<translation type="finished">Pulse Width Modulation Relay Word 8(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器9</source>
+<translation type="finished">Pulse Width Modulation Relay Word 9(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器10</source>
+<translation type="finished">Pulse Width Modulation Relay Word 10(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器11</source>
+<translation type="finished">Pulse Width Modulation Relay Word 11(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器12</source>
+<translation type="finished">Pulse Width Modulation Relay Word 12(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器13</source>
+<translation type="finished">Pulse Width Modulation Relay Word 13(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器14</source>
+<translation type="finished">Pulse Width Modulation Relay Word 14(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器15</source>
+<translation type="finished">Pulse Width Modulation Relay Word 15(duty cycle 50%)</translation>
+</message>
+<message>
+<source>脉冲继电器16</source>
+<translation type="finished">Pulse Width Modulation Relay Word 16(duty cycle 50%)</translation>
+</message>
+<message>
+<source>传动继电器1</source>
+<translation type="finished">Binary Output 1 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器2</source>
+<translation type="finished">Binary Output 2 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器3</source>
+<translation type="finished">Binary Output 3 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器4</source>
+<translation type="finished">Binary Output 4 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器5</source>
+<translation type="finished">Binary Output 5 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器6</source>
+<translation type="finished">Binary Output 6 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器7</source>
+<translation type="finished">Binary Output 7 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器8</source>
+<translation type="finished">Binary Output 8 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器9</source>
+<translation type="finished">Binary Output 9 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器10</source>
+<translation type="finished">Binary Output 10 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器11</source>
+<translation type="finished">Binary Output 11 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器12</source>
+<translation type="finished">Binary Output 12 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器13</source>
+<translation type="finished">Binary Output 13 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器14</source>
+<translation type="finished">Binary Output 14 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器15</source>
+<translation type="finished">Binary Output 15 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器16</source>
+<translation type="finished">Binary Output 16 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器17</source>
+<translation type="finished">Binary Output 17 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器18</source>
+<translation type="finished">Binary Output 18 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器19</source>
+<translation type="finished">Binary Output 19 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器20</source>
+<translation type="finished">Binary Output 20 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器21</source>
+<translation type="finished">Binary Output 21 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器22</source>
+<translation type="finished">Binary Output 22 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器23</source>
+<translation type="finished">Binary Output 23 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器24</source>
+<translation type="finished">Binary Output 24 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器25</source>
+<translation type="finished">Binary Output 25 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器26</source>
+<translation type="finished">Binary Output 26 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器27</source>
+<translation type="finished">Binary Output 27 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器28</source>
+<translation type="finished">Binary Output 28 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器29</source>
+<translation type="finished">Binary Output 29 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器30</source>
+<translation type="finished">Binary Output 30 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器31</source>
+<translation type="finished">Binary Output 31 Test Relay Word </translation>
+</message>
+<message>
+<source>传动继电器32</source>
+<translation type="finished">Binary Output 32 Test Relay Word </translation>
+</message>
+<message>
+<source>信号继电器1</source>
+<translation type="finished">Signal Relay Word 1 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器2</source>
+<translation type="finished">Signal Relay Word 2 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器3</source>
+<translation type="finished">Signal Relay Word 3 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器4</source>
+<translation type="finished">Signal Relay Word 4 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器5</source>
+<translation type="finished">Signal Relay Word 5 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器6</source>
+<translation type="finished">Signal Relay Word 6 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器7</source>
+<translation type="finished">Signal Relay Word 7 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器8</source>
+<translation type="finished">Signal Relay Word 8 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器9</source>
+<translation type="finished">Signal Relay Word 9 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器10</source>
+<translation type="finished">Signal Relay Word 10 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器11</source>
+<translation type="finished">Signal Relay Word 11 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器12</source>
+<translation type="finished">Signal Relay Word 12 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器13</source>
+<translation type="finished">Signal Relay Word 13 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器14</source>
+<translation type="finished">Signal Relay Word 14 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器15</source>
+<translation type="finished">Signal Relay Word 15 (Power off Latched)</translation>
+</message>
+<message>
+<source>信号继电器16</source>
+<translation type="finished">Signal Relay Word 16 (Power off Latched)</translation>
+</message>
+<message>
+<source>LED1绿灯继电器字</source>
+<translation type="finished">LED 1 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED1红灯继电器字</source>
+<translation type="finished">LED 1 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED2绿灯继电器字</source>
+<translation type="finished">LED 2 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED2红灯继电器字</source>
+<translation type="finished">LED 2 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED3绿灯继电器字</source>
+<translation type="finished">LED 3 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED3红灯继电器字</source>
+<translation type="finished">LED 3 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED4绿灯继电器字</source>
+<translation type="finished">LED 4 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED4红灯继电器字</source>
+<translation type="finished">LED 4 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED5绿灯继电器字</source>
+<translation type="finished">LED 5 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED5红灯继电器字</source>
+<translation type="finished">LED 5 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED6绿灯继电器字</source>
+<translation type="finished">LED 6 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED6红灯继电器字</source>
+<translation type="finished">LED 6 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED7绿灯继电器字</source>
+<translation type="finished">LED 7 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED7红灯继电器字</source>
+<translation type="finished">LED 7 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED8绿灯继电器字</source>
+<translation type="finished">LED 8 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED8红灯继电器字</source>
+<translation type="finished">LED 8 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED9绿灯继电器字</source>
+<translation type="finished">LED 9 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED9红灯继电器字</source>
+<translation type="finished">LED 9 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED10绿灯继电器字</source>
+<translation type="finished">LED 10 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED10红灯继电器字</source>
+<translation type="finished">LED 10 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED11绿灯继电器字</source>
+<translation type="finished">LED 11 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED11红灯继电器字</source>
+<translation type="finished">LED 11 (Red) Relay Word</translation>
+</message>
+<message>
+<source>LED12绿灯继电器字</source>
+<translation type="finished">LED 12 (Green) Relay Word</translation>
+</message>
+<message>
+<source>LED12红灯继电器字</source>
+<translation type="finished">LED 12 (Red) Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器1</source>
+<translation type="finished">Virtual Binary 1 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器2</source>
+<translation type="finished">Virtual Binary 2 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器3</source>
+<translation type="finished">Virtual Binary 3 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器4</source>
+<translation type="finished">Virtual Binary 4 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器5</source>
+<translation type="finished">Virtual Binary 5 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器6</source>
+<translation type="finished">Virtual Binary 6 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器7</source>
+<translation type="finished">Virtual Binary 7 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器8</source>
+<translation type="finished">Virtual Binary 8 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器9</source>
+<translation type="finished">Virtual Binary 9 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器10</source>
+<translation type="finished">Virtual Binary 10 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器11</source>
+<translation type="finished">Virtual Binary 11 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器12</source>
+<translation type="finished">Virtual Binary 12 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器13</source>
+<translation type="finished">Virtual Binary 13 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器14</source>
+<translation type="finished">Virtual Binary 14 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器15</source>
+<translation type="finished">Virtual Binary 15 Input Relay Word</translation>
+</message>
+<message>
+<source>虚拟开入继电器16</source>
+<translation type="finished">Virtual Binary 16 Input Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器1</source>
+<translation type="finished">Remote Control 1 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器2</source>
+<translation type="finished">Remote Control 2 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器3</source>
+<translation type="finished">Remote Control 3 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器4</source>
+<translation type="finished">Remote Control 4 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器5</source>
+<translation type="finished">Remote Control 5 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器6</source>
+<translation type="finished">Remote Control 6 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器7</source>
+<translation type="finished">Remote Control 7 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器8</source>
+<translation type="finished">Remote Control 8 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器9</source>
+<translation type="finished">Remote Control 9 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器10</source>
+<translation type="finished">Remote Control 10 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器11</source>
+<translation type="finished">Remote Control 11 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器12</source>
+<translation type="finished">Remote Control 12 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器13</source>
+<translation type="finished">Remote Control 13 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器14</source>
+<translation type="finished">Remote Control 14 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器15</source>
+<translation type="finished">Remote Control 15 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器16</source>
+<translation type="finished">Remote Control 16 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器17</source>
+<translation type="finished">Remote Control 17 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器18</source>
+<translation type="finished">Remote Control 18 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器19</source>
+<translation type="finished">Remote Control 19 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器20</source>
+<translation type="finished">Remote Control 20 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器21</source>
+<translation type="finished">Remote Control 21 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器22</source>
+<translation type="finished">Remote Control 22 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器23</source>
+<translation type="finished">Remote Control 23 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器24</source>
+<translation type="finished">Remote Control 24 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器25</source>
+<translation type="finished">Remote Control 25 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器26</source>
+<translation type="finished">Remote Control 26 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器27</source>
+<translation type="finished">Remote Control 27 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器28</source>
+<translation type="finished">Remote Control 28 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器29</source>
+<translation type="finished">Remote Control 29 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器30</source>
+<translation type="finished">Remote Control 30 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器31</source>
+<translation type="finished">Remote Control 31 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器32</source>
+<translation type="finished">Remote Control 32 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器33</source>
+<translation type="finished">Remote Control 33 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器34</source>
+<translation type="finished">Remote Control 34 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器35</source>
+<translation type="finished">Remote Control 35 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器36</source>
+<translation type="finished">Remote Control 36 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器37</source>
+<translation type="finished">Remote Control 37 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器38</source>
+<translation type="finished">Remote Control 38 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器39</source>
+<translation type="finished">Remote Control 39 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器40</source>
+<translation type="finished">Remote Control 40 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器41</source>
+<translation type="finished">Remote Control 41 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器42</source>
+<translation type="finished">Remote Control 42 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器43</source>
+<translation type="finished">Remote Control 43 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器44</source>
+<translation type="finished">Remote Control 44 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器45</source>
+<translation type="finished">Remote Control 45 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器46</source>
+<translation type="finished">Remote Control 46 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器47</source>
+<translation type="finished">Remote Control 47 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器48</source>
+<translation type="finished">Remote Control 48 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器49</source>
+<translation type="finished">Remote Control 49 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器50</source>
+<translation type="finished">Remote Control 50 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器51</source>
+<translation type="finished">Remote Control 51 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器52</source>
+<translation type="finished">Remote Control 52 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器53</source>
+<translation type="finished">Remote Control 53 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器54</source>
+<translation type="finished">Remote Control 54 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器55</source>
+<translation type="finished">Remote Control 55 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器56</source>
+<translation type="finished">Remote Control 56 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器57</source>
+<translation type="finished">Remote Control 57 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控预置继电器58</source>
+<translation type="finished">Remote Control 58 Preset Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器1</source>
+<translation type="finished">Remote Control 1 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器2</source>
+<translation type="finished">Remote Control 2 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器3</source>
+<translation type="finished">Remote Control 3 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器4</source>
+<translation type="finished">Remote Control 4 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器5</source>
+<translation type="finished">Remote Control 5 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器6</source>
+<translation type="finished">Remote Control 6 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器7</source>
+<translation type="finished">Remote Control 7 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器8</source>
+<translation type="finished">Remote Control 8 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器9</source>
+<translation type="finished">Remote Control 9 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器10</source>
+<translation type="finished">Remote Control 10 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器11</source>
+<translation type="finished">Remote Control 11 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器12</source>
+<translation type="finished">Remote Control 12 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器13</source>
+<translation type="finished">Remote Control 13 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器14</source>
+<translation type="finished">Remote Control 14 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器15</source>
+<translation type="finished">Remote Control 15 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器16</source>
+<translation type="finished">Remote Control 16 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器17</source>
+<translation type="finished">Remote Control 17 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器18</source>
+<translation type="finished">Remote Control 18 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器19</source>
+<translation type="finished">Remote Control 19 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器20</source>
+<translation type="finished">Remote Control 20 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器21</source>
+<translation type="finished">Remote Control 21 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器22</source>
+<translation type="finished">Remote Control 22 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器23</source>
+<translation type="finished">Remote Control 23 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器24</source>
+<translation type="finished">Remote Control 24 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器25</source>
+<translation type="finished">Remote Control 25 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器26</source>
+<translation type="finished">Remote Control 26 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器27</source>
+<translation type="finished">Remote Control 27 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器28</source>
+<translation type="finished">Remote Control 28 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器29</source>
+<translation type="finished">Remote Control 29 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器30</source>
+<translation type="finished">Remote Control 30 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器31</source>
+<translation type="finished">Remote Control 31 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器32</source>
+<translation type="finished">Remote Control 32 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器33</source>
+<translation type="finished">Remote Control 33 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器34</source>
+<translation type="finished">Remote Control 34 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器35</source>
+<translation type="finished">Remote Control 35 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器36</source>
+<translation type="finished">Remote Control 36 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器37</source>
+<translation type="finished">Remote Control 37 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器38</source>
+<translation type="finished">Remote Control 38 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器39</source>
+<translation type="finished">Remote Control 39 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器40</source>
+<translation type="finished">Remote Control 40 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器41</source>
+<translation type="finished">Remote Control 41 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器42</source>
+<translation type="finished">Remote Control 42 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器43</source>
+<translation type="finished">Remote Control 43 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器44</source>
+<translation type="finished">Remote Control 44 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器45</source>
+<translation type="finished">Remote Control 45 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器46</source>
+<translation type="finished">Remote Control 46 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器47</source>
+<translation type="finished">Remote Control 47 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器48</source>
+<translation type="finished">Remote Control 48 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器49</source>
+<translation type="finished">Remote Control 49 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器50</source>
+<translation type="finished">Remote Control 50 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器51</source>
+<translation type="finished">Remote Control 51 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器52</source>
+<translation type="finished">Remote Control 52 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器53</source>
+<translation type="finished">Remote Control 53 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器54</source>
+<translation type="finished">Remote Control 54 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器55</source>
+<translation type="finished">Remote Control 55 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器56</source>
+<translation type="finished">Remote Control 56 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器57</source>
+<translation type="finished">Remote Control 57 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控执行继电器58</source>
+<translation type="finished">Remote Control 58 Execute Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器1</source>
+<translation type="finished">Remote Control 1 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器2</source>
+<translation type="finished">Remote Control 2 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器3</source>
+<translation type="finished">Remote Control 3 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器4</source>
+<translation type="finished">Remote Control 4 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器5</source>
+<translation type="finished">Remote Control 5 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器6</source>
+<translation type="finished">Remote Control 6 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器7</source>
+<translation type="finished">Remote Control 7 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器8</source>
+<translation type="finished">Remote Control 8 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器9</source>
+<translation type="finished">Remote Control 9 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器10</source>
+<translation type="finished">Remote Control 10 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器11</source>
+<translation type="finished">Remote Control 11 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器12</source>
+<translation type="finished">Remote Control 12 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器13</source>
+<translation type="finished">Remote Control 13 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器14</source>
+<translation type="finished">Remote Control 14 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器15</source>
+<translation type="finished">Remote Control 15 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器16</source>
+<translation type="finished">Remote Control 16 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器17</source>
+<translation type="finished">Remote Control 17 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器18</source>
+<translation type="finished">Remote Control 18 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器19</source>
+<translation type="finished">Remote Control 19 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器20</source>
+<translation type="finished">Remote Control 20 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器21</source>
+<translation type="finished">Remote Control 21 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器22</source>
+<translation type="finished">Remote Control 22 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器23</source>
+<translation type="finished">Remote Control 23 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器24</source>
+<translation type="finished">Remote Control 24 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器25</source>
+<translation type="finished">Remote Control 25 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器26</source>
+<translation type="finished">Remote Control 26 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器27</source>
+<translation type="finished">Remote Control 27 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器28</source>
+<translation type="finished">Remote Control 28 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器29</source>
+<translation type="finished">Remote Control 29 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器30</source>
+<translation type="finished">Remote Control 30 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器31</source>
+<translation type="finished">Remote Control 31 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器32</source>
+<translation type="finished">Remote Control 32 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器33</source>
+<translation type="finished">Remote Control 33 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器34</source>
+<translation type="finished">Remote Control 34 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器35</source>
+<translation type="finished">Remote Control 35 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器36</source>
+<translation type="finished">Remote Control 36 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器37</source>
+<translation type="finished">Remote Control 37 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器38</source>
+<translation type="finished">Remote Control 38 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器39</source>
+<translation type="finished">Remote Control 39 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器40</source>
+<translation type="finished">Remote Control 40 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器41</source>
+<translation type="finished">Remote Control 41 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器42</source>
+<translation type="finished">Remote Control 42 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器43</source>
+<translation type="finished">Remote Control 43 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器44</source>
+<translation type="finished">Remote Control 44 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器45</source>
+<translation type="finished">Remote Control 45 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器46</source>
+<translation type="finished">Remote Control 46 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器47</source>
+<translation type="finished">Remote Control 47 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器48</source>
+<translation type="finished">Remote Control 48 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器49</source>
+<translation type="finished">Remote Control 49 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器50</source>
+<translation type="finished">Remote Control 50 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器51</source>
+<translation type="finished">Remote Control 51 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器52</source>
+<translation type="finished">Remote Control 52 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器53</source>
+<translation type="finished">Remote Control 53 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器54</source>
+<translation type="finished">Remote Control 54 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器55</source>
+<translation type="finished">Remote Control 55 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器56</source>
+<translation type="finished">Remote Control 56 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器57</source>
+<translation type="finished">Remote Control 57 Verify Relay Word</translation>
+</message>
+<message>
+<source>遥控反校继电器58</source>
+<translation type="finished">Remote Control 58 Verify Relay Word</translation>
+</message>
+<message>
+<source>大于等于继电器1</source>
+<translation type="finished">Compare Relay Word 1</translation>
+</message>
+<message>
+<source>大于等于继电器2</source>
+<translation type="finished">Compare Relay Word 2</translation>
+</message>
+<message>
+<source>大于等于继电器3</source>
+<translation type="finished">Compare Relay Word 3</translation>
+</message>
+<message>
+<source>大于等于继电器4</source>
+<translation type="finished">Compare Relay Word 4</translation>
+</message>
+<message>
+<source>大于等于继电器5</source>
+<translation type="finished">Compare Relay Word 5</translation>
+</message>
+<message>
+<source>大于等于继电器6</source>
+<translation type="finished">Compare Relay Word 6</translation>
+</message>
+<message>
+<source>大于等于继电器7</source>
+<translation type="finished">Compare Relay Word 7</translation>
+</message>
+<message>
+<source>大于等于继电器8</source>
+<translation type="finished">Compare Relay Word 8</translation>
+</message>
+<message>
+<source>常数时间继电器1</source>
+<translation type="finished">Constant Timer Relay Word 1</translation>
+</message>
+<message>
+<source>常数时间继电器2</source>
+<translation type="finished">Constant Timer Relay Word 2</translation>
+</message>
+<message>
+<source>常数时间继电器3</source>
+<translation type="finished">Constant Timer Relay Word 3</translation>
+</message>
+<message>
+<source>常数时间继电器4</source>
+<translation type="finished">Constant Timer Relay Word 4</translation>
+</message>
+<message>
+<source>常数时间继电器5</source>
+<translation type="finished">Constant Timer Relay Word 5</translation>
+</message>
+<message>
+<source>常数时间继电器6</source>
+<translation type="finished">Constant Timer Relay Word 6</translation>
+</message>
+<message>
+<source>常数时间继电器7</source>
+<translation type="finished">Constant Timer Relay Word 7</translation>
+</message>
+<message>
+<source>常数时间继电器8</source>
+<translation type="finished">Constant Timer Relay Word 8</translation>
+</message>
+<message>
+<source>发送链接继电器字1</source>
+<translation type="finished">Mirror Image Transmit Relay Word 1</translation>
+</message>
+<message>
+<source>发送链接继电器字2</source>
+<translation type="finished">Mirror Image Transmit Relay Word 2</translation>
+</message>
+<message>
+<source>发送链接继电器字3</source>
+<translation type="finished">Mirror Image Transmit Relay Word 3</translation>
+</message>
+<message>
+<source>发送链接继电器字4</source>
+<translation type="finished">Mirror Image Transmit Relay Word 4</translation>
+</message>
+<message>
+<source>发送链接继电器字5</source>
+<translation type="finished">Mirror Image Transmit Relay Word 5</translation>
+</message>
+<message>
+<source>发送链接继电器字6</source>
+<translation type="finished">Mirror Image Transmit Relay Word 6</translation>
+</message>
+<message>
+<source>发送链接继电器字7</source>
+<translation type="finished">Mirror Image Transmit Relay Word 7</translation>
+</message>
+<message>
+<source>发送链接继电器字8</source>
+<translation type="finished">Mirror Image Transmit Relay Word 8</translation>
+</message>
+<message>
+<source>发送链接继电器字9</source>
+<translation type="finished">Mirror Image Transmit Relay Word 9</translation>
+</message>
+<message>
+<source>发送链接继电器字10</source>
+<translation type="finished">Mirror Image Transmit Relay Word 10</translation>
+</message>
+<message>
+<source>发送链接继电器字11</source>
+<translation type="finished">Mirror Image Transmit Relay Word 11</translation>
+</message>
+<message>
+<source>发送链接继电器字12</source>
+<translation type="finished">Mirror Image Transmit Relay Word 12</translation>
+</message>
+<message>
+<source>发送链接继电器字13</source>
+<translation type="finished">Mirror Image Transmit Relay Word 13</translation>
+</message>
+<message>
+<source>发送链接继电器字14</source>
+<translation type="finished">Mirror Image Transmit Relay Word 14</translation>
+</message>
+<message>
+<source>发送链接继电器字15</source>
+<translation type="finished">Mirror Image Transmit Relay Word 15</translation>
+</message>
+<message>
+<source>发送链接继电器字16</source>
+<translation type="finished">Mirror Image Transmit Relay Word 16</translation>
+</message>
+<message>
+<source>接收链接继电器字1</source>
+<translation type="finished">Mirror Image Receive Relay Word 1</translation>
+</message>
+<message>
+<source>接收链接继电器字2</source>
+<translation type="finished">Mirror Image Receive Relay Word 2</translation>
+</message>
+<message>
+<source>接收链接继电器字3</source>
+<translation type="finished">Mirror Image Receive Relay Word 3</translation>
+</message>
+<message>
+<source>接收链接继电器字4</source>
+<translation type="finished">Mirror Image Receive Relay Word 4</translation>
+</message>
+<message>
+<source>接收链接继电器字5</source>
+<translation type="finished">Mirror Image Receive Relay Word 5</translation>
+</message>
+<message>
+<source>接收链接继电器字6</source>
+<translation type="finished">Mirror Image Receive Relay Word 6</translation>
+</message>
+<message>
+<source>接收链接继电器字7</source>
+<translation type="finished">Mirror Image Receive Relay Word 7</translation>
+</message>
+<message>
+<source>接收链接继电器字8</source>
+<translation type="finished">Mirror Image Receive Relay Word 8</translation>
+</message>
+<message>
+<source>接收链接继电器字9</source>
+<translation type="finished">Mirror Image Receive Relay Word 9</translation>
+</message>
+<message>
+<source>接收链接继电器字10</source>
+<translation type="finished">Mirror Image Receive Relay Word 10</translation>
+</message>
+<message>
+<source>接收链接继电器字11</source>
+<translation type="finished">Mirror Image Receive Relay Word 11</translation>
+</message>
+<message>
+<source>接收链接继电器字12</source>
+<translation type="finished">Mirror Image Receive Relay Word 12</translation>
+</message>
+<message>
+<source>接收链接继电器字13</source>
+<translation type="finished">Mirror Image Receive Relay Word 13</translation>
+</message>
+<message>
+<source>接收链接继电器字14</source>
+<translation type="finished">Mirror Image Receive Relay Word 14</translation>
+</message>
+<message>
+<source>接收链接继电器字15</source>
+<translation type="finished">Mirror Image Receive Relay Word 15</translation>
+</message>
+<message>
+<source>接收链接继电器字16</source>
+<translation type="finished">Mirror Image Receive Relay Word 16</translation>
+</message>
+<message>
+<source>计数继电器字1</source>
+<translation type="finished">Counter Relay Word 1</translation>
+</message>
+<message>
+<source>计数继电器字2</source>
+<translation type="finished">Counter Relay Word 2</translation>
+</message>
+<message>
+<source>计数继电器字3</source>
+<translation type="finished">Counter Relay Word 3</translation>
+</message>
+<message>
+<source>计数继电器字4</source>
+<translation type="finished">Counter Relay Word 4</translation>
+</message>
+<message>
+<source>计数继电器字5</source>
+<translation type="finished">Counter Relay Word 5</translation>
+</message>
+<message>
+<source>计数继电器字6</source>
+<translation type="finished">Counter Relay Word 6</translation>
+</message>
+<message>
+<source>计数继电器字7</source>
+<translation type="finished">Counter Relay Word 7</translation>
+</message>
+<message>
+<source>计数继电器字8</source>
+<translation type="finished">Counter Relay Word 8</translation>
+</message>
+</context>
+<context>
+<name>FuncType</name>
+<message TypeID="99">
+<source>跳转继电器</source>
+<translation type="finished">Trip Command Pulse Relay Word</translation>
+</message>
+<message TypeID="100">
+<source>复归自保持继电器</source>
+<translation type="finished">Reset Self-Hold Mediate Variable Relay Word</translation>
+</message>
+<message TypeID="101">
+<source>复归时间继电器</source>
+<translation type="finished">Reset Timer Relay Word</translation>
+</message>
+<message TypeID="102">
+<source>复归跳闸继电器</source>
+<translation type="finished">Reset Trip Command Pulse Relay Word</translation>
+</message>
+<message TypeID="103">
+<source>复归信号继电器</source>
+<translation type="finished">Reset Signal Relay Word</translation>
+</message>
+<message TypeID="104">
+<source>启动报告</source>
+<translation type="finished">Make Pickup Report</translation>
+</message>
+<message TypeID="105">
+<source>动作报告</source>
+<translation type="finished">Make Trip Report</translation>
+</message>
+<message TypeID="106">
+<source>报告结束</source>
+<translation type="finished">Make End Report</translation>
+</message>
+<message TypeID="107">
+<source>告警报告</source>
+<translation type="finished">Make Alarm Report</translation>
+</message>
+<message TypeID="108">
+<source>压板投退</source>
+<translation type="finished">Enable/Disenable a Soft Link</translation>
+</message>
+<message TypeID="109">
+<source>复归不掉电自保持继</source>
+<translation type="finished">Reset Self-Hold Mediate Variable Relay Word 2(Reset latched)</translation>
+</message>
+<message TypeID="110">
+<source>递增</source>
+<translation type="finished">Counter Increase</translation>
+</message>
+<message TypeID="111">
+<source>递减</source>
+<translation type="finished">Counter Decrease</translation>
+</message>
+<message TypeID="112">
+<source>复归计数继电器</source>
+<translation type="finished">Counter Reset</translation>
+</message>
+<message TypeID="200">
+<source>自定义</source>
+<translation type="finished">User-defined</translation>
+</message>
+<message TypeID="201">
+<source>闪烁led</source>
+<translation type="finished">LED Relay Word</translation>
+</message>
+</context>
+<context>
+<name>RelayWordType</name>
+<message RelayWordTypeIndex="1">
+<source>保护继电器字</source>
+<translation type="finished">Pro.RelayWord</translation>
+</message>
+<message RelayWordTypeIndex="2">
+<source>中间继电器字</source>
+<translation type="finished">Mediate Variable Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="3">
+<source>自保持中间继电器字</source>
+<translation type="finished">Self-hold Mediate Variable Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="4">
+<source>时间继电器字</source>
+<translation type="finished">Timer Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="5">
+<source>跳闸继电器</source>
+<translation type="finished">Trip Command Pulse Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="6">
+<source>虚拟继电器</source>
+<translation type="finished">Virtual Mediate Variable Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="7">
+<source>开入继电器</source>
+<translation type="finished">Binary Input Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="8">
+<source>开出继电器</source>
+<translation type="finished">Binary Output Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="9">
+<source>压板继电器</source>
+<translation type="finished">Soft Link Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="10">
+<source>配置继电器</source>
+<translation type="finished">Function Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="11">
+<source>脉冲继电器</source>
+<translation type="finished">Pulse Width Modulation Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="12">
+<source>传动继电器</source>
+<translation type="finished">Binary Output Test Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="13">
+<source>信号继电器</source>
+<translation type="finished">Signal Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="14">
+<source>LED继电器</source>
+<translation type="finished">LED Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="15">
+<source>虚拟开入</source>
+<translation type="finished">Virtual Binary Input Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="16">
+<source>遥控预置继电器</source>
+<translation type="finished">Remote Control Preset Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="17">
+<source>遥控执行继电器</source>
+<translation type="finished">Remote Control Execute Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="18">
+<source>遥控反校继电器</source>
+<translation type="finished">Remote Control Verify Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="19">
+<source>大于等于继电器</source>
+<translation type="finished">Compare Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="20">
+<source>常数时间继电器</source>
+<translation type="finished">Constant Timer Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="21">
+<source>发送链接继电器</source>
+<translation type="finished">Transmit Link Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="22">
+<source>接收链接继电器</source>
+<translation type="finished">Receive Link Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="23">
+<source>电保持中间继</source>
+<translation type="finished">Mediate Variable Relay Word 7(Reset latched)</translation>
+</message>
+<message RelayWordTypeIndex="24">
+<source>电保持自保持继</source>
+<translation type="finished">Self-Hold Mediate Variable Relay Word 7(Reset latched)</translation>
+</message>
+<message RelayWordTypeIndex="25">
+<source>调试输出继电器</source>
+<translation type="finished">Debug Output Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="26">
+<source>调试输入继电器</source>
+<translation type="finished">Debug Input Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="27">
+<source>当地控制继电器</source>
+<translation type="finished">Local Control Relay Word</translation>
+</message>
+<message RelayWordTypeIndex="28">
+<source>计数继电器</source>
+<translation type="finished">Counter Relay Word</translation>
+</message>
+</context>
+<context>
+<name>TBIPara</name>
+<message>
+<source>实遥信1</source>
+<translation type="finished">BI1</translation>
+</message>
+<message>
+<source>实遥信2</source>
+<translation type="finished">BI2</translation>
+</message>
+<message>
+<source>实遥信3</source>
+<translation type="finished">BI3</translation>
+</message>
+<message>
+<source>实遥信4</source>
+<translation type="finished">BI4</translation>
+</message>
+<message>
+<source>实遥信5</source>
+<translation type="finished">BI5</translation>
+</message>
+<message>
+<source>实遥信6</source>
+<translation type="finished">BI6</translation>
+</message>
+<message>
+<source>实遥信7</source>
+<translation type="finished">BI7</translation>
+</message>
+<message>
+<source>实遥信8</source>
+<translation type="finished">BI8</translation>
+</message>
+<message>
+<source>实遥信9</source>
+<translation type="finished">BI9</translation>
+</message>
+<message>
+<source>实遥信10</source>
+<translation type="finished">BI10</translation>
+</message>
+<message>
+<source>实遥信11</source>
+<translation type="finished">BI11</translation>
+</message>
+<message>
+<source>实遥信12</source>
+<translation type="finished">BI12</translation>
+</message>
+<message>
+<source>实遥信13</source>
+<translation type="finished">BI13</translation>
+</message>
+<message>
+<source>实遥信14</source>
+<translation type="finished">BI14</translation>
+</message>
+<message>
+<source>实遥信15</source>
+<translation type="finished">BI15</translation>
+</message>
+<message>
+<source>实遥信16</source>
+<translation type="finished">BI16</translation>
+</message>
+<message>
+<source>实遥信17</source>
+<translation type="finished">BI17</translation>
+</message>
+<message>
+<source>实遥信18</source>
+<translation type="finished">BI18</translation>
+</message>
+<message>
+<source>实遥信19</source>
+<translation type="finished">BI19</translation>
+</message>
+<message>
+<source>实遥信20</source>
+<translation type="finished">BI20</translation>
+</message>
+<message>
+<source>实遥信21</source>
+<translation type="finished">BI21</translation>
+</message>
+<message>
+<source>实遥信22</source>
+<translation type="finished">BI22</translation>
+</message>
+<message>
+<source>实遥信23</source>
+<translation type="finished">BI23</translation>
+</message>
+<message>
+<source>实遥信24</source>
+<translation type="finished">BI24</translation>
+</message>
+<message>
+<source>实遥信25</source>
+<translation type="finished">BI25</translation>
+</message>
+<message>
+<source>实遥信26</source>
+<translation type="finished">BI26</translation>
+</message>
+<message>
+<source>实遥信27</source>
+<translation type="finished">BI27</translation>
+</message>
+<message>
+<source>实遥信28</source>
+<translation type="finished">BI28</translation>
+</message>
+<message>
+<source>实遥信29</source>
+<translation type="finished">BI29</translation>
+</message>
+<message>
+<source>实遥信30</source>
+<translation type="finished">BI30</translation>
+</message>
+<message>
+<source>实遥信31</source>
+<translation type="finished">BI31</translation>
+</message>
+<message>
+<source>实遥信32</source>
+<translation type="finished">BI32</translation>
+</message>
+<message>
+<source>实遥信33</source>
+<translation type="finished">BI33</translation>
+</message>
+<message>
+<source>实遥信34</source>
+<translation type="finished">BI34</translation>
+</message>
+<message>
+<source>实遥信35</source>
+<translation type="finished">BI35</translation>
+</message>
+<message>
+<source>实遥信36</source>
+<translation type="finished">BI36</translation>
+</message>
+<message>
+<source>实遥信37</source>
+<translation type="finished">BI37</translation>
+</message>
+<message>
+<source>实遥信38</source>
+<translation type="finished">BI38</translation>
+</message>
+<message>
+<source>实遥信39</source>
+<translation type="finished">BI39</translation>
+</message>
+<message>
+<source>实遥信40</source>
+<translation type="finished">BI40</translation>
+</message>
+<message>
+<source>实遥信41</source>
+<translation type="finished">BI41</translation>
+</message>
+<message>
+<source>实遥信42</source>
+<translation type="finished">BI42</translation>
+</message>
+<message>
+<source>实遥信43</source>
+<translation type="finished">BI43</translation>
+</message>
+<message>
+<source>实遥信44</source>
+<translation type="finished">BI44</translation>
+</message>
+<message>
+<source>实遥信45</source>
+<translation type="finished">BI45</translation>
+</message>
+<message>
+<source>实遥信46</source>
+<translation type="finished">BI46</translation>
+</message>
+<message>
+<source>实遥信47</source>
+<translation type="finished">BI47</translation>
+</message>
+<message>
+<source>实遥信48</source>
+<translation type="finished">BI48</translation>
+</message>
+<message>
+<source>实遥信49</source>
+<translation type="finished">BI49</translation>
+</message>
+<message>
+<source>实遥信50</source>
+<translation type="finished">BI50</translation>
+</message>
+<message>
+<source>实遥信51</source>
+<translation type="finished">BI51</translation>
+</message>
+<message>
+<source>实遥信52</source>
+<translation type="finished">BI52</translation>
+</message>
+<message>
+<source>实遥信53</source>
+<translation type="finished">BI53</translation>
+</message>
+<message>
+<source>实遥信54</source>
+<translation type="finished">BI54</translation>
+</message>
+<message>
+<source>实遥信55</source>
+<translation type="finished">BI55</translation>
+</message>
+<message>
+<source>实遥信56</source>
+<translation type="finished">BI56</translation>
+</message>
+<message>
+<source>实遥信57</source>
+<translation type="finished">BI57</translation>
+</message>
+<message>
+<source>实遥信58</source>
+<translation type="finished">BI58</translation>
+</message>
+<message>
+<source>实遥信59</source>
+<translation type="finished">BI59</translation>
+</message>
+<message>
+<source>实遥信60</source>
+<translation type="finished">BI60</translation>
+</message>
+<message>
+<source>实遥信61</source>
+<translation type="finished">BI61</translation>
+</message>
+<message>
+<source>实遥信62</source>
+<translation type="finished">BI62</translation>
+</message>
+<message>
+<source>实遥信63</source>
+<translation type="finished">BI63</translation>
+</message>
+<message>
+<source>实遥信64</source>
+<translation type="finished">BI64</translation>
+</message>
+<message>
+<source>实遥信65</source>
+<translation type="finished">BI65</translation>
+</message>
+<message>
+<source>实遥信66</source>
+<translation type="finished">BI66</translation>
+</message>
+<message>
+<source>实遥信67</source>
+<translation type="finished">BI67</translation>
+</message>
+<message>
+<source>实遥信68</source>
+<translation type="finished">BI68</translation>
+</message>
+<message>
+<source>信号复归</source>
+<translation type="finished">BI69</translation>
+</message>
+<message>
+<source>内部遥信2</source>
+<translation type="finished">BI70</translation>
+</message>
+<message>
+<source>内部遥信3</source>
+<translation type="finished">BI71</translation>
+</message>
+<message>
+<source>内部遥信4</source>
+<translation type="finished">BI72</translation>
+</message>
+<message>
+<source>内部遥信5</source>
+<translation type="finished">BI73</translation>
+</message>
+<message>
+<source>内部遥信6</source>
+<translation type="finished">BI74</translation>
+</message>
+<message>
+<source>内部遥信7</source>
+<translation type="finished">BI75</translation>
+</message>
+<message>
+<source>内部遥信8</source>
+<translation type="finished">BI76</translation>
+</message>
+<message>
+<source>内部遥信9</source>
+<translation type="finished">BI77</translation>
+</message>
+<message>
+<source>内部遥信10</source>
+<translation type="finished">BI78</translation>
+</message>
+<message>
+<source>内部遥信11</source>
+<translation type="finished">BI79</translation>
+</message>
+<message>
+<source>内部遥信12</source>
+<translation type="finished">BI80</translation>
+</message>
+<message>
+<source>内部遥信13</source>
+<translation type="finished">BI81</translation>
+</message>
+<message>
+<source>内部遥信14</source>
+<translation type="finished">BI82</translation>
+</message>
+<message>
+<source>内部遥信15</source>
+<translation type="finished">BI83</translation>
+</message>
+<message>
+<source>虚遥信1</source>
+<translation type="finished">BI84</translation>
+</message>
+<message>
+<source>虚遥信2</source>
+<translation type="finished">BI85</translation>
+</message>
+<message>
+<source>虚遥信3</source>
+<translation type="finished">BI86</translation>
+</message>
+<message>
+<source>虚遥信4</source>
+<translation type="finished">BI87</translation>
+</message>
+<message>
+<source>虚遥信5</source>
+<translation type="finished">BI88</translation>
+</message>
+<message>
+<source>虚遥信6</source>
+<translation type="finished">BI89</translation>
+</message>
+<message>
+<source>虚遥信7</source>
+<translation type="finished">BI90</translation>
+</message>
+<message>
+<source>虚遥信8</source>
+<translation type="finished">BI91</translation>
+</message>
+<message>
+<source>虚遥信9</source>
+<translation type="finished">BI92</translation>
+</message>
+<message>
+<source>虚遥信10</source>
+<translation type="finished">BI93</translation>
+</message>
+<message>
+<source>虚遥信11</source>
+<translation type="finished">BI94</translation>
+</message>
+<message>
+<source>虚遥信12</source>
+<translation type="finished">BI95</translation>
+</message>
+<message>
+<source>虚遥信13</source>
+<translation type="finished">BI96</translation>
+</message>
+<message>
+<source>虚遥信14</source>
+<translation type="finished">BI97</translation>
+</message>
+<message>
+<source>虚遥信15</source>
+<translation type="finished">BI98</translation>
+</message>
+<message>
+<source>虚遥信16</source>
+<translation type="finished">BI99</translation>
+</message>
+</context>
+</TS>

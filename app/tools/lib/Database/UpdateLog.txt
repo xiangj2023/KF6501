@@ -1,0 +1,3 @@
+------------------
+UPDATE RelayWordType SET AnalyzeType = 2 where RelayWordTypeIndex = 6
+Ö´ÐÐ³É¹¦

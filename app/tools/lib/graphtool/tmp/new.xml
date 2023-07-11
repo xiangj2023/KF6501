@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GB2312"?>
+<xmldata name="">
+<Graph EquipType = "6500" BmpFile="电容器主接线.bmp" DBFile = "KF6570y.mdb" Title="UnNameed">
+<Switchs>
+<Item BIType="1" Negative="0" BIOnId="0" BIOffId="0" BOCloseId="0" BOOpenId="0" BitmapType="1" x="42" y="38"/>
+</Switchs>
+<AIs>
+</AIs>
+</Graph>
+</xmldata>

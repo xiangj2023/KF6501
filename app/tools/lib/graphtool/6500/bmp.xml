@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<xmldata name="">
+<ScreenSize Width="240" Height="160"/>
+<Switchs>
+<Item Onbmp="bmpAI.bmp" Offbmp="bmpAI.bmp" Errbmp="bmpAI.bmp" Icon="bmpAI.ico" xSize="48" ySize="21"/>
+<Item Onbmp="1On.bmp" Offbmp="1Off.bmp" Errbmp="1Err.bmp" Icon="1Icon.ico" xSize="12" ySize="18"/>
+<Item Onbmp="2On.bmp" Offbmp="2Off.bmp" Errbmp="2Err.bmp" Icon="2Icon.ico" xSize="14" ySize="14"/>
+</Switchs>
+<AIs>
+<Item bmp="bmpAI.bmp" Icon="bmpAI.ico" x="200" y="21"/>
+</AIs>
+</xmldata>

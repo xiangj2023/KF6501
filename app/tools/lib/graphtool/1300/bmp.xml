@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<xmldata name="">
+<ScreenSize Width="480" Height="320"/>
+<Switchs>
+<Item Onbmp="bmpAI.bmp" Offbmp="bmpAI.bmp" Errbmp="bmpAI.bmp" Icon="bmpAI.ico" xSize="48" ySize="21"/>
+<Item Onbmp="BSR.bmp" Offbmp="BSG.bmp" Errbmp="BSY.bmp" Icon="BSG.ico" xSize="26" ySize="41"/>
+<Item Onbmp="LSR.bmp" Offbmp="LSG.bmp" Errbmp="LSY.bmp" Icon="LSG.ico" xSize="15" ySize="16"/>
+<Item Onbmp="RR.bmp" Offbmp="RG.bmp" Errbmp="RY.bmp" Icon="RG.ico" xSize="26" ySize="26"/>
+<Item Onbmp="VBSR.bmp" Offbmp="VBSG.bmp" Errbmp="VBSY.bmp" Icon="VBSG.ico" xSize="41" ySize="26"/>
+</Switchs>
+<AIs>
+<Item bmp="bmpAI.bmp" Icon="bmpAI.ico" x="200" y="21"/>
+</AIs>
+</xmldata>

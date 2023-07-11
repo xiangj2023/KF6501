@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<xmldata name="">
+<Graph EquipType = "6500" BmpFile="6571.bmp" DBFile = "KF6571.mdb" Title="Keyvia Electric CO.,LTD">
+<Switchs>
+</Switchs>
+<AIs>
+<Item AIType="1" AIId="11" DisType="1" Font="16" x="129" y="122"/>
+<Item AIType="1" AIId="10" DisType="1" Font="16" x="10" y="122"/>
+<Item AIType="1" AIId="3" DisType="1" Font="16" x="130" y="42"/>
+<Item AIType="1" AIId="2" DisType="1" Font="16" x="10" y="42"/>
+<Item AIType="1" AIId="1" DisType="1" Font="16" x="130" y="22"/>
+<Item AIType="1" AIId="0" DisType="1" Font="16" x="10" y="22"/>
+<Item AIType="1" AIId="4" DisType="1" Font="16" x="10" y="62"/>
+<Item AIType="1" AIId="5" DisType="1" Font="16" x="130" y="62"/>
+<Item AIType="1" AIId="6" DisType="1" Font="16" x="10" y="82"/>
+<Item AIType="1" AIId="7" DisType="1" Font="16" x="130" y="82"/>
+<Item AIType="1" AIId="8" DisType="1" Font="16" x="10" y="102"/>
+<Item AIType="1" AIId="9" DisType="1" Font="16" x="130" y="102"/>
+</AIs>
+</Graph>
+</xmldata>

@@ -1,0 +1,41 @@
+SameKey	Times	npos	KeyValue	strContext	Src	strComment
+0	1	0	870159562	CMainFrame	关于Multilan...	
+0	1	1	186813987	CMainFrame	状态栏	
+0	1	2	2055857450	CContextBar	上下文	
+0	1	3	578069942	CSourceBar	原文	
+0	1	8	813892215	CDlgProSrc	更新原语言文件	
+0	2	9	1387046774	CMainFrame	工具栏	
+0	1	11	627298800	CContextBar	上下文栏	
+0	1	12	1608595405	CDlgProSrc	要更新的源码资源文件（不更新不填）	
+0	1	13	1815005658	CMainFrame	文件	
+0	2	14	575357329	CSourceBar	状态	
+0	1	15	2055665414	CAboutDlg	关于MultiLanTool	
+0	1	16	1860967387	CMainFrame	高级	
+0	1	18	196155596	CMainFrame	找不到项目文件中指定的数据库文件	
+0	1	23	1495713185	CDlgTitle	语言标题	
+0	1	25	1381088453	CMainFrame	生成翻译文件(Bigendian)...	
+0	1	29	1128753925	CContextBar	状态	
+0	2	30	55111851	CMainFrame	原文栏	
+0	3	31	575588499	CSourceBar	译文	
+0	1	33	1825718631	CMainFrame	查看	
+0	1	36	1191760698	CMainFrame	生成翻译文件...	
+0	1	38	1659582347	CMainFrame	更新src...	
+0	1	41	1130306445	CContextBar	完成	
+0	1	42	1208644979	CMainFrame	另存为...	
+0	1	47	1861001072	CMainFrame	帮助	
+0	1	48	1814690088	CMainFrame	语言	
+0	1	51	1825802152	CMainFrame	编辑	
+0	1	52	2137360141	CMainFrame	资源文件类型错误,只支持.src及.DBsrc类型!	
+0	3	53	2050943225	CMainFrame	打开...	
+0	2	54	1113809045	CMultiLanToolApp	未命名	
+0	1	55	1311433077	CMainFrame	找不到文件	
+0	1	56	2078430016	CDlgProSrc	项目文件	
+0	1	64	1279231501	CMainFrame	上下文栏	
+0	1	65	1814950252	CMainFrame	退出	
+0	1	69	299506607	CAboutDlg	版权所有 2011	
+0	1	70	1860999278	CMainFrame	保存	
+0	1	71	1126362242	CContextBar	项目	
+0	1	73	629542383	CDlgProSrc	要更新的数据库资源文件（不更新不填）	
+0	2	74	576116579	CSourceBar	备注	
+0	1	75	146547998	CMainFrame	语言标题	
+nHashSize: 79   nNodeCount:39  nTimes:48

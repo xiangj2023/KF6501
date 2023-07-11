@@ -1,0 +1,30 @@
+SameKey	Times	KeyValue	strContext	Src	strComment
+0	1	139731487	CSourceBar	%d测试 %d	
+0	1	186813987	CMainFrame	状态栏	
+0	1	2055857450	CContextBar	上下文	
+0	2	167564058	CContextBar	%d测试 %d	
+0	2	578069942	CSourceBar	原文	
+0	1	1387046774	CMainFrame	工具栏	
+0	1	1815005658	CMainFrame	文件	
+0	2	575357329	CSourceBar	状态	
+0	1	196155596	CMainFrame	找不到项目文件中指定的数据库文件	
+0	1	1814672681	CMainFrame	新建	
+0	1	1128753925	CContextBar	状态	
+0	2	575588499	CSourceBar	译文	
+0	1	1825718631	CMainFrame	查看	
+0	1	439222183	CLanFileMan	打开语言文件失败!	
+0	1	1130306445	CContextBar	完成	
+0	1	1208644979	CMainFrame	另存为...	
+0	1	1861001072	CMainFrame	帮助	
+0	1	1814690088	CMainFrame	语言	
+0	1	1825802152	CMainFrame	编辑	
+0	1	2137360141	CMainFrame	资源文件类型错误,只支持.src及.DBsrc类型!	
+0	3	2050943225	CMainFrame	打开...	
+0	1	1311433077	CMainFrame	找不到文件	
+0	1	1452123151	CMainFrame	加载配置文件%s失败	
+0	1	166560186	CMainFrame	关于GraphTool...	
+0	1	1814950252	CMainFrame	退出	
+0	1	1860999278	CMainFrame	保存	
+0	1	1126362242	CContextBar	项目	
+0	1	576116579	CSourceBar	备注	
+nHashSize: 79   nNodeCount:28  nTimes:34

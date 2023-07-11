@@ -1,0 +1,204 @@
+;*********************************************************
+;*Name:	       差动保护系统级逻辑    	*
+;*By:          yanzh					*
+;*Date:		   2010.6.13				*
+;*DATEBASEVER: E100						*
+;*CRC:									*
+;*CHANGE By:							*
+;*CHANGE Date:							*
+;
+;*********************************************************
+;*************保护跳闸定义部分*****************************************************************
+M64=TR87U_A+TR87U_B+TR87U_C
+TR1=M64
+M63=TR87R_A+TR87R_B+TR87R_C
+TR2=M63
+RTR[TR1]=!M64
+RTR[TR2]=!M63
+T52BF=/TR1+/TR2	;断路器跳闸失败的判断
+52BFH=\T52BF*(!37HA+!37HB+!37HC+!37L1+!37L2+!37L3+!37L4)
+RH[52BFH]=37HA*37HB*37HC*37L1*37L2*37L3*37L4+IN35+RCE2*!69IN
+REC=/TR1+/TR2
+
+TR3=\T52BF*F52BF*(!37HA+!37HB+!37HC+!37L1+!37L2+!37L3+!37L4)	;失灵保护
+RSTART[0,ACTPICK]=/TR3			;做失灵保护报告
+RACTION[0,52BF]=/TR3
+REND[0]=/TR3
+
+;*************系统出口定义部分***********************************************************
+OUT3=TR2+TO1				;比率差动动作+传动1
+OUT4=TR1+TO2				;差动速断动作+传动2
+OUT5=OUT3+OUT4+TO3			;保护动作+传动3
+OUT2=OUT3+OUT4+OUT5				;保护启动继电器出口
+OUT6=OUT3					;比率差动信号出口
+OUT7=OUT4					;差动速断信号出口
+OUT8=OUT3+OUT4				;保护动作信号出口
+OUT9=RCE2*!69IN+IN35+TO4			;差动板复归信号+面板复归键+传动4
+M60=OUT2+OUT3+OUT4+OUT5+OUT6+OUT7+OUT8+OUT9+OUT10 ;+RCP2	;差动板及本体板2 24V总闭锁
+RCV1=1							;RCE1=空  为凑成偶数，RCE1为空遥控
+RCV2=1
+
+OUT10=TO5				;失灵保护出口
+
+OUT12=RCE2*!69IN+TO6+IN35     	;本体板1信号复归
+;RCV3=1                          ;RCE3=空  为凑成偶数，RCE3为空遥控
+;RCV4=1
+OUT13=RCE5*!69IN+TO7				;本体板1出口1
+OUT14=RCE6*!69IN+TO8				;本体板1出口2
+OUT15=RCE7*!69IN+TO9				;本体板1出口3
+OUT16=RCE8*!69IN+TO10				;本体板1出口4
+OUT11=OUT12+OUT13+OUT14+OUT15+OUT16+RCP2+RCP5+RCP6+RCP7+RCP8	;本体板1 24V总闭锁
+RCV5=1
+RCV6=1
+RCV7=1
+RCV8=1
+
+OUT17=RCE2*!69IN+TO11+IN35			;本体板2信号复归
+;RCV9=1                              ;RCE10=空  为凑成偶数，RCE10为空遥控 
+;RCV10=1
+;***********************本体及差动动作闭锁断路器合闸出口******************
+M62=M63+M64+IN36+IN37+IN38+IN43+IN44+IN45  ;信号继电器字  差动、速断及本体动作时置位 用于闭锁合闸信号
+SIG3=M62
+OUT18=RCE11*!69IN+TO12+SIG3			;本体板2出口1,同时用作保护动作闭锁合闸出口
+RS[SIG3]=(/IN35+/RCE2)*!M62
+;**********************************************************************
+OUT19=RCE12*!69IN+TO13				;本体板2出口2
+OUT20=RCE13*!69IN+TO14				;本体板2出口3
+OUT21=RCE14*!69IN+TO15				;本体板2出口4
+RCV11=1
+RCV12=1
+RCV13=1
+RCV14=1
+OUT1=OUT17+OUT18+OUT19+OUT20+OUT21+RCP2+RCP11+RCP12+RCP13+RCP14+M60
+;************遥信映射部分**********************************************************************
+52AH=IN12   ;高侧断路器合位
+52BH=IN13	;高侧断路器分位
+52ALA=IN14	;低侧A断路器合位
+52BLA=IN15	;低侧A断路器分位
+52ALB=IN16	;低侧B断路器合位
+52BLB=IN17	;低侧B断路器分位
+VIN1=AR87	;差流越限告警
+
+;*************装置面板的LED灯状态定义**********************************************************
+PW3[50]=MAINTLINK
+PW1[500]=!ET11ERR+!ET12ERR+!ET13ERR+!ET14ERR+!ET15ERR+!ET21ERR+!ET22ERR+!ET23ERR+!ET24ERR+!ET25ERR+!COM1ERR+!CAN1ERR+!CAN2ERR
+LED1G=PW1*!MAINTLINK
+LED1R=ET11ERR*ET12ERR*ET13ERR*ET14ERR*ET15ERR*ET21ERR*ET22ERR*ET23ERR*ET24ERR*ET25ERR*COM1ERR*CAN1ERR*CAN2ERR+PW3
+PW2[50]=PICKUP    				;保护启动灯，以50ms的频率闪烁
+LED2G=PW2
+PW4[50]=52BFH
+LED2R=PW4
+LED3R=AR87						;差流越限
+SIG1=/M64
+LED4R=SIG1						;差速动作
+SIG2=/M63
+LED5R=SIG2						;差动动作
+LED6R=IN36+IN43					;重瓦斯
+LED7R=IN37+IN44					;压力释放
+LED8R=IN38+IN45					;超温跳闸
+LED9R=IN39+IN46					;轻瓦斯
+LED10R=IN40+IN47					;油位告警
+LED11R=IN41+IN48				;温度告警
+LED12R=IN42+IN49				;本体失电
+
+RS[SIG1]=/IN35+/RCE2
+RS[SIG2]=/IN35+/RCE2
+
+;*************本体保护动作相关部分**************************************************************8
+;作本体保护相关报告，如果插入两块本体板需作相应调整
+
+;本体板1相关内容,若本装置只配置一块本体板，应插在X6位置，且做如下报告
+;RSTART[0,ACTPICK]=/IN43			;作本体1重瓦斯报告
+;RACTION[0,RTR_GAS]=/IN43
+;REND[0]=/IN43
+;RSTART[1,ACTPICK]=/IN44		;作本体1压力释放报告
+;RACTION[1,RTR_YLSF]=/IN44
+;REND[1]=/IN44
+;RSTART[2,ACTPICK]=/IN45		;作本体1超温跳闸报告
+;RACTION[2,RTR_23]=/IN45
+;REND[2]=/IN45
+;RALARM[R74_GAS]=/IN46 ;作本体1轻瓦斯报告
+;RALARM[R74_OIL]=/IN47 ;作本体1油位异常报告
+;RALARM[R74_23]=/IN48 ;作本体1温度过高报告
+;RALARM[RLP]=/IN49 ;作本体1失电告警报告
+;本体板1相关内容
+RSTART[0,ACTPICK]=/IN43			;作本体1重瓦斯报告
+RACTION[0,RTR_GAS_1]=/IN43
+REND[0]=/IN43
+RSTART[1,ACTPICK]=/IN44		;作本体1压力释放报告
+RACTION[1,RTR_YLSF_1]=/IN44
+REND[1]=/IN44
+RSTART[2,ACTPICK]=/IN45		;作本体1超温跳闸报告
+RACTION[2,RTR_23_1]=/IN45
+REND[2]=/IN45
+RALARM[R74_GAS_1]=/IN46 ;作本体1轻瓦斯报告
+RALARM[R74_OIL_1]=/IN47 ;作本体1油位异常报告
+RALARM[R74_23_1]=/IN48 ;作本体1温度过高报告
+RALARM[RLP_1]=/IN49 ;作本体1失电告警报告
+
+;本体板2相关内容
+RSTART[7,ACTPICK]=/IN36			
+RACTION[7,RTR_GAS_2]=/IN36			;作本体2重瓦斯报告
+REND[7]=/IN36
+RSTART[8,ACTPICK]=/IN37
+RACTION[8,RTR_YLSF_2]=/IN37			;作本体2压力释放报告
+REND[8]=/IN37
+RSTART[9,ACTPICK]=/IN38
+RACTION[9,RTR_23_2]=/IN38			;作本体2超温跳闸报告
+REND[9]=/IN38
+RALARM[R74_GAS_2]=/IN39			;作本体2轻瓦斯报告
+RALARM[R74_OIL_2]=/IN40			;作本体2油位异常报告
+RALARM[R74_23_2]=/IN41			;作本体2温度过高报告
+RALARM[RLP_2]=/IN42				;作本体2失电告警报告
+
+
+;**************保护继电器字定义*****************************************************
+LKPI87U_A=0
+LKRST87U_A=1
+LKPI87U_B=0
+LKRST87U_B=1
+LKPI87U_C=0
+LKRST87U_C=1
+LKPI87R_A=0
+LKRST87R_A=1
+LKPI87R_B=0
+LKRST87R_B=1
+LKPI87R_C=0
+LKRST87R_C=1
+
+
+
+;镜像规约测试
+;TX1=IN3
+;TX2=IN4
+;TX3=IN5
+;TX4=IN6
+;TX5=IN7
+;;TX6=IN8
+;TX7=IN9
+;TX8=IN10
+;TX9=IN11
+;TX10=IN12
+;TX11=IN13
+;TX12=IN14
+;TX13=IN15
+;TX14=IN16
+;TX15=IN17
+
+;LED1R=RX1
+;LED2R=RX2
+;LED3R=RX3
+;LED4R=RX4
+;LED5R=RX5
+;LED6R=RX6
+;LED7R=RX7
+;LED8R=RX8
+;LED8G=RX9
+;LED9R=RX10
+;LED9G=RX11
+;LED10R=RX12
+;LED10G=RX13
+;LED11R=RX14
+;LED11G=RX15
+
+;TX16=RX16

@@ -1,0 +1,14 @@
+[PATH]
+PATH=D:\KF6500\app\src\relay\kf6533\src\hmi
+[FILE]
+FileNum=5
+File1=(PATH)\Lcdfunction.cpp
+File2=D:\KF6500\app\src\hmi\HmiClass\HmiApp.cpp
+File3=(PATH)\LcdApp.cpp
+File4=D:\KF6500\app\src\hmi\HmiClass\HmiDatalist.cpp
+File5=D:\KF6500\app\src\hmi\HmiClass\HmiMsgBox.cpp
+[DBFile]
+File=D:\KF6500\tools\lib\Database\KF6533.mdb
+
+
+

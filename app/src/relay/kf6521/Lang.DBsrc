@@ -1,0 +1,4003 @@
+<?xml version="1.0" encoding="GB2312"?><!DOCTYPE TS><TS LangCaption="Untitled">
+<context>
+<name>TSET_Disp</name>
+<message>
+<source>配置字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>配置字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>突变量启动电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段电阻</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段电阻</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段电阻</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段电阻</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>平行四边形偏移阻抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>阻抗四边形偏移角度</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断低压闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段低压闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段低压闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限过流电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限过流时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限曲线类型</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流增量保护电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流增量保护时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护小电流闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>二次谐波闭锁系数</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离过流谐波加权</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护谐波加权</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>线路阻抗角</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸投入次数</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>第一次重合闸时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>第二次重合闸时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸充电时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸动作监视时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>后加速动作时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>后加速投入时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压保护电压</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压保护时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压闭锁电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失灵保护时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT断线闭锁电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT断线检测电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT断线检测电压U</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT断线检测时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线测距分段数</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第一段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第一段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第二段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第二段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第三段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第三段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第四段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第四段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第五段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第五段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第六段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第六段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第七段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第七段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第八段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第八段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第九段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第九段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第十段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T线第十段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线测距分段数</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第一段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第一段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第二段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第二段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第三段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第三段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第四段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第四段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第五段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第五段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第六段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第六段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第七段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第七段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第八段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第八段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第九段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第九段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第十段距离</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>F线第十段单位电抗</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TSysSET_Disp</name>
+<message>
+<source>额定电流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>供电方式</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T1启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T1返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T2启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T2返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T3启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T3返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T4启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T4返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T5启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T5返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T6启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T6返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T7启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T7返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T8启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T8返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T9启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T9返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T10启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T10返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T11启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T11返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T12启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T12返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T13启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T13返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T14启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T14返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T15启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T15返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T16启动延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T16返回延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>断路器动作延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电隔动作延时</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IP有流定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IP无流定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>It有流定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>It无流定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>If有流定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>If无流定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>Up有压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>Up无压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U1有压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U1无压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U2有压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U2无压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U3有压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U3无压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U4有压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U4无压定值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>负荷监测起始时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>负荷监测电流限值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>负荷监测电压限值</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TR1保持时间</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TR2保持时间</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TRE_Disp</name>
+<message wInf="2000">
+<source>距离I段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2001">
+<source>距离II段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2002">
+<source>距离III段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2003">
+<source>距离IV段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2022">
+<source>电流速断动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2023">
+<source>过流I段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2024">
+<source>过流II段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2025">
+<source>过流III段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2004">
+<source>反时限过流动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2005">
+<source>电流增量保护动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2006">
+<source>距离II段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2007">
+<source>距离III段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2008">
+<source>距离IV段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2009">
+<source>过流I段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2010">
+<source>过流II段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2011">
+<source>过流III段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2026">
+<source>断路器跳闸失败</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2012">
+<source>偷跳重合闸</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2013">
+<source>一次重合闸</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2014">
+<source>二次重合闸</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2018">
+<source>PT1断线</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2019">
+<source>PT2断线</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2015">
+<source>PT断线闭锁距离保护</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2020">
+<source>重合闸失败</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2016">
+<source>重合闸被闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2027">
+<source>低压保护跳闸</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2028">
+<source>低压保护告警</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2017">
+<source>失灵保护动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="500">
+<source>保护启动</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2021">
+<source>保护启动</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="16">
+<source>NVRAM内容出错</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="11">
+<source>程序ROM故障</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="8">
+<source>RAM定值故障</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="5">
+<source>EEPROM定值故障</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="4">
+<source>软压板故障</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="3">
+<source>AD故障</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2">
+<source>开出光隔击穿</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="1">
+<source>开出光隔失效</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="17">
+<source>逻辑方程故障</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="13">
+<source>装置异常复位</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="14">
+<source>通信通道异常</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2029">
+<source>通道测试</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2100">
+<source>距离I段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2101">
+<source>距离II段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2102">
+<source>距离III段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2103">
+<source>距离IV段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2104">
+<source>反时限动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2105">
+<source>电流增量保护动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2106">
+<source>距离II段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2107">
+<source>距离III段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2108">
+<source>距离IV段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2109">
+<source>过流I段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2110">
+<source>过流II段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2111">
+<source>过流III段加速动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2112">
+<source>电流速断动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2113">
+<source>过流I段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2114">
+<source>过流II段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2115">
+<source>过流III段动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="2116">
+<source>低压保护动作</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="18">
+<source>保护自检错误</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="62">
+<source>NVRAM内容出错恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="58">
+<source>程序ROM故障恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="55">
+<source>RAM定值故障恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="52">
+<source>EEPROM定值故障恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="51">
+<source>软压板故障恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="50">
+<source>AD故障恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="63">
+<source>逻辑方程故障故障恢复</source>
+<translation type="unfinished"/>
+</message>
+<message wInf="60">
+<source>通信通道异常恢复</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TCFG_Disp</name>
+<message>
+<source>距离I段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>平行四边形特性</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离谐波闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离谐波抑制</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断低压闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断谐波闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断谐波抑制</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断保护正方向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断功率方向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段正方向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段功率方向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段低压闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段正方向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段功率方向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段低压闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流谐波闭锁</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流谐波抑制</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限过流</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流增量保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>偷跳重合闸</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸检有压</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段加速</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段加速</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段加速</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段加速</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段加速</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段加速</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失灵保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT断线检查</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>故障测距</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流加速启动</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用配置1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用配置2</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TSW_Disp</name>
+<message>
+<source>距离保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流增量保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压保护</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>检修压板</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用压板1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用压板2</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TxtList</name>
+<message>
+<source>1A</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>5A</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>直供</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>AT</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>客专</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TTC_Disp</name>
+<message>
+<source>保护跳闸</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>保护合闸</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控断路器分</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控断路器合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控1分</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控1合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控2分</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控2合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控3分</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控3合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控4分</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控4合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号复归</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>RelayWord</name>
+<message>
+<source>距离I段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段加速动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段加速动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段加速动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段加速动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段加速动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段加速动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失压保护入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失压保护动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失压保护告警继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护动作继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT1断线告警继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT1断线入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT2断线告警继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT2断线入段继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>二次谐波闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>功率方向正向继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>功率方向反向继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IP有流继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IP无流继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IT有流继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IT无流继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IF有流继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>IF无流继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>UP有压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>UP无压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U1有压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U1无压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U2有压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U2无压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U3有压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U3无压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U4有压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>U4无压继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸动作状态继电器字一</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸动作状态继电器字二</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸延时到逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸周期状态继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸复归状态继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸闭锁状态继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸动作逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>直供方式供电</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>AT1方式供电(普通AT)</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>AT2方式供电(客专AT)</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>模值突变量启动继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失压保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护循环控制继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M29</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M30</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M31</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M32</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M33</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M34</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M35</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M36</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M37</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M38</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M39</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M40</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M41</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M42</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M43</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M44</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M45</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M46</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M47</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M48</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M49</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M50</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M51</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M52</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M53</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M54</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M55</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M56</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M57</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M58</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M59</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M60</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M61</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M62</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M63</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>中间继电器字M64</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失压保护入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失压保护返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量入段闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量返回闭锁继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸启动监视逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸动作命令撤销继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸闭锁逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸动作监视逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>远方当地中间继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>合位</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>分位</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>录波继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字29</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字30</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字31</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>自保持中间继电器字31</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸启动逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>断路器跳闸失败继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TGK8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>TDL8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸合于故障逻辑继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>T52BF</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>跳闸继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>跳闸继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字29</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字30</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字31</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟继电器字32</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字29</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字30</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字31</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字32</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字33</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字34</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号复归</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>跳闸位置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>合闸位置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>跳闸信号</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>合闸信号</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>手跳重动</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控1预置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控2预置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控3预置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控4预置</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字46</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字47</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字48</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字49</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字50</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字51</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字52</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字53</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字54</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字55</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字56</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字57</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字58</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字59</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字60</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开入继电器字61</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出1继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出2继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出3继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出4继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出5继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出6继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出7继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出8继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出9继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出10继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出11继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出12继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出13继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出14继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出15继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出16继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出17继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出18继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出19继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出20继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>开出21继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离保护软压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断软压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流保护软压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流增量保护软压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压保护软压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸软压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>检修压板继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用压板1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用压板2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离I段正向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段正向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段正向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV正向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>平行四边形配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离谐波闭锁配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离谐波抑制配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流速断配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断低压闭锁配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断谐波闭锁配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断谐波抑制配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断保护正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断功率方向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段功率方向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段低压闭锁配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段正向</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段功率方向配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段低压闭锁配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流谐波闭锁配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流谐波抑制配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限过流配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>电流增量配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>低压保护配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>失灵保护配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>PT断线检查配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>故障测距配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>偷跳重合闸配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>反时限重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>速断保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>增量保护重合</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离II段加速配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离III段加速配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>距离IV段加速配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流I段加速配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流II段加速配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流III段加速配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>重合闸检有压配置继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>过流加速启动</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用配置1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>备用配置2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>脉冲继电器16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>传动继电器13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>信号继电器16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED1绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED1红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED2绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED2红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED3绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED3红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED4绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED4红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED5绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED5红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED6绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED6红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED7绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED7红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED8绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED8红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED9绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED9红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED10绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED10红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED11绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED11红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED12绿灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>LED12红灯继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>虚拟开入继电器字16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控预置继电器28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控执行继电器28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器17</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器18</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器19</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器20</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器21</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器22</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器23</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器24</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器25</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器26</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器27</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>遥控反校继电器28</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>大于等于继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>常数时间继电器8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像发送继电器字16</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字1</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字2</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字3</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字4</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字5</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字6</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字7</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字8</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字9</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字10</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字11</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字12</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字13</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字14</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字15</source>
+<translation type="unfinished"/>
+</message>
+<message>
+<source>镜像接收继电器字16</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>FuncType</name>
+<message TypeID="99">
+<source>跳转继电器</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="100">
+<source>复归自保持继电器</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="101">
+<source>复归时间继电器</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="102">
+<source>复归跳闸继电器</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="103">
+<source>复归信号继电器</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="104">
+<source>启动报告</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="105">
+<source>动作报告</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="106">
+<source>报告结束</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="107">
+<source>告警报告</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="108">
+<source>压板投退</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="200">
+<source>自定义</source>
+<translation type="unfinished"/>
+</message>
+<message TypeID="201">
+<source>闪烁led</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>RelayWordType</name>
+<message RelayWordTypeIndex="1">
+<source>保护继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="2">
+<source>中间继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="3">
+<source>自保持中间继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="4">
+<source>时间继电器字</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="5">
+<source>跳闸继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="6">
+<source>虚拟继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="7">
+<source>开入继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="8">
+<source>开出继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="9">
+<source>压板继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="10">
+<source>配置继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="11">
+<source>脉冲继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="12">
+<source>传动继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="13">
+<source>信号继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="14">
+<source>LED继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="15">
+<source>虚拟开入</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="16">
+<source>遥控预置继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="17">
+<source>遥控执行继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="18">
+<source>遥控反校继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="19">
+<source>大于等于继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="20">
+<source>常数时间继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="21">
+<source>发送链接继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="22">
+<source>接收链接继电器</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="23">
+<source>电保持中间继</source>
+<translation type="unfinished"/>
+</message>
+<message RelayWordTypeIndex="24">
+<source>电保持自保持继</source>
+<translation type="unfinished"/>
+</message>
+</context>
+<context>
+<name>TRM_Disp</name>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+<message>
+<source/>
+<translation type="unfinished"/>
+</message>
+</context>
+</TS>

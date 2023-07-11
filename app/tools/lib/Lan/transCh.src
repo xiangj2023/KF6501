@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312"?><!DOCTYPE TS><TS LangCaption="English">
+<context>
+    <name>CMainFrame</name>
+    <message>
+        <source>无</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
+        <source>单点</source>
+        <comment>CMainFrame</comment>
+        <translation type="unfinished">单点</translation>
+    </message>
+    <message>
+        <source>双点</source>
+        <comment>CMainFrame</comment>
+        <translation type="unfinished">双点</translation>
+    </message>
+</context>
+</TS>

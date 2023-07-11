@@ -1,0 +1,13 @@
+打开.mdb数据库时候，在英文操作系统上提示
+Selected collating sequence not supported by the operating system.
+
+Selected collating sequence not supported by the operating system.
+ 
+
+原因是中文操作系统上创建的mdb文件默认使用了按汉语拼音排序
+ 
+具体的解决方法是这样的。
+ 
+1）、打开Microsoft Access ，文件，然后点"tools"，选中 Options，再选 General 项。注意在右下方有 New Database Sort Order下拉框，选中 General。（注意，Options只有在有文件打开的状况下才能使用）
+2), 工具-》数据库实用工具-》压缩和修改数据库
+必须压缩数据库否则不能修改这个排序方式，以后新建的数据库也使用这种排序方式

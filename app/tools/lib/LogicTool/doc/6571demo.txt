@@ -1,0 +1,111 @@
+;*********************************************************
+;*Name:	       线路保护系统级逻辑    	*
+;*By:          yanzh					*
+;*Date:		   2009.7.30				*
+;*DATEBASEVER: E300						*
+;*CRC:									*
+;*CHANGE By:							*
+;*CHANGE Date:							*
+;
+;*********************************************************
+
+;*************保护跳闸定义部分*****************************************************************
+M64=TR50DI_1+TR50DI_2+TR21+TR50I
+;REC=/M64*FISSS+(/AFLACT+/MFLACT)*!FISSS			;启动故障录波
+TR1=M64 			;跳闸继电器字
+RTR[TR1]=37I1*37I2*37I3*!M64  ;无流且无保护动作收出口
+
+;*************系统出口定义部分***********************************************************
+OUT3=TR1+TO1				;保护跳闸出口
+OUT2=OUT3					;保护启动继电器
+
+OUT5=RCE1*!69IN+TO2				;遥控断路器分
+OUT6=RCE2*!69IN+TO3				;遥控断路器合
+OUT4=RCP1+RCP2+OUT5+OUT6
+RCV1=IN38*!69IN
+RCV2=IN38*!69IN
+
+OUT8=RCE3*!69IN+TO4				;遥控1分
+OUT9=RCE4*!69IN+TO5				;遥控1合
+OUT7=RCP3+RCP4+OUT8+OUT9
+RCV3=IN39*!69IN
+RCV4=IN39*!69IN
+
+OUT11=RCE5*!69IN+TO6				;遥控2分
+OUT12=RCE6*!69IN+TO7				;遥控2合
+OUT10=RCP5+RCP6+OUT11+OUT12
+RCV5=IN40*!69IN
+RCV6=IN40*!69IN
+
+
+M62=RCE7+IN5*!HANDOVERMODE
+M61=RCE8+IN4*HANDOVERMODE
+M60=RCE9+IN1
+M59=RCE10+IN2
+M58=RCE11+IN3
+RCV7=1
+RCV8=1
+RCV9=1
+RCV10=1
+RCV11=1
+
+HANDOVER=/M62			;启动越区切换
+RECOVER=/M61			;恢复越区切换
+MSTART=/M60+/M59+/M58	;实验测距启动
+GETHISTORY=/M59			;召测历史
+GETLOWVOL=/M58			;召测低压锁定数据
+
+BGK152A=IN6
+BGK252A=IN7
+VIN1=0
+VIN2=1
+VIN3=1
+VIN4=1
+VIN5=IN35
+VIN6=0
+VIN7=0
+VIN8=0
+
+;OUT13=LKCL
+;OUT14=LKTR
+;24V总闭锁出口
+OUT1=OUT2+OUT3+OUT4+OUT5+OUT6+OUT7+OUT8+OUT9+OUT10+OUT11+OUT12
+;**********************************************************************************************
+M63=RCE12*!69IN+IN35		;信号复归
+RCV12=1
+
+;**********************************************************************************************
+;************遥信及虚拟开入映射部分************************************************************
+52A=IN37
+52B=IN36
+69IN=IN20 											;远方当地继电器字
+;**********************************************************************************************
+
+;************装置面板led灯定义部分*************************************************************
+
+PW1[500]=!ET11ERR+!ET12ERR+!ET13ERR+!ET14ERR+!ET15ERR+!ET21ERR+!ET22ERR+!ET23ERR+!ET24ERR+!ET25ERR+!COM1ERR+!CAN1ERR+!CAN2ERR
+PW3[50]=MAINTLINK
+LED1G=PW1*!MAINTLINK
+LED1R=ET11ERR*ET12ERR*ET13ERR*ET14ERR*ET15ERR*ET21ERR*ET22ERR*ET23ERR*ET24ERR*ET25ERR*COM1ERR*CAN1ERR*CAN2ERR+PW3
+PW2[50]=AFLACT+MFLACT
+SIG16=(AFLACT+MFLACT)*FISSS+(MFLACT+AFLACT)*!FISSS
+LED2G=PW2
+LED2R=SIG16*!AFLACT*!MFLACT*FISSS+SIG16*!FISSS
+RS[SIG16]=/M63
+LED3R=GPSERR*FGPS
+LED4R=CH1ERR*SLFL*FISSS*FCHANNEL
+LED5R=CH2ERR*SLFL*FISSS*FCHANNEL
+LED6R=CH3ERR*SLFL*FISSS*FCHANNEL
+LED7R=CH4ERR*SLFL*FISSS*FCHANNEL
+;*******************保护定义相关部分*********************************************
+LKPI50I=0
+LKRST50I=1
+LKPI21=0
+LKRST21=1
+LKPI50DI_1=0
+LKRST50DI_1=1
+LKPI50DI_2=0
+LKRST50DI_2=1
+
+
+

@@ -1,0 +1,139 @@
+;*********************************************************
+;*Name:	       线路保护系统级逻辑    	*
+;*By:          yanzh					*
+;*Date:		   2009.7.30				*
+;*DATEBASEVER: E300						*
+;*CRC:									*
+;*CHANGE By:							*
+;*CHANGE Date:							*
+;
+;*********************************************************
+;*************保护跳闸定义部分*****************************************************************
+M64=TR50_0+TR50_1+TR59+TR27+TR50H+TR60I1+TR60I2+TR50ST+TR60U1+TR60U2+TR60U3
+TR1=M64
+RTR[TR1]=!M64
+REC=/TR1+/PI27
+;*************系统出口定义部分***********************************************************
+OUT3=TR1+TO1				;保护跳闸出口
+OUT2=OUT3					;保护启动继电器
+
+OUT5=RCE1*!69IN+TO2				;遥控断路器分
+OUT6=RCE2*!69IN+TO3				;遥控断路器合
+OUT4=RCP1+RCP2+OUT5+OUT6
+RCV1=IN38*!69IN
+RCV2=IN38*!69IN
+
+OUT8=RCE3*!69IN+TO4				;遥控1分
+OUT9=RCE4*!69IN+TO5				;遥控1合
+OUT7=RCP3+RCP4+OUT8+OUT9
+RCV3=IN39*!69IN
+RCV4=IN39*!69IN
+
+OUT11=RCE5*!69IN+TO6				;遥控2分
+OUT12=RCE6*!69IN+TO7				;遥控2合
+OUT10=RCP5+RCP6+OUT11+OUT12
+RCV5=IN40*!69IN
+RCV6=IN40*!69IN
+
+;OUT13=LKCL
+;OUT14=LKTR
+;24V总闭锁出口
+OUT1=OUT2+OUT3+OUT4+OUT5+OUT6+OUT7+OUT8+OUT9+OUT10+OUT11+OUT12
+;**********************************************************************************************
+M63=RCE8*!69IN+IN35					;信号复归
+RCV7=1
+RCV8=1
+;**********************************************************************************************
+;************遥信及虚拟开入映射部分************************************************************
+52A=IN37
+52B=IN36
+VIN1=!52A*!52B 									;虚拟开入--控制回路断线
+VIN2=AR74PT										;虚拟开入--PT断线
+69IN=IN20 											;远方当地继电器字
+;**********************************************************************************************
+
+;************装置面板led灯定义部分*************************************************************
+PW3[50]=MAINTLINK
+PW1[500]=!ET11ERR+!ET12ERR+!ET13ERR+!ET14ERR+!ET15ERR+!ET21ERR+!ET22ERR+!ET23ERR+!ET24ERR+!ET25ERR+!COM1ERR+!CAN1ERR+!CAN2ERR
+LED1G=PW1*!MAINTLINK
+LED1R=ET11ERR*ET12ERR*ET13ERR*ET14ERR*ET15ERR*ET21ERR*ET22ERR*ET23ERR*ET24ERR*ET25ERR*COM1ERR*CAN1ERR*CAN2ERR+PW3
+PW4[50]=52BF
+LED2G=52B*!52A
+LED2R=52A*!52B*!52BF+PW4
+PW2[50]=PICKUP+PI27
+LED3G=PW2
+SIG1=TR50_0
+LED4R=SIG1
+SIG2=TR50_1
+LED5R=SIG2
+SIG3=TR50H
+LED6R=SIG3
+SIG4=TR60I1+TR60I2+TR50ST
+LED7R=SIG4
+SIG5=TR60U1+TR60U2+TR60U3
+LED8R=SIG5
+SIG6=TR59
+LED9R=SIG6
+SIG7=TR27
+LED10R=SIG7
+LED11R=AR74PT+ARCTBR
+RS[SIG1]=/M63
+RS[SIG2]=/M63
+RS[SIG3]=/M63
+RS[SIG4]=/M63
+RS[SIG5]=/M63
+RS[SIG6]=/M63
+RS[SIG7]=/M63
+
+
+;******************保护用继电器字定义********************************************************
+LKPI50_0=0			;速断入段闭锁
+LKRST50_0=1			;速断返回闭锁
+LKPI50_1=0   		;过流入段闭锁
+LKRST50_1=1			;过流返回闭锁
+LKPI59=52B
+LKRST59=52A
+LKPI27=52B+52BF+AR74PT+!52A
+LKRST27=52A+!37IP
+LKPI50H=0
+LKRST50H=1
+LKPI60I1=0
+LKRST60I1=1
+LKPI60I2=0
+LKRST60I2=1
+LKPI50ST=0
+LKRST50ST=1
+LKPI60U1=0
+LKRST60U1=1
+LKPI60U2=0
+LKRST60U2=1
+LKPI60U3=0
+LKRST60U3=1
+
+T52BF=/TR1
+RT[T52BF]=T52BF*37IP
+52BF=\T52BF*(!37IP+52A)
+RH[52BF]=37IP+RCE8*!69IN+IN35
+
+
+
+;H20=/IN35
+;LED6R=H20
+;H21=\IN35*H20
+;RH[H20]=IN35*H20*H21
+;RH[H21]=/IN35
+
+
+;M2=/IN35*M1
+;M1=/IN35+M1
+;JMP[CLRM1]=!M2
+;M1=0
+;CLRM1:M3=0
+;OUT1=M1
+
+;OFSL[SL50I0,1]=RCE15
+;RCV15=RCE15+RCP15
+;OFSL[SLR50I0,0]=RCE14
+;RCV14=RCE14+RCP14
+;OFSL[SLR50I0,1]=IN35
+;LED12R=IN35

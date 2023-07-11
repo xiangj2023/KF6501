@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+<xmldata name="">
+<Graph EquipType = "6500" BmpFile="变压器.bmp" DBFile = "KF6531.mdb" Title="天津凯发电气股份有限公司">
+<Switchs>
+<Item BIType="2" Negative="0" BIOnId="41" BIOffId="40" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="76" y="105"/>
+<Item BIType="2" Negative="0" BIOnId="46" BIOffId="45" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="54" y="35"/>
+<Item BIType="2" Negative="52685" BIOnId="36" BIOffId="35" BOCloseId="65535" BOOpenId="65535" BitmapType="1" x="32" y="105"/>
+</Switchs>
+<AIs>
+<Item AIType="1" AIId="11" DisType="1" Font="16" x="122" y="108"/>
+<Item AIType="1" AIId="10" DisType="1" Font="16" x="122" y="93"/>
+<Item AIType="1" AIId="9" DisType="1" Font="16" x="122" y="77"/>
+<Item AIType="1" AIId="2" DisType="1" Font="16" x="114" y="62"/>
+<Item AIType="1" AIId="1" DisType="1" Font="16" x="114" y="46"/>
+<Item AIType="1" AIId="0" DisType="1" Font="16" x="114" y="30"/>
+</AIs>
+</Graph>
+</xmldata>

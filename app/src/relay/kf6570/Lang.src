@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="GB2312"?><!DOCTYPE TS><TS LangCaption="English2">
+<context>
+    <name>CHmiActionDetailDlg</name>
+    <message>
+        <source>保护动作</source>
+        <translation type="finished">Action</translation>
+    </message>
+    <message>
+        <source>动作时间</source>
+        <translation type="finished">Time</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiAlarmDetailDlg</name>
+    <message>
+        <source>告警报告</source>
+        <translation type="finished">Alarm</translation>
+    </message>
+    <message>
+        <source>动作时间</source>
+        <translation type="finished">Time</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiApp</name>
+    <message>
+        <source>系数自动整定</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系数整定成功</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系数整定失败</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CHmiDataList</name>
+    <message>
+        <source>null</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系统复位</source>
+        <translation type="finished">System Reset</translation>
+    </message>
+    <message>
+        <source>下装文件</source>
+        <translation type="finished">Download file</translation>
+    </message>
+    <message>
+        <source>通讯事件</source>
+        <translation type="finished">Com event</translation>
+    </message>
+    <message>
+        <source>遥控事件</source>
+        <translation type="finished">Ro</translation>
+    </message>
+    <message>
+        <source>遥调事件</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>同期事件</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改定值区号</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改软压板</source>
+        <translation type="finished">modify sw</translation>
+    </message>
+    <message>
+        <source>修改配置</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>电源事件</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改电度底数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥测置数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥信置位</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>电度置数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>查看定值区</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>操作记录</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读操作记录错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>无记录</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>装置复位</source>
+        <translation type="finished">device reset</translation>
+    </message>
+    <message>
+        <source>切换定值区</source>
+        <translation type="finished">change areano</translation>
+    </message>
+    <message>
+        <source>装置上电</source>
+        <translation type="finished">dev power on</translation>
+    </message>
+    <message>
+        <source>装置掉电</source>
+        <translation type="finished">dev power off</translation>
+    </message>
+    <message>
+        <source>修改DAI参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改DI参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改AI参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改BI参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改CI参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改BO参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改AO参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改COM参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改CAN参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改ETH参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改SYS参数</source>
+        <translation type="finished">modify sys param</translation>
+    </message>
+    <message>
+        <source>通讯恢复</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>通讯中断</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SOE记录</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读SOE记录错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>无条目</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>配置查看</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读配置错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>投</source>
+        <translation type="finished">ON</translation>
+    </message>
+    <message>
+        <source>退</source>
+        <translation type="finished">off</translation>
+    </message>
+    <message>
+        <source>软压板</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读软压板错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系数查看</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读系数错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>电度</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥信</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>内部遥信</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>虚遥信</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>其他</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BI属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读BI参数错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>产生</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>不产生</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读BI参数错误!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>取反</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>正常</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CI属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读CI参数错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>无辅助定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>辅助定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读辅助定值错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>辅助定值查看</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读辅助定值取值描述错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>无可显示的定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值差看</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读定值错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值查看</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读定值取值描述错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BI查看</source>
+        <translation type="finished">BO view</translation>
+    </message>
+    <message>
+        <source>读BI值错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥控</source>
+        <translation type="finished">BO</translation>
+    </message>
+    <message>
+        <source>启动报告</source>
+        <translation type="finished">start report</translation>
+    </message>
+    <message>
+        <source>读取启动报告失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>启动</source>
+        <translation type="finished">start</translation>
+    </message>
+    <message>
+        <source>动作报告</source>
+        <translation type="finished">action report</translation>
+    </message>
+    <message>
+        <source>读动作报告失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>发出</source>
+        <translation type="finished">on</translation>
+    </message>
+    <message>
+        <source>复归</source>
+        <translation type="finished">return</translation>
+    </message>
+    <message>
+        <source>告警报告</source>
+        <translation type="finished">alarm report</translation>
+    </message>
+    <message>
+        <source>读告警报告失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>配置字</source>
+        <translation type="finished">cfg</translation>
+    </message>
+    <message>
+        <source>读配置字错误</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CHmiInputDlg</name>
+    <message>
+        <source>开入</source>
+        <translation type="finished">Input</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiLangDlg</name>
+    <message>
+        <source>系统语言</source>
+        <translation type="finished">Sys Language</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiLcdContrastBox</name>
+    <message>
+        <source>液晶对比度</source>
+        <translation type="unfinished">Lcd contranst</translation>
+    </message>
+    <message>
+        <source>按加减键调节对比度</source>
+        <translation type="unfinished">press + - Key to modify contranst</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiMsgBox</name>
+    <message>
+        <source>确认</source>
+        <translation type="finished">Ok</translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="finished">Cancel</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiObj</name>
+    <message>
+        <source>遥控持续时间</source>
+        <comment>CLcdWndBOTime</comment>
+        <translation type="finished">BO last time</translation>
+    </message>
+    <message>
+        <source>保存遥控持续时间失败!</source>
+        <comment>CLcdWndBOTime</comment>
+        <translation type="finished">Fail to save BO last time</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiPassChgBox</name>
+    <message>
+        <source>密码设置</source>
+        <translation type="finished">Password Set</translation>
+    </message>
+    <message>
+        <source>请输入原密码</source>
+        <translation type="finished">Old password</translation>
+    </message>
+    <message>
+        <source>请输入新密码</source>
+        <translation type="finished">New password</translation>
+    </message>
+    <message>
+        <source>按Enter保存， 按Esc取消</source>
+        <translation type="finished">Enter to save, Esc to cancel</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiPasswordBox</name>
+    <message>
+        <source>密码输入</source>
+        <translation type="finished">Password input</translation>
+    </message>
+    <message>
+        <source>请输入密码：</source>
+        <translation type="finished">password</translation>
+    </message>
+    <message>
+        <source>按Enter键确认 按Esc取消</source>
+        <translation type="finished">Enter to save, Esc to cancel</translation>
+    </message>
+</context>
+<context>
+    <name>CHmiStartDetailDlg</name>
+    <message>
+        <source>启动报告</source>
+        <translation type="finished">Start report</translation>
+    </message>
+    <message>
+        <source>动作时间</source>
+        <translation type="finished">Time</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndASModify</name>
+    <message>
+        <source>辅助定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>辅助定值保存失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改辅助定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要修改辅助定值?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读辅助定值错误!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>下限%.2f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>上限%.2f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>辅助定值修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AS1=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>下限: 000v</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>上限：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>辅助定值名称</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndASQuery</name>
+    <message>
+        <source>辅助定值查询</source>
+        <translation type="finished">As query</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndActionReport</name>
+    <message>
+        <source>动作报告</source>
+        <translation type="finished">action report</translation>
+    </message>
+    <message>
+        <source>读动作报告失败!</source>
+        <translation type="finished">fail to read action report</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndAddress</name>
+    <message>
+        <source>通讯地址</source>
+        <translation type="finished">address</translation>
+    </message>
+    <message>
+        <source>以太网地址</source>
+        <translation type="finished">Ip </translation>
+    </message>
+    <message>
+        <source>CAN网地址</source>
+        <translation type="finished">Can address</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndAddressSetting</name>
+    <message>
+        <source>以太网地址</source>
+        <translation type="unfinished">IP</translation>
+    </message>
+    <message>
+        <source>修改以太网地址失败!</source>
+        <translation type="unfinished">fail to modify ip </translation>
+    </message>
+    <message>
+        <source>确认</source>
+        <translation type="finished">ok</translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="finished">cancel</translation>
+    </message>
+    <message>
+        <source>192</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>168</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>111</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>116</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>200</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A网地址:</source>
+        <translation type="unfinished">NetA address</translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B网地址:</source>
+        <translation type="finished">NetB address</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndAlarmReport</name>
+    <message>
+        <source>告警报告</source>
+        <translation type="finished">Alaram report</translation>
+    </message>
+    <message>
+        <source>读告警报告失败!</source>
+        <translation type="finished">fail to read alarm report</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndAutoJustSetp2</name>
+    <message>
+        <source>校正系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>正在校正系数,
+请等待...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>自动系数整定step2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>电压(v)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>电流(A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>输入电压电流值 加相应电压电流</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按Enter开始整定</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>整定过程中不可取消</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndAutoJustStep1</name>
+    <message>
+        <source>校正系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>正在校正死区系数,
+请等待...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>自动系数整定step1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>需将供电方式设置为0,不加电</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>死区值校正:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按Enter开始校正</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按Esc返回上一级菜单</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>流电压,校正过程中不能取消</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndBIFilter</name>
+    <message>
+        <source>开入去抖</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入去抖时间保存失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改开入去抖时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要保存修改的内容?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥信去抖（单位：ms)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndBOTime</name>
+    <message>
+        <source>修改遥控保持时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要保存修改的内容?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥控保持时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndBiNot</name>
+    <message>
+        <source>BI属性修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>保存BI属性失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥信取反</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要保存遥信取反信息?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndCANAddress</name>
+    <message>
+        <source>CAN网地址</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改CAN网地址失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>装置地址:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndCF</name>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要修改系数?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>手动整定系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndDefaultPara</name>
+    <message>
+        <source>000000000000</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>恢复出厂设置失败!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>恢复出厂设置</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>恢复出厂设置失败!!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>密码验证失败!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>注意:本次操作需谨慎进行！！！</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>使用本功能将会使装置恢复至出</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>厂状态,当前定值及系数会丢失！</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>如要修改,输入密码后按下确认键</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>输入确认密码:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndInputSetting</name>
+    <message>
+        <source>SOE属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读取SOE属性失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入去抖时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读取开入去抖时间失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读取开入属性失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入设置</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥信去抖</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥信取反</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndLanTest</name>
+    <message>
+        <source>指示灯测试</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开始</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按Enter键进入指示灯测试，</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> 请查看指示灯....</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndMainMenu</name>
+    <message>
+        <source>请输入密码</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>请输入密码:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>测量</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>报告</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>压板</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>测试</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>关于</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系统</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>软压板</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读软压板数据失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>KF6570电铁综合测控装置</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndManualREC</name>
+    <message>
+        <source>手动录波测试</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按下Enter键手动触发一次录波</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>由于录波无返回信息,请不要反复</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按下Enter键</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndMeasure</name>
+    <message>
+        <source>一次侧测量值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>二次侧测量值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>二次谐波值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>电压电流相位</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>测量</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>二次侧谐波值</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndOperationReport</name>
+    <message>
+        <source>操作事项</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndOutputTest</name>
+    <message>
+        <source>开出传动</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>01</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1000</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>传动名称</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>输入传动路号</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>输入传动时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按Enter键执行传动</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndPassChange</name>
+    <message>
+        <source>管理员密码修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>普通密码修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>密码设置--菜单</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>普通密码</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>管理员密码</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndReport</name>
+    <message>
+        <source>报告</source>
+        <translation type="finished">report</translation>
+    </message>
+    <message>
+        <source>动作报告</source>
+        <translation type="finished">action report</translation>
+    </message>
+    <message>
+        <source>操作事项</source>
+        <translation type="finished">operation report</translation>
+    </message>
+    <message>
+        <source>告警报告</source>
+        <translation type="finished">alara report</translation>
+    </message>
+    <message>
+        <source>SOE事项</source>
+        <translation type="finished">SOE</translation>
+    </message>
+    <message>
+        <source>启动报告</source>
+        <translation type="finished">Start report</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndReportTest</name>
+    <message>
+        <source>模拟报告</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按Enter键产生一条模拟报告</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>仅用于通讯测试！</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSetting</name>
+    <message>
+        <source>输入密码</source>
+        <translation type="finished">Password</translation>
+    </message>
+    <message>
+        <source>定值</source>
+        <translation type="finished">Setting</translation>
+    </message>
+    <message>
+        <source>读辅助定值失败!</source>
+        <translation type="finished">fail to read as </translation>
+    </message>
+    <message>
+        <source>定值查询</source>
+        <translation type="finished">Setting query</translation>
+    </message>
+    <message>
+        <source>定值修改</source>
+        <translation type="finished">seting modify</translation>
+    </message>
+    <message>
+        <source>定值切换</source>
+        <translation type="finished">set switch</translation>
+    </message>
+    <message>
+        <source>定值复制</source>
+        <translation type="finished">set copy</translation>
+    </message>
+    <message>
+        <source>辅助定值查询</source>
+        <translation type="finished">as query</translation>
+    </message>
+    <message>
+        <source>辅助定值修改</source>
+        <translation type="finished">as modify</translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingChgAreaNumInput</name>
+    <message>
+        <source>定值修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读配置失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读定值失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值区号</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>要修改的定值区号</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前运行定值区号</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingCopy</name>
+    <message>
+        <source>确定要整区复制定值区%d到
+定值区%d-%d ?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值复制</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值区读取失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值区号设置错误!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值区%d-%d复制失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>请输入源定值区号：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>请输入目标定值区号：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>从</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>区到</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>区</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingModify</name>
+    <message>
+        <source>定值修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读定值信息失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改定值: %02d区</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>下限%.2f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>上限%.2f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值修改：1区</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IQD =</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>突变量启动定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>下限 0.0A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>上限10.0A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingQuery</name>
+    <message>
+        <source>定值查看：%d区</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值查询：1区  突变量定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingQueryAreaNumInput</name>
+    <message>
+        <source>定值查询</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>查询区号：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前运行区号：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingSave</name>
+    <message>
+        <source>定值保存</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>保存定值失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值固化</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>固化</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>放弃</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>请确认配置和定值</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>已经正确修改</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>是否固化？</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingSwitch</name>
+    <message>
+        <source>定值切换</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前定值区号：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>投入定值区号：</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSettingSwitchConfirm</name>
+    <message>
+        <source>定值切换</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值切换失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>定值切换确认</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确认</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前定值区号</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>投入定值区号</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSoeProperty</name>
+    <message>
+        <source>soe属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>保存soe属性失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改是否产生Soe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要保存修改的内容?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SOE属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSoeReport</name>
+    <message>
+        <source>SOE报告</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读SOE报告失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSoftSwitch</name>
+    <message>
+        <source>软压板</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>软压板投退失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>确定要投退软压板?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndStartReport</name>
+    <message>
+        <source>启动报告</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读启动报告失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSysSetting</name>
+    <message>
+        <source>设置</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读取遥控保持时间错误!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系统</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>通信地址</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>装置时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系统参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>密码设置</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开入设置</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系统语言</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>遥控时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndSysStatus</name>
+    <message>
+        <source>装置状态</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>箱内温度</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开出失效</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开出击穿</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>34</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ffffffff</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndTest</name>
+    <message>
+        <source>系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>读系数失败!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>测试</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>开出传动</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>测试指示灯</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>模拟报告</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>手动整定系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>装置状态</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>自动整定系数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>手动录波测试</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndconfigModify</name>
+    <message>
+        <source>注意</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>没有投入的定值,是否要继续</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>修改配置: %02d区</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>配置修改：1区</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndconfigQury</name>
+    <message>
+        <source>配置查看：%d区</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>配置查看：1区</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndsyspara</name>
+    <message>
+        <source>当前故障电量显示一次值
+
+要改为二次值吗?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>故障电量显示方式</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前故障电量显示二次值
+
+要改为一次值吗?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>输入密码</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>系统参数</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>液晶对比度调整</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>恢复出厂设置</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndtime</name>
+    <message>
+        <source>装置时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2008</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>12</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>01</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>13</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>17</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>年</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>月</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>时</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>分</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>秒</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>日</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLcdWndversion</name>
+    <message>
+        <source>未知</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>关于</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>校验码</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>abcd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>软件版本</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>硬件版本</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>逻辑版本</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>数据库版本</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>程序创建时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2010/07/26 10:07:25</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>程序编辑时间</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2010/07/26 10:26:25</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>COperationDetailDlg</name>
+    <message>
+        <source>操作事项</source>
+        <translation type="unfinished">operation report</translation>
+    </message>
+</context>
+<context>
+    <name>CSOEDetailDlg</name>
+    <message>
+        <source>开入</source>
+        <translation type="unfinished">iput</translation>
+    </message>
+    <message>
+        <source>合--&gt;分</source>
+        <translation type="unfinished">on-&gt;off</translation>
+    </message>
+    <message>
+        <source>分--&gt;合</source>
+        <translation type="unfinished">off-&gt;on</translation>
+    </message>
+</context>
+</TS>
